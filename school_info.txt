@@ -1,0 +1,3424 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://https://code.jquery.com/">
+<link rel="preconnect" href="https://dl.episerver.net/">
+<link rel="preconnect" href="https://s7.addthis.com">
+<link href="/static/collegedata/css/vendor/bootstrap.custom.min.css" rel="stylesheet" />
+<link href="/bundles/collegeProfileBndl.css?v=R1p6LyWwpwNKflFemgLZToOvxO81ETqFkmDfcmhYK6o1" rel="stylesheet" />
+<title>Abilene Christian University Admissions Information - CollegeData College Profile</title>
+<meta name="title" content="Abilene Christian University Admissions Information - CollegeData College Profile" />
+<meta property="og:title" content="Abilene Christian University Admissions Information - CollegeData College Profile" />
+<meta name="description" content="Abilene Christian University, comprehensive information on admission including admission requirements and deadlines, early and regular admission rates, GPAs and test scores of recently admitted freshmen, and more." />
+<meta property="og:description" content="Abilene Christian University, comprehensive information on admission including admission requirements and deadlines, early and regular admission rates, GPAs and test scores of recently admitted freshmen, and more." />
+<meta property="og:type" content="university" />
+<meta property="og:url" content="https://www.collegedata.com/en/college-profile/Abilene-Christian-University/?tab=profile-admission-tab" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="College Profile" />
+<meta property="og:site_name" content="CollegeData" />
+<meta name="WT.site" content="www.collegedata.com" />
+<meta name="WT.ti" content="Abilene%20Christian%20University %20Admission%20Information%20-%20CollegeData%20College%20Profile" />
+<meta name="WT.cg_n" content="College%20Profile;College%20Profile" />
+<meta name="WT.cg_s" content="College%20Profile%20Admission; Abilene%20Christian%20University" />
+<link rel="icon" type="image/png" href="/4ab274/siteassets/logos/cs-icon-16x16.png">
+<link rel="apple-touch-icon" href="/static/collegedata/images/apple-touch-icon.png" />
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"3b1447b8-fbe1-4a5a-9080-366a37378697",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script></head>
+<body class="l-body" data-off-canvas-breakpoint="992">
+<a href="#mainContent" class="skip-link">Skip to main content</a>
+<p class="print-logo">
+<img src="/static/collegedata/images/CS_logo_205x50_2019_08_26.svg" onerror="this.onerror=null; this.src='/static/collegedata/images/main-logo-print.png'" alt="">
+</p>
+<div class="l-surround">
+<header class="l-header" role="banner">
+<div class="l-header__elements container-fluid">
+<div class="l-header__bar slide-over-transition">
+
+<button class="l-off-canvas__toggler toggle-off-canvas toggle-hamburger d-md-none" type="button" aria-expanded="false" aria-controls="offCanvasArea" aria-label="Toggle Menu">
+<span class="toggle-hamburger__wrapper">
+<span class="toggle-hamburger__bun"></span>
+<span class="toggle-hamburger__bun"></span>
+<span class="toggle-hamburger__bun"></span>
+</span>
+</button>
+
+<a class="l-logo l-logo--main" href="/en/">
+<img src="/static/collegedata/images/CS_logo_205x50_2019_08_26.svg" alt="College data, your online college advisor.">
+</a>
+
+<button class="l-search-btn d-md-none" type="button" data-toggle="collapse" data-target="#collapseSearchMobile" aria-expanded="false" aria-controls="collapseSearchMobile">
+<span class="sr-only">Search</span>
+</button>
+
+<div class="l-search-collapse collapse d-md-none" id="collapseSearchMobile">
+<form id="searchmobileviewformelem" action="/en/search/" method="GET">
+<div class="l-search-collapse__helper">
+
+<div class="search-tools">
+<div class="input-group">
+<div class="input-group-prepend" id="search-college-dropdownmenu-mobile">
+<button id="collegeDataSitesearchCatElem" class="search-college__toggler btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-placeholder="Enter college name or click the ▼" aria-controls="search_enter_collegename">
+<img src="/static/collegedata/images/college.png" alt="" style="width: 17px; height: 16px;">
+<span class="sr-only">Colleges</span>
+</button>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item" href="#" data-placeholdertxt="Enter a topic you want advice on" role=menuitem>
+<label class="dropdown-iconlink" for="SearchMobileFormArticles">
+<img src="/static/collegedata/images/icon-articles@2x.png" class="dropdown-iconlink__icon search_dropdown_mobelem" alt="">
+Articles
+<input class="d-none search_radio_mobelem" type="radio" name="searchTyperadioelem" value="Articles">
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholdertxt="Enter a college name or topic" role=menuitem>
+<label class="dropdown-iconlink" for="SearchMobileFormStudentStories">
+<img src="/static/collegedata/images/student_stories.png" class="dropdown-iconlink__icon search_dropdown_mobelem" alt="">
+Student Stories
+<input class="d-none search_radio_mobelem" type="radio" name="searchTyperadioelem" value="StudentStories">
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholdertxt="Enter college name or click the ▼" role=menuitem>
+<label class="dropdown-iconlink" for="SearchMobileFormCollege">
+ <img src="/static/collegedata/images/college.png" class="dropdown-iconlink__icon search_dropdown_mobelem" alt="">
+Colleges
+<input class="d-none search_radio_mobelem" type="radio" name="searchTyperadioelem" value="CollegeName">
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholdertxt="Enter keywords that describe you">
+<label class="dropdown-iconlink" for="SearchMobileFormScholarships">
+<img src="/static/collegedata/images/scholarship.png" class="dropdown-iconlink__icon search_dropdown_mobelem" alt="">
+Scholarships
+<input class="d-none search_radio_mobelem" type="radio" name="searchTyperadioelem" value="Scholarships">
+</label>
+</a>
+</div>
+</div>
+<label class="sr-only" for="SearchPageForm_Query" id="SearchMobileFormQuerylbl">Enter college name or click the ▼</label>
+<input aria-label="Text input with dropdown button" class="form-control" id="SearchPageForm_Query" name="SearchPageForm.Query" placeholder="Enter college name or click the ▼" type="text" value="" />
+<input class="form-control" id="SearchPageForm_SearchType" name="SearchPageForm.SearchType" type="hidden" value="" />
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+<div class="l-off-canvas slide-over-transition" id="offCanvasArea" aria-labelledby="offCanvasTitle">
+<div class="l-off-canvas__helper">
+<span class="sr-only" id="offCanvasTitle">Site navigation</span>
+
+<a class="l-logo l-logo--off-canvas mb-2 d-md-none" href="">
+<img src="/static/collegedata/images/CS_logo_205x50_2019_08_26.svg" alt="College data, your online college advisor.">
+</a>
+
+<button class="l-off-canvas__close toggle-off-canvas mb-4" type="button" aria-expanded="false" aria-controls="offCanvasArea" aria-label="Close site navigation"></button>
+
+
+<div class="nav-user-mobile-parking">
+<ul id="nav-user-id" class="nav-user nav-user--logged-in clearfix mb-3 mt-2" style="display: none;">
+<li id="notLoggedInSignUpLink">
+<a class="hdrSignupLinkElem" href="/en/sign-up/">Sign Up</a>
+</li>
+<li id="notLoggedInMobileLogInLink" class="d-md-none">
+<a href="/en/login/">Log In</a>
+</li>
+<li id="notLoggedInDesktopLogInLink" class="dropdown d-none d-md-inline-block">
+<a class="dropdown-toggle hdrloginlinkelemclass" href="#" role="button" id="loginDropdownLink" data-toggle="dropdown" aria-expanded="false">
+Log In
+<img class="nav-user__icon-triangle-down" src="/static/collegedata/images/icon-triangle-down-blue.svg" alt="">
+</a>
+<div class="dropdown-menu dropdown-menu-right dropdown-menu--fixed-width" aria-labelledby="loginDropdownLink">
+<div class="container p-4">
+<form class="mb-3" action="/en/login/Submit/" method="post">
+<input class="js-login-with-email" data-val="true" data-val-required="&#39;LoginWithEmail&#39; must not be empty." id="LoginForm_LoginWithEmail" name="LoginForm.LoginWithEmail" type="hidden" value="True" />
+<div style="display: none; color: red;" id="LoginformBadLogin">
+Your login details do not match our records. Please re-enter
+</div>
+<div class="js-username" style="display: none;">
+<div class="form-group">
+<label for="LoginForm_Username" id="LoginUsername">User Name</label>
+<input class="form-control form-control-lg" id="LoginUsername" maxlength="50" name="LoginForm.Username" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Username" data-valmsg-replace="true"></span>
+</div>
+<p><a href="#" class="js-email-toggle" onclick="$('.js-username').hide(); $('.js-email').show(); $('.js-login-with-email').val('true');">Log in with Email</a></p>
+</div>
+<div class="js-email">
+<div class="form-group">
+<label for="LoginForm_Email" id="LoginEmail">E-mail Address</label>
+<input class="form-control form-control-lg" id="LoginEmail" maxlength="50" name="LoginForm.Email" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Email" data-valmsg-replace="true"></span>
+</div>
+<p><a href="#" class="js-email-toggle" onclick="$('.js-email').hide(); $('.js-username').show(); $('.js-login-with-email').val('false');">Log in with Username</a></p>
+</div>
+<div class="form-group mb-3">
+<label for="LoginForm_Password" id="LoginPassword">Password</label>
+<input class="form-control form-control-lg" data-val="true" data-val-required="You must enter your password." id="LoginPassword" maxlength="25" name="LoginForm.Password" type="password" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Password" data-valmsg-replace="true"></span>
+</div>
+<input id="DataLockerLoginCanonicalUrl" name="LoginForm.CanonicalUrl" type="hidden" value="/college/Abilene-Christian-University/?tab=profile-admission-tab" />
+<button class="btn btn-primary w-100" type="submit" name="button">Log in</button>
+</form>
+<a href="/en/forgot-log-in/">Forgot your log in details?</a>
+</div>
+</div>
+</li>
+<li id="loggedInWelcomeLink" class="dropdown d-inline">
+<a class="btn btn-link dropdown-toggle font-weight-normal" href="#" role="button" id="welcomeDropdownLink" data-toggle="dropdown" aria-expanded="false">
+Welcome <span id="userFirstName"></span>
+<img class="nav-user__icon-triangle-down" src="/static/collegedata/images/icon-triangle-down-blue.svg" alt="">
+</a>
+<div id="loggedInWelcomeDropdown" class="dropdown-menu dropdown-menu-right dropdown-menu--fixed-width" aria-labelledby="welcomeDropdownLink">
+<div class="p-2 pt-3 pb-3">
+<ul class="nav-user__list">
+<li>
+<a href="#" data-toggle="modal" data-target="#dataLockerModal" id="csDataLockerElemId">
+<span class="sr-only">Opens a modal dialog</span>
+<img class="nav-user__icon-locker" src="/static/collegedata/images/icon-locker-blue.svg" alt="">
+My Data Locker
+</a>
+</li>
+<li>
+<span class="nav-user__heading">My Profile</span>
+</li>
+<li>
+<a href="/en/data-locker/my-admissions-profile/">My Admissions Profile</a>
+</li>
+<li>
+<span class="nav-user__heading">My Content</span>
+</li>
+<li>
+<a href="/en/data-locker/my-admissions-profile/">My Admissions Profile</a>
+</li>
+<li>
+<a href="/en/data-locker/saved-colleges/">Saved Colleges</a>
+</li>
+<li>
+<a href="/en/data-locker/saved-scholarships/">Saved Scholarships</a>
+</li>
+<li>
+<a href="/en/data-locker/saved-searches/">Saved Searches</a>
+</li>
+<li>
+<a href="/en/data-locker/saved-admissions-profiles/">Saved Admissions Profiles</a>
+</li>
+<li>
+<a href="/en/data-locker/saved-articles/">Saved Articles</a>
+</li>
+<li>
+<span class="nav-user__heading">My Settings</span>
+</li>
+<li>
+<a href="/en/data-locker/change-password/">Change Password</a>
+</li>
+<li>
+<a href="/en/data-locker/update-my-account/">Update Account</a>
+</li>
+<li>
+<a href="/en/login/Logout/?canonicalUrl=/college/Abilene-Christian-University/?tab=profile-admission-tab" id="cSLogoutElemId">Sign Out</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<nav class="nav-main nav-main--large mln mln--navbar" id="navMainLarge" data-mln-breakpoint="768" aria-label="Main Navigation">
+<ul class="mln__list">
+<li class="d-md-none">
+<a href="#">My Data Locker</a>
+
+<h3>My Datalocker</h3>
+<ul>
+<li><a href="/en/data-locker/my-admissions-profile/">My Admissions Profile</a></li>
+<li><a href="/en/data-locker/saved-colleges/">Saved Colleges</a></li>
+<li><a href="/en/data-locker/saved-scholarships/">Saved Scholarships</a></li>
+<li><a href="/en/data-locker/saved-searches/">Saved Searches</a></li>
+<li><a href="/en/data-locker/saved-admissions-profiles/">Saved Admissions Profiles</a></li>
+<li><a href="/en/data-locker/saved-articles/">Saved Articles</a></li>
+</ul>
+</li>
+<li>
+<a href="/en/explore-colleges/">Explore Colleges</a>
+<ul class="mln__child__list">
+<li>
+<span class="nav-main__heading">Tools</span>
+</li>
+<li>
+<a href="/en/explore-colleges/">College Match</a>
+</li>
+<li>
+<span class="nav-main__heading">Featured Articles</span>
+</li>
+<li>
+<a href="/en/explore-colleges/the-road-to-college/">The Road to College</a>
+</li>
+<li>
+<a href="/en/explore-colleges/the-facts-on-fit/">The Facts on Fit</a>
+</li>
+<li>
+<a href="/en/explore-colleges/explore-your-options/">Explore Your Options</a>
+</li>
+</ul>
+<div class="mln__child__mega-menu">
+<div class="ui-wysiwyg">
+<h3><a href="/en/explore-colleges/">Explore Colleges</a></h3>
+<p>How do you find the right colleges for you? Explore Colleges can guide you through the college search process. Find colleges that are a good fit for you, develop your college search strategy, and explore colleges with College Match.</p>
+<p>
+<a class="link__with-arrow" href="/en/explore-colleges/">
+Click here to Explore Colleges
+</a>
+</p>
+<hr>
+<div class="mega-menu__2-col-bordered row row-flex">
+<div class="col-md-6">
+<h4>Expert Advice</h4>
+<div class="row tabcontentblock custom_tabs_container" id="tab_ExploreColleges">
+<div role="tablist" aria-label="" class="col-6 custom_tabs" id="megaMenuTabs_ExploreColleges">
+<a role="tab" data-toggle="tab" href="#TheRoadtoCollege-tab" aria-selected="true" aria-controls="TheRoadtoCollege-tab" id="tag-1759" class="tab tab-link nav-link active" tabindex="0">The Road to College</a>
+<a role="tab" data-toggle="tab" href="#TheFactsonFit-tab" aria-selected="false" aria-controls="TheFactsonFit-tab" id="tag-1766" class="tab tab-link nav-link" tabindex="-1">The Facts on Fit</a>
+<a role="tab" data-toggle="tab" href="#ExploreYourOptions-tab" aria-selected="false" aria-controls="ExploreYourOptions-tab" id="tag-1767" class="tab tab-link nav-link" tabindex="-1">Explore Your Options</a>
+</div>
+<div role="tabpanel" id="TheRoadtoCollege-tab" aria-labelledby="tag-1759" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Highway sign pointing to college" src="/4ab282/siteassets/article-images/explore-colleges/the-road-to-college/road-to-college_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>As you begin to think seriously about college, it will help to understand why you are going to college, the milestones along the way, and what it will be like when you get there.</p>
+</div>
+<a href="/en/explore-colleges/#section1759" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="TheFactsonFit-tab" aria-labelledby="tag-1766" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Find the right fit for college" src="/4ab29e/siteassets/article-images/explore-colleges/the-facts-on-fit/the-facts-on-fit_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>To find colleges that are a good fit, you need to learn about the factors that can influence your experience in and out of the classroom. Develop your personal list of college search criteria to find the best colleges for you.</p>
+</div>
+<a href="/en/explore-colleges/#section1766" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="ExploreYourOptions-tab" aria-labelledby="tag-1767" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Student exploring his surroundings" src="/4ab2af/siteassets/article-images/explore-colleges/explore-your-options/explore-colleges_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>A better search strategy will give you better results! Whether you want information about colleges you think are a good fit, or you want to find new colleges that are right for you, we have the tips to get you started and the tools to finish the job.</p>
+</div>
+<a href="/en/explore-colleges/#section1767" class="btn btn-primary">Read More</a>
+</div>
+</div>
+</div>
+<div class="accordion d-none d-md-block d-lg-none" id="aft-0b30003c-cc1e-4e1d-988d-d1eb5fe4bb1c">
+<div class="accordion d-none d-md-block d-lg-none"><div class="card card--accordion"></div><div class="card card--accordion"></div><div class="card card--accordion"></div></div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-lg-6 mb-3 md-lg-0"><div class="mega-menu__wysiwyg">
+<h4>Tools</h4>
+<p><img src="/4abd35/siteassets/icons/icon-collegematch.svg" alt="icon-CollegeMatch.svg" width="30" height="30" />&nbsp;<strong>COLLEGE MATCH</strong></p>
+<p>Use the College Match college search engine to find the right colleges for you.</p>
+<p><a href="/en/explore-colleges/college-search/"><button class="btn btn-primary">Search for Colleges</button></a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/en/prepare-and-apply/">Prepare &amp; Apply</a>
+<ul class="mln__child__list">
+<li>
+<span class="nav-main__heading">Tools</span>
+</li>
+<li>
+<a href="">College Chances</a>
+</li>
+<li>
+<a href="/en/prepare-and-apply/admissions-tracker/">Admissions Tracker</a>
+</li>
+<li>
+<a href="">Common Application</a>
+</li>
+<li>
+<span class="nav-main__heading">Featured Articles</span>
+</li>
+<li>
+<a href="/en/prepare-and-apply/strengthen-your-chances/">Strengthen Your Chances</a>
+</li>
+<li>
+<a href="/en/prepare-and-apply/apply-yourself/">Apply Yourself</a>
+</li>
+</ul>
+<div class="mln__child__mega-menu">
+<div class="ui-wysiwyg">
+<h3><a href="/en/prepare-and-apply/">Prepare &amp; Apply</a></h3>
+<p>To successfully apply and get into college, you need to know what colleges are looking for. Prepare &amp; Apply can help you improve your college admission chances and develop your strategy to become the ideal applicant.</p>
+<p>
+<a class="link__with-arrow" href="/en/prepare-and-apply/">
+Click here to Prepare &amp; Apply
+</a>
+</p>
+<hr>
+<div class="mega-menu__2-col-bordered row row-flex">
+<div class="col-md-6">
+<h4>Expert Advice</h4>
+ <div class="row tabcontentblock custom_tabs_container" id="tab_PrepareApply">
+<div role="tablist" aria-label="" class="col-6 custom_tabs" id="megaMenuTabs_Prepare&amp;Apply">
+<a role="tab" data-toggle="tab" href="#StrengthenYourChances-tab" aria-selected="true" aria-controls="StrengthenYourChances-tab" id="tag-2301" class="tab tab-link nav-link active" tabindex="0">Strengthen Your Chances</a>
+<a role="tab" data-toggle="tab" href="#ApplyYourself-tab" aria-selected="false" aria-controls="ApplyYourself-tab" id="tag-2304" class="tab tab-link nav-link" tabindex="-1">Apply Yourself</a>
+</div>
+<div role="tabpanel" id="StrengthenYourChances-tab" aria-labelledby="tag-2301" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Young girl flexing her muscles" src="/4ab2d9/siteassets/article-images/prepare--apply/strengthen-your-chances/strengthen-your-chances_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Learn about the qualities colleges value, how to strengthen your preparation, plus everything you need to know about the PSAT, SAT, and ACT.</p>
+</div>
+<a href="/en/prepare-and-apply/#section2301" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="ApplyYourself-tab" aria-labelledby="tag-2304" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Student sitting in front of his laptop in the library" src="/4ab2e5/siteassets/article-images/prepare--apply/apply-yourself/apply-yourself-3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>When you apply to college, planning and attention to detail really matter! Check out our advice on getting organized, how to make your college applications stand out, and what to do when decisions arrive.</p>
+</div>
+<a href="/en/prepare-and-apply/#section2304" class="btn btn-primary">Read More</a>
+</div>
+</div>
+</div>
+<div class="accordion d-none d-md-block d-lg-none" id="aft-67872fb6-6b7a-4e4f-bef9-bec6293dc8fc">
+<div class="accordion d-none d-md-block d-lg-none"><div class="card card--accordion"></div><div class="card card--accordion"></div></div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-lg-6 mb-3 md-lg-0"><div class="mega-menu__wysiwyg">
+<h4>Tools</h4>
+<p><span class="btn-tool with-icon no-border"><img src="/4abd02/siteassets/icons/icon-collegechances.svg" alt="" width="20" height="20" />&nbsp;<strong>COLLEGE CHANCES</strong></span></p>
+<p>Will you get in? Find out! Estimate your admission chances at any college and see how to improve your odds.</p>
+<p><a href="/en/prepare-and-apply/college-chances/"><button class="btn btn-primary">Calculate Your Chances</button></a></p>
+</div><div class="mega-menu__wysiwyg">
+<h5>&nbsp;</h5>
+<p><span class="btn-tool with-icon no-border"><img src="/4abb94/siteassets/icons/icon-admissionstracker.svg" alt="" width="30" height="30" /><strong> ADMISSIONS TRACKER</strong></span></p>
+<p>See who got in, who's applying, and how you compare! Get an inside look at real student profiles and decisions.</p>
+<p><a href="/en/prepare-and-apply/admissions-tracker/"><button class="btn btn-primary">See How You Compare</button></a></p>
+</div></div>
+<div class="col-md-6"><div class="mega-menu__wysiwyg">
+<h4>Guides</h4>
+<p><strong>THE COMMON APPLICATION</strong></p>
+<p>Our at-a-glance guide makes it easy to see the colleges that accept the Common Application, plus deadlines, fees, and supplements required.</p>
+<p><a href="/en/prepare-and-apply/common-application-guide/">Get the Common Application Guide</a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/en/pay-your-way/">Pay Your Way</a>
+<ul class="mln__child__list">
+<li>
+<span class="nav-main__heading">Tools</span>
+</li>
+<li>
+<a href="/en/pay-your-way/compare-awards/">Compare Awards</a>
+</li>
+<li>
+<a href="/en/pay-your-way/financial-aid-tracker/">Financial Aid Tracker</a>
+</li>
+<li>
+<a href="/en/pay-your-way/efc-calculator/">EFC Calculator</a>
+ </li>
+<li>
+<a href="/en/pay-your-way/scholarship-finder/">Scholarship Finder</a>
+</li>
+<li>
+<a href="/en/pay-your-way/net-price-calculator/">Net Price Calculator</a>
+</li>
+<li>
+<span class="nav-main__heading">Featured Articles</span>
+</li>
+<li>
+<a href="/en/pay-your-way/college-sticker-shock/">College Sticker Shock</a>
+</li>
+<li>
+<a href="/en/pay-your-way/all-about-financial-aid/">All About Financial Aid</a>
+</li>
+<li>
+<a href="/en/pay-your-way/paying-for-college/">Paying for College</a>
+</li>
+<li>
+<a href="/en/pay-your-way/scholarship-smarts/">Scholarship Smarts</a>
+</li>
+</ul>
+<div class="mln__child__mega-menu">
+<div class="ui-wysiwyg">
+<h3><a href="/en/pay-your-way/">Pay Your Way</a></h3>
+<p>Pay Your Way has advice to help you pay for college and get more financial aid. Use the EFC and Net Price calculators to estimate your financial aid and college costs. Use the Compare Awards tool to see which college offers the best deal.</p>
+<p>
+<a class="link__with-arrow" href="/en/pay-your-way/">
+Click here to Pay Your Way
+</a>
+</p>
+<hr>
+<div class="mega-menu__2-col-bordered row row-flex">
+<div class="col-md-6">
+<h4>Expert Advice</h4>
+<div class="row tabcontentblock custom_tabs_container" id="tab_PayYourWay">
+<div role="tablist" aria-label="" class="col-6 custom_tabs" id="megaMenuTabs_PayYourWay">
+<a role="tab" data-toggle="tab" href="#CollegeStickerShock-tab" aria-selected="true" aria-controls="CollegeStickerShock-tab" id="tag-2316" class="tab tab-link nav-link active" tabindex="0">College Sticker Shock</a>
+<a role="tab" data-toggle="tab" href="#AllAboutFinancialAid-tab" aria-selected="false" aria-controls="AllAboutFinancialAid-tab" id="tag-2320" class="tab tab-link nav-link" tabindex="-1">All About Financial Aid</a>
+<a role="tab" data-toggle="tab" href="#PayingforCollege-tab" aria-selected="false" aria-controls="PayingforCollege-tab" id="tag-2326" class="tab tab-link nav-link" tabindex="-1">Paying for College</a>
+<a role="tab" data-toggle="tab" href="#ScholarshipSmarts-tab" aria-selected="false" aria-controls="ScholarshipSmarts-tab" id="tag-2330" class="tab tab-link nav-link" tabindex="-1">Scholarship Smarts</a>
+</div>
+<div role="tabpanel" id="CollegeStickerShock-tab" aria-labelledby="tag-2316" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Young male student looking shocked" src="/4ab2ff/siteassets/article-images/pay-your-way/1.-college-sticker-shock/college-sticker-shock.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Tuition is only part of the cost of college. Learn about the other expenses, why it's important to look past the "sticker" price, and how to find financially friendly colleges and get merit aid.</p>
+</div>
+<a href="/en/pay-your-way/#section2316" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="AllAboutFinancialAid-tab" aria-labelledby="tag-2320" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="" src="/4ab9ea/siteassets/article-images/pay-your-way/2.-all-about-financial-aid/financial-aid_3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Get the facts on college financial aid, including how to qualify, how to apply, how to get the most aid, and how to analyze your awards.</p>
+</div>
+<a href="/en/pay-your-way/#section2320" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="PayingforCollege-tab" aria-labelledby="tag-2326" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Jar filled with money for college" src="/4ab334/siteassets/article-images/pay-your-way/3.-paying-for-college/paying-for-college_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Learn about short- and long-term strategies to pay for college and how financial aid fits in.</p>
+</div>
+<a href="/en/pay-your-way/#section2326" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="ScholarshipSmarts-tab" aria-labelledby="tag-2330" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Young female student holding books looking excited" src="/4ab346/siteassets/article-images/pay-your-way/4.-scholarship-smarts/scholarship-smarts-3.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Scholarships are not just about academics. Learn how to find scholarships you are eligible for, create winning scholarship applications, and watch out for scholarships scams.</p>
+</div>
+<a href="/en/pay-your-way/#section2330" class="btn btn-primary">Read More</a>
+</div>
+</div>
+</div>
+<div class="accordion d-none d-md-block d-lg-none" id="aft-46ef6316-c68e-487e-86cb-9c8eb4fe9e0e">
+<div class="accordion d-none d-md-block d-lg-none"><div class="card card--accordion"></div><div class="card card--accordion"></div><div class="card card--accordion"></div><div class="card card--accordion"></div></div>
+</div>
+</div>
+ <div class="col-md-6">
+<div class="row">
+<div class="col-lg-6 mb-3 md-lg-0"><div class="mega-menu__wysiwyg">
+<h4>Tools</h4>
+<p><img src="/4abdb6/siteassets/icons/icon-compareawards.svg" alt="" width="33" height="30" />&nbsp;<strong>COMPARE AWARDS</strong></p>
+<p>Which financial aid award is best? See which college offers the best deal and why.</p>
+<p><a href="/en/pay-your-way/compare-awards/"><button class="btn btn-primary">Compare Your Awards</button></a></p>
+</div><div class="mega-menu__wysiwyg">
+<p>&nbsp;</p>
+<p><img src="/4aba06/siteassets/icons/icon-financialaidtracker2.svg" width="30" height="30" />&nbsp;<strong>FINANCIAL AID TRACKER</strong></p>
+<p>Who's getting financial aid and how do you compare? View real financial aid awards and see how much students like you received at any college.</p>
+<p><a href="/en/pay-your-way/financial-aid-tracker/"><button class="btn btn-primary">See How You Stack Up</button></a></p>
+</div><div class="mega-menu__wysiwyg">
+<h5>&nbsp;</h5>
+<p><img src="/4ab937/siteassets/icons/efc_calculator_icon.svg" alt="" width="27" height="38" />&nbsp;<strong>EFC CALCULATOR</strong></p>
+<p>Calculate your Expected Family Contribution to see how much colleges expect you to pay.</p>
+<p><a href="/en/pay-your-way/efc-calculator/"><button class="btn btn-primary">Calculate Your EFC</button></a></p>
+</div></div>
+<div class="col-md-6"><div class="mega-menu__wysiwyg">
+<p>&nbsp;</p>
+<p><img src="/4aba3b/siteassets/icons/icon-scholarshipfinder.svg" alt="" width="30" height="30" />&nbsp;<strong>SCHOLARSHIP FINDER</strong></p>
+<p>Find money for college! Search 595,000 awards worth more than $4.5 billion.</p>
+<p><a href="/en/pay-your-way/scholarship-finder/"><button class="btn btn-primary">Search for Scholarships</button></a></p>
+</div><div class="mega-menu__wysiwyg">
+<p>&nbsp;</p>
+<p><img src="/4ababf/siteassets/icons/net_price_calculator_icon.svg" alt="" width="21" height="20" /> <strong>NET PRICE CALCULATOR</strong></p>
+<p>What will college really cost? Uncover your true out-of-pocket cost to attend any college.</p>
+<p><a href="/en/pay-your-way/net-price-calculator/"><button class="btn btn-primary">Calculate Your Net Price</button></a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/en/college-buzz/">College Buzz</a>
+<ul class="mln__child__list">
+<li>
+<span class="nav-main__heading">Tools</span>
+</li>
+<li>
+<a href="">Student Stories</a>
+</li>
+<li>
+<a href="/en/college-buzz/resources-for-counselors/">Resources for Counselors</a>
+</li>
+<li>
+<span class="nav-main__heading">Featured Articles</span>
+</li>
+<li>
+<a href="/en/college-buzz/money-matters/">Money Matters</a>
+</li>
+<li>
+<a href="/en/college-buzz/campus-life/">Campus Life</a>
+</li>
+<li>
+<a href="/en/college-buzz/transfer-students/">Transfer Students</a>
+</li>
+<li>
+<a href="/en/college-buzz/study-abroad-during-college/">Study Abroad During College</a>
+</li>
+</ul>
+<div class="mln__child__mega-menu">
+<div class="ui-wysiwyg">
+<h3><a href="/en/college-buzz/">College Buzz</a></h3>
+<p>Check out College Buzz for personal stories of students on the road to college, plus tips on transferring, studying abroad, and managing your money, your time and your life once you get to college!</p>
+<p>
+<a class="link__with-arrow" href="/en/college-buzz/">
+Click here to College Buzz
+</a>
+</p>
+<hr>
+<div class="mega-menu__2-col-bordered row row-flex">
+<div class="col-md-6">
+<h4>Expert Advice</h4>
+<div class="row tabcontentblock custom_tabs_container" id="tab_CollegeBuzz">
+<div role="tablist" aria-label="" class="col-6 custom_tabs" id="megaMenuTabs_CollegeBuzz">
+<a role="tab" data-toggle="tab" href="#MoneyMatters-tab" aria-selected="true" aria-controls="MoneyMatters-tab" id="tag-2336" class="tab tab-link nav-link active" tabindex="0">Money Matters</a>
+<a role="tab" data-toggle="tab" href="#CampusLife-tab" aria-selected="false" aria-controls="CampusLife-tab" id="tag-2337" class="tab tab-link nav-link" tabindex="-1">Campus Life</a>
+<a role="tab" data-toggle="tab" href="#TransferStudents-tab" aria-selected="false" aria-controls="TransferStudents-tab" id="tag-2339" class="tab tab-link nav-link" tabindex="-1">Transfer Students</a>
+<a role="tab" data-toggle="tab" href="#StudyAbroadDuringCollege-tab" aria-selected="false" aria-controls="StudyAbroadDuringCollege-tab" id="tag-2340" class="tab tab-link nav-link" tabindex="-1">Study Abroad During College</a>
+</div>
+<div role="tabpanel" id="MoneyMatters-tab" aria-labelledby="tag-2336" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Jar filled with money for college" src="/4ab35e/siteassets/article-images/college-buzz/money-matters/paying-for-college.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>To live well at college, you'll need to manage your money wisely. Find out how, including ways to spend less and manage debt, plus everything you need to know about banking options for students.</p>
+</div>
+<a href="/en/college-buzz/#section2336" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="CampusLife-tab" aria-labelledby="tag-2337" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Group of students walking together on a college campus" src="/4ab35a/siteassets/article-images/college-buzz/campus-life/campus-life_5.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>There's a lot more to college than classes. Learn more about exploring opportunities outside of the classroom, staying on track, and living in the dorm.</p>
+</div>
+<a href="/en/college-buzz/#section2337" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="TransferStudents-tab" aria-labelledby="tag-2339" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="" src="/4ab940/siteassets/article-images/college-buzz/transfer-students/transfer-students_2.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Changing colleges is a big decision! Find out how to decide, what you need to know to apply and pay for college as a transfer, and how to get a good start at your new school.</p>
+</div>
+<a href="/en/college-buzz/#section2339" class="btn btn-primary">Read More</a>
+</div>
+</div>
+<div role="tabpanel" id="StudyAbroadDuringCollege-tab" aria-labelledby="tag-2340" class="tab-pane fade show active col-6" tabindex="0">
+<div class="mega-menu__wysiwyg">
+<picture><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?format=webp&width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?format=webp&width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?format=webp&width=1&mode=crop&heightratio=0.6&quality=80 1w" type="image/webp" /><source sizes="(max-width: 768px) 1px, (max-width: 1092px) 193px, 275px" srcset="/4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?width=275&mode=crop&heightratio=0.6&quality=80 275w, /4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?width=193&mode=crop&heightratio=0.6&quality=80 193w, /4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?width=1&mode=crop&heightratio=0.6&quality=80 1w" /><img alt="Female student in front of Italian monument" src="/4ab387/siteassets/article-images/college-buzz/study-abroad-in-college/study-abroad.jpg?width=275&mode=crop&heightratio=0.6&quality=80" /></picture>
+<div>
+<p>Study abroad programs are not all created equal. Here are tips for finding the right colleges with the right programs.</p>
+</div>
+<a href="/en/college-buzz/#section2340" class="btn btn-primary">Read More</a>
+</div>
+</div>
+</div>
+<div class="accordion d-none d-md-block d-lg-none" id="aft-0c909ad6-fc2f-4bd4-aa0f-11340a875a4f">
+<div class="accordion d-none d-md-block d-lg-none"><div class="card card--accordion"></div><div class="card card--accordion"></div><div class="card card--accordion"></div><div class="card card--accordion"></div></div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-lg-6 mb-3 md-lg-0"><div class="mega-menu__wysiwyg">
+<h4>True Stories from Students on the Road to College</h4>
+<p>Real life happens here! See what real students have to say about the ups and downs of getting into college and what college life is like.</p>
+<p><a href="/en/stories/student-stories-2021/camilla/">See Student Stories</a></p>
+</div></div>
+<div class="col-md-6"><div class="mega-menu__wysiwyg">
+<h4>Resources for Counselors</h4>
+<p>CollegeData is committed to helping students and families make the right decisions about college, just like you.</p>
+<p><a href="/en/college-buzz/resources-for-counselors/">Counselor Portal</a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+
+<div class="nav-user-desktop-parking"></div>
+ </nav>
+
+<ul class="nav-utility list-unstyled d-md-none">
+<li>
+<a href="/en/college-buzz/resources-for-counselors/">Resource for Counselors</a>
+</li>
+<li>
+<a href="/en/help/">Help</a>
+</li>
+<li>
+<a href="/en/contact-us/">Contact Us</a>
+</li>
+<li>
+<a href="/en/login/Logout/?canonicalUrl=/">Sign Out</a>
+</li>
+</ul>
+
+<div class="nav-students mln mb-3 d-md-none" id="students18AndOlder">
+<ul class="mln__list">
+<li>
+<a href="#">
+<img src="/static/collegedata/images/service-of-1fb-logo.png" alt="CollegeData is a Service of 1st Financial Bank">
+</a>
+
+<div class="mln__child__mega-menu nav-students-mobile-parking">
+<div class="nav-students__content ui-wysiwyg small">
+<table style="height: 180px;" width="303">
+<tbody>
+<tr>
+<td colspan="2" width="282">
+<h4>For Students Age 18 and Older</h4>
+</td>
+</tr>
+<tr>
+<td width="162">
+<p>Have you received a Personal Invitation to apply for a Student Credit card?</p>
+</td>
+<td>&nbsp;&nbsp; <a href="https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=arsenallandingcd" target="_blank" rel="noopener">Click here</a></td>
+</tr>
+<tr>
+<td width="162">
+<p>Learn how to qualify for a Personal Invitation to apply for a Student Credit Card</p>
+</td>
+<td>&nbsp;&nbsp; <a href="https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=ilg-arsenal&amp;sent_from=F" target="_blank" rel="noopener">Click here</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="row m-t-8 m-b-8">
+<div class="col-xs-12 text-center">
+<p class="f-s-12 base-board-believes">1st Financial Bank believes students who pick colleges wisely will also want to learn how to use credit cards wisely.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="nav-social d-md-none">
+<a href="https://www.facebook.com/CollegeData/" class="social-icon" target="_blank" rel="nofollow">
+<span class="sr-only">Like on Facebook</span>
+<span class="fas fa-thumbs-up"></span>
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/" class="social-icon" target="_blank" rel="nofollow">
+<span class="sr-only">Share on Twitter</span>
+<span class="fab fa-twitter"></span>
+</a>
+<a href="https://www.pinterest.com/collegedata/" class="social-icon" target="_blank" rel="nofollow">
+<span class="sr-only">Pin on Pinterest</span>
+<span class="fab fa-pinterest-p"></span>
+</a>
+<a href="https://www.instagram.com/collegedata/?ref=badge" class="social-icon" target="_blank" rel="nofollow">
+<span class="sr-only">Share on Instagram</span>
+<span class="fab fa-instagram"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="l-canvas slide-over-transition space-btm-lg">
+<div class="container-fluid d-none d-md-block">
+<div class="sub-header">
+
+<nav class="breadcrumb-wrap" aria-label="breadcrumb">
+<ol class="breadcrumb">
+<li class="breadcrumb-item">
+<a href="/en/"><img src="/static/collegedata/images/icon-home.svg" alt="Home"></a>
+</li>
+<li class="breadcrumb-item active" aria-current="page">College Profile</li>
+</ol>
+</nav>
+
+<div class="l-search-md">
+
+<button class="l-search-btn d-none d-md-block d-lg-none" type="button" data-toggle="collapse" data-target="#collapseSearchLarge" aria-expanded="false" aria-controls="collapseSearchLarge">
+<span class="sr-only">Search</span>
+</button>
+
+<form class="l-search-collapse collapse" id="collapseSearchLarge" action="/en/search/" method="GET">
+<div class="l-search-collapse__helper">
+
+<div class="search-tools">
+<div class="input-group">
+<div class="input-group-prepend" id="search-college-dropdownmenu-desktop">
+<button class="search-college__toggler btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="search_enter_collegename">
+<img src="/static/collegedata/images/college.png" alt="" style="width: 17px; height: 16px;">
+<span class="sr-only">Colleges</span>
+</button>
+<div class="dropdown-menu" role="menu" id="search_enter_collegename">
+<a class="dropdown-item" href="#" data-placeholder="Enter a topic you want advice on" role=menuitem>
+<label class="dropdown-iconlink" for="SearchPageForm.SearchType.Articles">
+<img src="/static/collegedata/images/icon-articles@2x.png" class="dropdown-iconlink__icon" alt="">
+Articles
+<input class="d-none" id="SearchPageForm.SearchType.Articles" name="SearchPageForm.SearchType" type="radio" value="Articles" />
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholder="Enter a college name or topic" role=menuitem>
+<label class="dropdown-iconlink" for="SearchPageForm.SearchType.StudentStories">
+<img src="/static/collegedata/images/student_stories.png" class="dropdown-iconlink__icon" alt="">
+Student Stories
+<input class="d-none" id="SearchPageForm.SearchType.StudentStories" name="SearchPageForm.SearchType" type="radio" value="StudentStories" />
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholder="Enter college name or click the ▼" role=menuitem>
+<label class="dropdown-iconlink" for="SearchPageForm.SearchType.College">
+<img src="/static/collegedata/images/college.png" class="dropdown-iconlink__icon" alt="">
+Colleges
+<input class="d-none" id="SearchPageForm.SearchType.College" name="SearchPageForm.SearchType" type="radio" value="CollegeName" />
+</label>
+</a>
+<a class="dropdown-item" href="#" data-placeholder="Enter keywords that describe you" role=menuitem>
+<label class="dropdown-iconlink" for="SearchPageForm.SearchType.Scholarships">
+<img src="/static/collegedata/images/scholarship.png" class="dropdown-iconlink__icon" alt="">
+Scholarships
+<input class="d-none" id="SearchPageForm.SearchType.Scholarships" name="SearchPageForm.SearchType" type="radio" value="Scholarships" />
+</label>
+</a>
+</div>
+</div>
+<label class="sr-only" for="SearchPageForm_Query">Enter college name or click the ▼</label>
+<input aria-label="Text input with dropdown button" class="form-control" id="SearchPageForm_Query" name="SearchPageForm.Query" placeholder="Enter college name or click the ▼" type="text" value="" />
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="tools-desktop-parking"></div>
+</div>
+</div>
+<main id="main" role="main">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-8">
+<h1 id="mainContent" class="display-5" tabindex="-1">
+Abilene Christian University
+</h1>
+<p>Abilene, TX</p>
+<span id="collegeprofileSelectedTab" style="display:none">profile-admission-tab</span>
+<span id="iscurrentpagecollegeprofile" style="display:none">YES</span>
+<span id="currCollegeId" style="display:none">659</span>
+<div class="mb-4 hide-for-print  mb-4 float-left">
+<a class="btn btn-link float-left pl-0" id="collegeprofilepdfElemid" href="/college/Abilene-Christian-University?pdf=1&collegeProfileTab=admission" target="_blank">
+<img src="/static/collegedata/images/icon-download.svg" class="icon-inline" alt="Download PDF">
+Download as PDF
+</a>
+<a data-toggle="modal" data-target="#collegeMapModal" class="btn btn-link float-left" href="#">
+<span class="sr-only">Opens a modal dialog</span>
+<img src="/static/collegedata/images/icon-map.png" class="icon-inline-lg" alt="">
+View Map
+</a>
+<div class="float-left pt-2 pl-4">
+<div class="row">
+
+<div class="addthis_inline_share_toolbox share-bar__options"></div>
+&nbsp;
+<a href="#collProfileEmailResults" data-toggle="modal" id="collProfileEmailResultsId" class="text-decoration-none">
+<span class="sr-only">Opens a modal dialog</span>
+<img src="/static/collegedata/images/email.png" style="height: 26px; width: 26px;" alt="email">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<ul class="flex-header">
+<li>
+<div id="loggedInForm" style="display:none;">
+<form method="post" action="/collegeprofileutil/Save">
+<input id="SaveToDataLocker_Id" name="SaveToDataLocker.Id" type="hidden" value="659">
+<input id="SaveToDataLocker_SchoolURLName" name="SaveToDataLocker.SchoolURLName" type="hidden" value="Abilene-Christian-University">
+<div id="saveCollegeButton" style="display:none;">
+<button type="submit" class="btn btn-lg btn-primary btn-save" name="SaveToDataLocker.Action" value="A">Save to My Locker</button>
+</div>
+<div id="removeCollegeButton" style="display:none;">
+<button type="submit" class="btn btn-lg btn-primary btn-save saved" name="SaveToDataLocker.Action" value="D">Remove from My Locker</button>
+</div>
+</form>
+</div>
+<div id="notLoggedInForm" style="display:none;">
+<form method="post" action="/collegeprofileutil/Save" data-form-modal-id="saveCollegeProfileSignUpModal" data-form-continuation="/collegeprofileutil/GetContinuation/">
+<input id="SaveToDataLocker_Id" name="SaveToDataLocker.Id" type="hidden" value="659">
+<input id="SaveToDataLocker_SchoolURLName" name="SaveToDataLocker.SchoolURLName" type="hidden" value="Abilene-Christian-University">
+<button type="submit" class="btn btn-lg btn-primary btn-save" name="SaveToDataLocker.Action" value="A">Save to My Locker</button>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="wrap wrap--grey">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-8 col-print-12">
+
+<ul class="nav nav-pills profile-tabs nav-fill mb-4" id="profile-tab" role="tablist">
+<li class="nav-item">
+<a class='nav-link ' id="profile-overview-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-overview-tab" role="tab" aria-controls="profile-overview" aria-selected="true">
+Overview
+</a>
+</li>
+<li class="nav-item">
+<a class='nav-link active' id="profile-admission-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-admission-tab" role="tab" aria-controls="profile-admission" aria-selected="false">
+Admission
+</a>
+</li>
+<li class="nav-item">
+<a class='nav-link ' id="profile-money-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-money-tab" role="tab" aria-controls="profile-money" aria-selected="false">
+Money Matters
+</a>
+</li>
+<li class="nav-item">
+<a class='nav-link ' id="profile-academics-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-academics-tab" role="tab" aria-controls="profile-academics" aria-selected="false">
+Academics
+</a>
+</li>
+<li class="nav-item">
+<a class='nav-link ' id="profile-campus-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-campus-tab" role="tab" aria-controls="profile-campus" aria-selected="false">
+Campus Life
+</a>
+</li>
+<li class="nav-item">
+<a class='nav-link ' id="profile-students-tab" data-toggle="pill" href="/college/Abilene-Christian-University/?tab=profile-students-tab" role="tab" aria-controls="profile-students" aria-selected="false">
+Students
+</a>
+ </li>
+</ul>
+
+<div class="tab-content" id="profile-tabContent">
+
+<div class='tab-pane fade ' id="profile-overview" role="tabpanel" aria-labelledby="profile-overview-tab">
+<p class="h6 mb-4">
+Abilene Christian is a church-affiliated university. It was founded in 1906, became a senior college in 1919, and gained university status in 1976. Its 208-acre campus is located in Abilene, 150 miles west of Fort Worth. </p>
+<p class="h6">
+Website:
+<a href="http://www.acu.edu/" target="_blank">www.acu.edu/</a>
+</p>
+<div class="statbar">
+<div class="statbar__item">
+<img src="/static/collegedata/images/icon-public-school.png" class="icon-block-lg" alt="">
+<div>Private</div>
+</div>
+<div class="statbar__item">
+<img src="/static/collegedata/images/icon-coed.png" class="icon-block-lg" alt="">
+<div>Co-ed</div>
+</div>
+<div class="statbar__item">
+<div class="d-inline-block text-left">
+<span class="h2">3,670</span><br>
+<span>Undergraduate<br>Students</span>
+</div>
+</div>
+<div class="statbar__item">
+<div class="d-inline-block text-left">
+<div class="mb-2">
+<b>(58.4%)</b>
+<img src="/static/collegedata/images/icon-women.png" class="icon-inline-lg" alt="">
+<span>2,145 Women</span>
+</div>
+<div>
+<b>(41.6%)</b>
+<img src="/static/collegedata/images/icon-men.png" class="icon-inline-lg" alt="">
+<span>1,525 Men</span>
+</div>
+</div>
+</div>
+<div class="statbar__item">
+<div class="d-inline-block text-left">
+<div class="media">
+<img src="/static/collegedata/images/icon-grad.png" class="media-icon align-self-start" alt="">
+<div class="media-body">
+<span class="h2">1,479</span><br>
+<span>
+Graduate<br>Students
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" card card--white card--sm"><div class=" card-body"> <h2>
+<img src="/static/collegedata/images/icon-admission.svg" class="icon-inline" alt="">
+Admission
+</h2>
+<dl class="dl-split-sm">
+<dt>Entrance Difficulty</dt>
+<dd>Moderately difficult</dd>
+<dt>Overall Admission Rate</dt>
+<dd>51% of 10,252 applicants were admitted</dd>
+<dt>Early Action Offered</dt>
+<dd>Yes</dd>
+<dt>Early Decision Offered</dt>
+<dd>No</dd>
+<dt>Regular Admission Deadline</dt>
+<dd>February 15</dd>
+</dl>
+<h3 class="h5">Qualifications of Enrolled Freshmen</h3>
+<dl class="dl-split-sm">
+<dt>Average GPA</dt>
+<dd>3.62</dd>
+<dt>SAT Math</dt>
+<dd>
+515-600 range of middle 50%
+</dd>
+<dt>SAT EBRW</dt>
+<dd>
+566 average <BR>510-620 range of middle 50%
+</dd>
+<dt>ACT Composite</dt>
+<dd>24 average <BR>21-26 range of middle 50%</dd>
+</dl>
+<a class="upper-right-sm" data-toggle="toggletab" href="#profile-admission-tab">See more</a>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>
+<img src="/static/collegedata/images/icon-money.svg" class="icon-inline" alt="">
+Money Matters
+</h2>
+<dl class="dl-split-sm">
+<dt>Cost of Attendance</dt>
+<dd>$51,957</dd>
+<dt>Tuition and Fees</dt>
+<dd>$36,300</dd>
+<dt>Room and Board</dt>
+<dd>$11,065</dd>
+<dt>Average Percent of Need Met</dt>
+<dd>71%</dd>
+<dt>Average Freshman Award</dt>
+<dd>$26,051</dd>
+<dt>Average Indebtedness of 2018 Graduates</dt>
+<dd>Not reported</dd>
+</dl>
+<a class="upper-right-sm" data-toggle="toggletab" href="#profile-money-tab">See more</a>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>
+<img src="/static/collegedata/images/icon-academics.svg" class="icon-inline" alt="">
+Academics
+</h2>
+<dl class="dl-split-sm">
+<dt>Academic Calendar System</dt>
+<dd>Semester</dd>
+<dt>General Education/Core Curriculum</dt>
+<dd>Required for most or all students</dd>
+<dt>Full-Time Faculty Teaching Undergraduates</dt>
+<dd>266</dd>
+<dt>Regular Class Size</dt>
+<dd>2-9 students: 13% of classes<BR>10-19 students: 30% of classes<BR>20-29 students: 32% of classes<BR> 30-39 students: 10% of classes<BR>40-49 students: 7% of classes<BR>50-99 students: 7% of classes<BR>Over 100 students: 1% of classes</dd>
+</dl>
+<a class="upper-right-sm" data-toggle="toggletab" href="#profile-academics-tab">See more</a>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>
+<img src="/static/collegedata/images/icon-campus.svg" class="icon-inline" alt="">
+Campus Life
+</h2>
+<dl class="dl-split-sm">
+<dt>Abilene Population</dt>
+<dd>118,117</dd>
+<dt>Nearest Metropolitan Area</dt>
+<dd></dd>
+<dt>Freshman Housing Guarantee</dt>
+<dd>Freshmen are guaranteed housing</dd>
+<dt>Students in College Housing</dt>
+<dd> 47% of all students</dd>
+<dt>Athletic Conferences</dt>
+<dd>NCAA Division I</dd>
+<dt>Mascot</dt>
+<dd>Wildcats</dd>
+<dt>Sororities</dt>
+<dd>35% of women participate</dd>
+<dt>Fraternities</dt>
+<dd> 28% of men participate</dd>
+</dl>
+<a class="upper-right-sm" data-toggle="toggletab" href="#profile-campus-tab">See more</a>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>
+<img src="/static/collegedata/images/icon-students.svg" class="icon-inline-lg" alt="">
+Students
+</h2>
+<dl class="dl-split-sm">
+<dt>Ethnicity of Students from U.S.</dt>
+<dd>0.3% American Indian/Alaskan Native<BR>1.2% Asian<BR>9.1% Black/African-American<BR>17.8% Hispanic/Latino<BR>5.0% Multi-race (not Hispanic/Latino)<BR>0.1% Native Hawaiian/ Pacific Islander<BR>66.3% White<BR>0.2% Unknown</dd>
+<dt>International Students</dt>
+<dd>3.9% from 42 countries</dd>
+<dt>First-Year Students Returning</dt>
+<dd>76.5%</dd>
+<dt>Students Graduating Within 4 Years</dt>
+<dd> 48.1%</dd>
+<dt>Graduates Offered Full-Time Employment Within 6 Months</dt>
+<dd>55%</dd>
+<dt>Graduates Pursuing Advanced Study Directly</dt>
+<dd>33.0%</dd>
+</dl>
+<a class="upper-right-sm" data-toggle="toggletab" href="#profile-students-tab">See more</a>
+</div></div> </div>
+
+<div class='tab-pane fade show active' id="profile-admission" role="tabpanel" aria-labelledby="profile-admission-tab">
+<div class=" card card--white card--sm"><div class=" card-body"> <h2>Freshman Admission Requirements</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<h3 class="h5">Entrance Difficulty</h3>
+<p>Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.</p>
+<h3 class="h5">High School Preparation</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>High School Graduation</dt>
+<dd>High school diploma required and GED is accepted</dd>
+<dt>High School Program</dt>
+<dd>College preparatory program is required</dd>
+</dl>
+<h3 class="h5">High School Units Required or Recommended</h3>
+<table class="table table-sm">
+<caption class="sr-only">High School Units Required or Recommended</caption>
+<thead>
+<tr>
+<th scope="col">Subject</th>
+<th scope="col">Required Units</th>
+<th scope="col">Recommended Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>English</td>
+<td>&nbsp;</td>
+<td> 4</td>
+</tr>
+<tr>
+<td>Mathematics</td>
+<td>&nbsp;</td>
+<td> 3</td>
+</tr>
+<tr>
+<td>Science</td>
+<td>&nbsp;</td>
+<td> 3</td>
+</tr>
+<tr>
+<td>Foreign Language</td>
+<td>&nbsp;</td>
+<td> 2</td>
+</tr>
+<tr>
+<td>Social Studies</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>History</td>
+<td>&nbsp;</td>
+<td> 1</td>
+</tr>
+<tr>
+<td>Academic Electives</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h3 class="h5">Examinations</h3>
+<table class="table table-sm">
+<caption class="sr-only">Examinations</caption>
+<thead>
+<tr>
+<th scope="col">Exam</th>
+<th scope="col">Required Units</th>
+<th scope="col">Scores Due in Admissions Office</th>
+</tr>
+ </thead>
+<tbody>
+<tr>
+<td>SAT or ACT</td>
+<td>Required</td>
+<td>February 15</td>
+</tr>
+<tr>
+<td>SAT Only</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>ACT Only</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>SAT and SAT Subject Tests, or ACT</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>SAT Subject Tests Only</td>
+<td>&nbsp;</td>
+<td></td>
+</tr>
+<tr>
+<td>SAT Essay Component Policy</td>
+<td colspan="2">Essay component recommended</td>
+</tr>
+<tr>
+<td>ACT Writing Test Policy</td>
+<td colspan="2">Writing component recommended</td>
+</tr>
+<tr>
+<td>ACT Writing Test Policy</td>
+<td colspan="2">SAT: Used for admission <br>ACT: Used for admission <br></td>
+</tr>
+</tbody>
+</table>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Applying for Admission</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<h3 class="h5">Admissions Office</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Address</dt>
+<dd>1600 Campus Court</dd>
+<dt>City, State, Zip</dt>
+<dd>Abilene, TX 79699</dd>
+<dt>Phone</dt>
+<dd>(325) 674-2650</dd>
+<dt>Fax</dt>
+<dd>&nbsp;</dd>
+<dt>E-mail</dt>
+<dd>
+<a href="mailto:info@admissions.acu.edu">info@admissions.acu.edu</a>
+</dd>
+</dl>
+<h3 class="h5">Application Dates and Fees</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Regular Admisson Deadline</dt>
+<dd>February 15</dd>
+<dt>Application Fee</dt>
+<dd>$50</dd>
+ <dt>Application Fee Waiver</dt>
+<dd>Available</dd>
+<dt>Regular Admission Notification</dt>
+<dd>March 15</dd>
+<dt>Accept Offer of Admission</dt>
+<dd>May 1</dd>
+<dt>Waiting List Used</dt>
+<dd>No</dd>
+<dt>Defer Admission</dt>
+<dd>Student cannot defer admission</dd>
+<dt>Transfer Admission</dt>
+<dd>Transfer applications accepted</dd>
+</dl>
+<h3 class="h5">Early Admission</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Early Decision Offered</dt>
+<dd>No</dd>
+<dt>Early Decision Deadline</dt>
+<dd>&nbsp;</dd>
+<dt>Early Decision Notification</dt>
+<dd>&nbsp;</dd>
+<dt>Early Action Offered</dt>
+<dd>Yes</dd>
+<dt>Early Action Deadline</dt>
+<dd>Not reported</dd>
+<dt>Early Action Notification</dt>
+<dd>Not reported</dd>
+</dl>
+<h3 class="h5">Application Form</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Common Application</dt>
+<dd>Not accepted</dd>
+<dt>Universal College Application</dt>
+<dd>Not accepted</dd>
+<dt>Electronic Application</dt>
+<dd>
+<a href="https://www.acuadmissions.org/start/apply.htm" target="_blank">Available</a>
+</dd>
+</dl>
+<h3 class="h5">Other Application Requirements</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Interview</dt>
+<dd>Not Required</dd>
+<dt>Essay or Personal Statement</dt>
+<dd>Required for some freshmen</dd>
+<dt>Letters of Recommendation</dt>
+<dd>&nbsp;</dd>
+<dt>Other</dt>
+<dd>&nbsp;</dd>
+<dt>Financial Need</dt>
+<dd>Financial need is not a consideration in the admissions process</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Selection of Students</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<table class="table table-sm">
+<caption class="sr-only">Selection of Students</caption>
+<thead>
+<tr>
+<th scope="col">Factor</th>
+<th scope="col">Very Important</th>
+<th scope="col">Important</th>
+ <th scope="col">Considered</th>
+<th scope="col">Not Considered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rigor of Secondary School Record</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Academic GPA</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Standardized Tests</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Class Rank</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Recommendations</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Essay</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Interview</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Level of Applicant&#39;s Interest</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Extracurricular Activities</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Volunteer Work</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Particular Talent/Ability</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Character/Personal Qualities</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>First Generation to Attend College</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>State Residency</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Geographic Residence</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Relation with Alumnus</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Religious Affiliation/Commitment</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Ethnicity</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>Work Experience</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Profile of Fall Admission</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<dl class="dl-split-sm dl-split-sm--light">
+ <dt>Overall Admission Rate</dt>
+<dd>51% of 10,252 applicants were admitted</dd>
+<dt class="dl-split-sm__indent">Women</dt>
+<dd>53% of 6,194 applicants were admitted</dd>
+<dt class="dl-split-sm__indent">Men</dt>
+<dd>48% of 4,058 applicants were admitted</dd>
+<dt>Students Enrolled</dt>
+<dd>1,078 (21%) of 5,217 admitted students enrolled</dd>
+<dt class="dl-split-sm__indent">Women</dt>
+<dd>630 (19%) of 3,268 admitted students enrolled</dd>
+<dt class="dl-split-sm__indent">Men</dt>
+<dd>448 (23%) of 1,949 admitted students enrolled</dd>
+<dt>Early Decision Admission Rate</dt>
+<dd>&nbsp;</dd>
+<dt>Early Action Admission Rate</dt>
+<dd>66% of 5,599 applicants were admitted</dd>
+<dt>Students Offered Wait List</dt>
+<dd>&nbsp;</dd>
+<dt>Students Accepting Wait List Position</dt>
+<dd>&nbsp;</dd>
+<dt>Students Admitted From Wait List</dt>
+<dd>&nbsp;</dd>
+</dl>
+<h3 class="h5">Grade Point Average of Enrolled Freshmen (4.0 scale)</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Average GPA</dt>
+<dd>3.62</dd>
+<dt class="dl-split-sm__indent">3.75 and Above</dt>
+<dd>45%</dd>
+<dt class="dl-split-sm__indent">3.50 - 3.74</dt>
+<dd>23%</dd>
+<dt class="dl-split-sm__indent">3.25 - 3.49</dt>
+<dd>16%</dd>
+<dt class="dl-split-sm__indent">3.00 - 3.24</dt>
+<dd>9%</dd>
+<dt class="dl-split-sm__indent">2.50 - 2.99</dt>
+<dd>6%</dd>
+<dt class="dl-split-sm__indent">2.00 - 2.49</dt>
+<dd>1%</dd>
+</dl>
+<h3 class="h5">SAT Scores of Enrolled Freshmen</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt><strong>SAT Math</strong></dt>
+<dd>515-600 range of middle 50%</dd>
+<dt class="dl-split-sm__indent">Score of 700 - 800</dt>
+<dd>3%</dd>
+<dt class="dl-split-sm__indent">Score of 600 - 700</dt>
+<dd>25%</dd>
+<dt class="dl-split-sm__indent">Score of 500 - 600</dt>
+<dd>53%</dd>
+<dt class="dl-split-sm__indent">Score of 400 - 500</dt>
+<dd>18%</dd>
+<dt class="dl-split-sm__indent">Score of 300 - 400</dt>
+<dd>1%</dd>
+<dt class="dl-split-sm__indent">Score of 200 - 300</dt>
+<dd>0%</dd>
+<dt><strong>SAT EBRW</strong></dt>
+<dd>566 average <BR>510-620 range of middle 50%</dd>
+<dt class="dl-split-sm__indent">Score of 700 - 800</dt>
+<dd>5%</dd>
+<dt class="dl-split-sm__indent">Score of 600 - 700</dt>
+<dd>33%</dd>
+<dt class="dl-split-sm__indent">Score of 500 - 600</dt>
+<dd>44%</dd>
+<dt class="dl-split-sm__indent">Score of 400 - 500</dt>
+<dd>18%</dd>
+<dt class="dl-split-sm__indent">Score of 300 - 400</dt>
+<dd>0%</dd>
+<dt class="dl-split-sm__indent">Score of 200 - 300</dt>
+<dd>0%</dd>
+</dl>
+<h3 class="h5">ACT Scores of Enrolled Freshmen</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>ACT Composite</dt>
+<dd>24 average <BR>21-26 range of middle 50%</dd>
+<dt class="dl-split-sm__indent">Score of 30 - 36</dt>
+<dd>8%</dd>
+<dt class="dl-split-sm__indent">Score of 24 - 29</dt>
+<dd>42%</dd>
+<dt class="dl-split-sm__indent">Score of 18 - 23</dt>
+<dd>46%</dd>
+<dt class="dl-split-sm__indent">Score of 12 - 17</dt>
+<dd>4%</dd>
+<dt class="dl-split-sm__indent">Score of 6 - 11</dt>
+<dd>0%</dd>
+<dt class="dl-split-sm__indent">Score of 5 or Below</dt>
+<dd>0%</dd>
+</dl>
+<h3 class="h5">Other Qualifications of Enrolled Freshmen</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>High School Class Rank</dt>
+<dd>Top tenth: 22%<br>Top quarter: 54%<br>Top half: 84%</dd>
+<dt>National Merit Scholar</dt>
+<dd>0%</dd>
+<dt>Valedictorian</dt>
+<dd>1%</dd>
+<dt>Class President</dt>
+<dd>Not reported</dd>
+<dt>Student Government Officer</dt>
+<dd>Not reported</dd>
+</dl>
+</div></div> </div>
+
+<div class='tab-pane fade ' id="profile-money" role="tabpanel" aria-labelledby="profile-money-tab">
+<div class=" card card--white card--sm"><div class=" card-body"> <h2>Tuition and Expenses</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Cost of Attendance</dt>
+<dd>$51,957</dd>
+<dt class="dl-split-sm__indent">Tuition and Fees</dt>
+<dd>$36,300</dd>
+<dt class="dl-split-sm__indent">Room and Board</dt>
+<dd>$11,065</dd>
+<dt class="dl-split-sm__indent">Books and Supplies</dt>
+<dd>$1,250</dd>
+<dt class="dl-split-sm__indent">Other Expenses</dt>
+<dd>$3,342</dd>
+<dt>Payment Plans</dt>
+<dd>Prepayment plan, installment plan</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Applying for Financial Aid</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<h3 class="h5">Financial Aid Office</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Email</dt>
+<dd>
+</dd>
+<dt>Web Site</dt>
+<dd>
+<a href="http://www.acu.edu/undergraduate/admissions/financial-aid.html" target="_blank">Financial Aid Web Site</a>
+</dd>
+<dt>Net Price Calculator URL</dt>
+<dd>
+<a href="https://acu.studentaidcalculator.com/survey.aspx" target="_blank">Net Price Calculator URL</a>
+</dd>
+</dl>
+<h3 class="h5">Application Process</h3>
+<dl class="dl-split-sm">
+<dt>Application Deadline</dt>
+<dd>Priority deadline March 1</dd>
+<dt>Award Notification</dt>
+<dd>On a rolling basis beginning April 1</dd>
+<dt>Methodology for Awarding Institutional Aid </dt>
+<dd>Federal Methodology</dd>
+</dl>
+<table class="table table-sm">
+<thead>
+<tr>
+<th scope="col">Forms Required</th>
+<th scope="col">Cost to File</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FAFSA<br> Code is 003537</td>
+<td>Free</td>
+</tr>
+</tbody>
+</table>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Profile of 2018 - 19 Financial Aid</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<h3 class="h5">Freshman</h3>
+<dl class="dl-split-sm">
+<dt>Financial Aid Applicants</dt>
+<dd>812 (88.1%) of freshmen</dd>
+<dt>Found to Have Financial Need</dt>
+<dd>673 (86.6%) of applicants</dd>
+<dt>Received Financial Aid</dt>
+<dd>673 (100.0%) of applicants with financial need</dd>
+<dt>Need Fully Met</dt>
+<dd>208 (27.2%) of aid recipients</dd>
+<dt>Average Percent of Need Met</dt>
+<dd>71%</dd>
+ <dt>Average Award</dt>
+<dd>$26,051</dd>
+<dt class="dl-split-sm__indent">Need-Based Gift</dt>
+<dd>Received by 673 (100.0%) of aid recipients, average amount $23,909</dd>
+<dt class="dl-split-sm__indent">Need-Based Self-Help</dt>
+<dd>Received by 440 (64.9%) of aid recipients, average amount $3,276</dd>
+<dt class="dl-split-sm__indent">Merit-Based Gift</dt>
+<dd>Received by 673 (100.0%) of aid recipients</dd>
+<dt>Merit-Based Gift</dt>
+<dd>246 (25.6%) of freshmen had no financial need and received merit aid, average amount $17,977</dd>
+</dl>
+<h3 class="h5">All Undergraduates</h3>
+<dl class="dl-split-sm">
+<dt>Financial Aid Applicants</dt>
+<dd>2,540 (81.9%) of undergraduates</dd>
+<dt>Found to Have Financial Need</dt>
+<dd>2,248 (88.5%) of applicants</dd>
+<dt>Received Financial Aid</dt>
+<dd>2,243 (99.9%) of applicants with financial need</dd>
+<dt>Need Fully Met</dt>
+<dd>639 (26.6%) of aid recipients</dd>
+<dt>Average Percent of Need Met</dt>
+<dd>68%</dd>
+<dt>Average Award</dt>
+<dd>$24,771</dd>
+<dt class="dl-split-sm__indent">Need-Based Gift</dt>
+<dd>Received by 2,231 (99.7%) of aid recipients, average amount $22,072</dd>
+<dt class="dl-split-sm__indent">Need-Based Self-Help</dt>
+<dd>Received by 1,462 (65.3%) of aid recipients, average amount $4,220</dd>
+<dt class="dl-split-sm__indent">Merit-Based Gift</dt>
+<dd>Received by 2,222 (99.2%) of aid recipients</dd>
+<dt>Merit-Based Gift</dt>
+<dd>1,169 (32.9%) of undergraduates had no financial need and received merit aid, average amount $17,023</dd>
+</dl>
+<h3 class="h5">Borrowing</h3>
+<dl class="dl-split-sm">
+<dt>2018 Graduates Who Took Out Loans</dt>
+<dd>Not reported</dd>
+<dt>Average Indebtedness of 2018 Graduates</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Parents of Students Receiving Aid</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Parents of Students Not Receiving Aid</dt>
+<dd>Not reported</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Financial Aid Programs</h2>
+<hr class="hr--tight hr--dark hr--narrow">
+<h3 class="h5">Loans</h3>
+<dl class="dl-split-sm">
+<dt>Federal Loans</dt>
+<dd>Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans</dd>
+ <dt>State Loans</dt>
+<dd>Available</dd>
+<dt>Other Loans</dt>
+<dd>Private loans</dd>
+</dl>
+<h3 class="h5">Scholarships and Grants</h3>
+<dl class="dl-split-sm">
+<dt>Need-Based Available</dt>
+<dd>Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships</dd>
+<dt>Non-Need–Based Available</dt>
+<dd>None</dd>
+</dl>
+<h3 class="h5">Non-Need Awards</h3>
+<dl class="dl-split-sm">
+<dt>Academic Interest/Achievement Award Areas</dt>
+<dd>Agriculture, Biological Sciences, Business, Communication, Education, Engineering/Technologies, English, Foreign Languages, Mathematics, Physical Sciences, Religion/Biblical Studies, Social Sciences</dd>
+<dt class="dl-split-sm__indent">Number of Awards</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Top Areas (By Money Awarded)</dt>
+<dd>&nbsp;</dd>
+<dt>Creative Arts/Performance Award Areas</dt>
+<dd>Applied Art and Design, Debating, Journalism/Publications, Music, Theater/Drama</dd>
+<dt class="dl-split-sm__indent">Number of Awards</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Top Areas (By Money Awarded)</dt>
+<dd>&nbsp;</dd>
+<dt>Special Achievements/Activities Award Areas</dt>
+<dd>Cheerleading/Drum Major, Leadership</dd>
+<dt class="dl-split-sm__indent">Number of Awards</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Top Areas (By Money Awarded)</dt>
+<dd>&nbsp;</dd>
+<dt>Special Characteristics Award Areas</dt>
+<dd>Children of Faculty/Staff, Ethnic Background, First-Generation College Students, Local/State Students, Members of Minorities, Out-of-State Students, Previous College Experience, Relatives of Clergy, Religious Affiliation</dd>
+<dt class="dl-split-sm__indent">Number of Awards</dt>
+<dd>Not reported</dd>
+<dt class="dl-split-sm__indent">Top Areas (By Money Awarded)</dt>
+<dd>&nbsp;</dd>
+</dl>
+<h3 class="h5">Employment</h3>
+<dl class="dl-split-sm">
+<dt>Work-Study Programs</dt>
+<dd>Federal work study available, other work study available</dd>
+<dt>Average Earnings from On-Campus Employment</dt>
+<dd>Not reported</dd>
+</dl>
+</div></div> </div>
+
+<div class='tab-pane fade ' id="profile-academics" role="tabpanel" aria-labelledby="profile-academics-tab">
+<div class=" card card--white card--sm"><div class=" card-body"> <dl class="dl-split-sm dl-split-sm--light">
+ <dt>Academic Calendar System</dt>
+<dd>Semester</dd>
+<dt>Summer Session</dt>
+<dd>Offered</dd>
+<dt>General Catalog/Bulletin</dt>
+<dd><a href="http://catalog.acu.edu/" target="_blank">Online Catalog</a></dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Undergraduate Education</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<h3 class="h5">Undergraduate Majors</h3>
+<div class="row">
+<div class="col-sm-6">
+<ul class="list--nice">
+<li>Accounting</li>
+<li>Agribusiness/Agricultural Business Operations</li>
+<li>Animal Sciences, General</li>
+<li>Bible/Biblical Studies</li>
+<li>Biochemistry</li>
+<li>Biology Teacher Education</li>
+<li>Biology/Biological Sciences, General</li>
+<li>Business Administration and Management, General</li>
+<li>Chemistry, General</li>
+<li>Computer Science</li>
+<li>Computer Teacher Education</li>
+<li>Criminal Justice/Law Enforcement Administration</li>
+<li>Dietetics/Dietitian</li>
+<li>Digital Communication and Media/Multimedia</li>
+<li>Drama and Dramatics/Theatre Arts, General</li>
+<li>Education/Teaching of Individuals in Elementary Special Education Programs</li>
+<li>Education/Teaching of Individuals in Secondary Special Education Programs</li>
+<li>Elementary Education and Teaching</li>
+<li>Engineering, General</li>
+<li>English Language and Literature, General</li>
+<li>English/Language Arts Teacher Education</li>
+<li>Environmental Science</li>
+<li>Finance, General</li>
+<li>Fine/Studio Arts, General</li>
+<li>Game and Interactive Media Design</li>
+<li>Graphic Design</li>
+<li>Health/Medical Preparatory Programs, Other</li>
+<li>History Teacher Education</li>
+<li>History, General</li>
+<li>Human Development and Family Studies, General</li>
+<li>Information Resources Management</li>
+<li>Information Technology</li>
+</ul>
+</div>
+<div class="col-sm-6">
+ <ul class="list--nice">
+<li>Interior Design</li>
+<li>International/Global Studies</li>
+<li>Journalism, Other</li>
+<li>Liberal Arts and Sciences/Liberal Studies</li>
+<li>Marketing/Marketing Management, General</li>
+<li>Mathematics Teacher Education</li>
+<li>Mathematics, General</li>
+<li>Multi-/Interdisciplinary Studies, Other</li>
+<li>Music Teacher Education</li>
+<li>Music, General</li>
+<li>Physics Teacher Education</li>
+<li>Physics, General</li>
+<li>Political Science and Government, General</li>
+<li>Pre-Dentistry Studies</li>
+<li>Pre-Law Studies</li>
+<li>Pre-Medicine/Pre-Medical Studies</li>
+<li>Pre-Veterinary Studies</li>
+<li>Psychology, General</li>
+<li>Public Relations, Advertising, and Applied Communication, Other</li>
+<li>Registered Nursing/Registered Nurse</li>
+<li>Science Teacher Education/General Science Teacher Education</li>
+<li>Secondary Education and Teaching</li>
+<li>Social Studies Teacher Education</li>
+<li>Social Work</li>
+<li>Sociology</li>
+<li>Spanish Language Teacher Education</li>
+<li>Spanish Language and Literature</li>
+<li>Speech Communication and Rhetoric</li>
+<li>Speech-Language Pathology/Pathologist</li>
+<li>Sport and Fitness Administration/Management</li>
+<li>Theology and Religious Vocations, Other</li>
+<li>Voice and Opera</li>
+</ul>
+</div>
+</div>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Most Popular Disciplines</dt>
+<dd>Business/marketing, Health professions and related sciences, Visual and performing arts</dd>
+<dt>Combined Liberal Arts/Professional Degree Programs</dt>
+<dd>Animal health professions</dd>
+<dt>Special Programs</dt>
+<dd>Student-designed major, Distance learning, Double major, English as a second language, Honors program, Independent study, Internships, Study abroad, Summer session</dd>
+<dt>Study Abroad</dt>
+<dd>Offered</dd>
+<dt>Online Degrees</dt>
+<dd>Some online degree programs</dd>
+ </dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Curriculum and Graduation Requirements</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>General Education/Core Curriculum</dt>
+<dd>Required for most or all students</dd>
+<dt>Computer</dt>
+<dd>Students not required to own/lease a computer</dd>
+<dt>Foreign Language</dt>
+<dd>Required</dd>
+<dt>Math/Science</dt>
+<dd>Required for all students</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Faculty and Instruction</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Full-Time Faculty</dt>
+<dd>266</dd>
+<dt>Part-Time Faculty</dt>
+<dd>183</dd>
+<dt>Full-Time Faculty with Ph.D./Terminal Degree</dt>
+<dd>47%</dd>
+<dt>Regular Class Size</dt>
+<dd>2-9 students: 13% of classes<BR>10-19 students: 30% of classes<BR>20-29 students: 32% of classes<BR> 30-39 students: 10% of classes<BR>40-49 students: 7% of classes<BR>50-99 students: 7% of classes<BR>Over 100 students: 1% of classes</dd>
+<dt>Discussion Section/Lab Class Size</dt>
+<dd>2-9 students: 30% of discussion sections/labs<BR>10-19 students: 40% of discussion sections/labs<BR>20-29 students: 23% of discussion sections/labs<BR>30-39 students: 1% of discussion sections/labs<BR>40-49 students: 4% of discussion sections/labs<BR>50-59 students: 1% of discussion sections/labs</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Advanced Placement</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>International Baccalaureate</dt>
+<dd>Accepted</dd>
+<dt>Advanced Placement (AP) Examinations</dt>
+<dd>Accepted for placement and credit</dd>
+<dt>Sophomore Standing</dt>
+<dd>Available through AP examinations</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Academic Resources</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Library Available on Campus</dt>
+<dd>Yes</dd>
+<dt>Holdings</dt>
+<dd>826,835</dd>
+<dt>Computer Ownership</dt>
+<dd>Students not required to own/lease a computer</dd>
+<dt>Computers Available on Campus</dt>
+<dd>466</dd>
+<dt>Internet/E-mail Access</dt>
+<dd>Not reported</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body">  <h2>Academic Support Services</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Remedial Instruction</dt>
+<dd>Not Offered</dd>
+<dt>Tutoring</dt>
+<dd>Available</dd>
+<dt>Services for Learning Disabled Students</dt>
+<dd>Available</dd>
+<dt>Services for Physically Disabled Students</dt>
+<dd>Hearing impaired services, speech disorders services, visually impaired services, wheelchair access</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Graduate/Professional School Education</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<h3 class="h5">Master's Degrees Offered</h3>
+<p>Master of Education, Master of Arts, Master of Business Administration, Master of Science, Master of Liberal Arts, Master of Accountancy, Master of Arts in Christian Ministries</p>
+<h3 class="h5">Master's Programs of Study</h3>
+<div class="row">
+<div class="col-sm-6">
+<ul class="list--nice">
+<li>Accounting</li>
+<li>Business Administration and Management--General</li>
+<li>Business Analytics</li>
+<li>Clinical Psychology</li>
+<li>Conflict Resolution and Mediation/Peace Studies</li>
+<li>Counseling Psychology</li>
+<li>Educational Leadership and Administration</li>
+<li>Finance and Banking</li>
+<li>Health Services Management and Hospital Administration</li>
+</ul>
+</div>
+<div class="col-sm-6">
+<ul class="list--nice">
+<li>Human Resources Management</li>
+<li>International Business</li>
+<li>Liberal Studies</li>
+<li>Marketing</li>
+<li>Missions and Missiology</li>
+<li>Nonprofit Management</li>
+<li>Pastoral Ministry and Counseling</li>
+<li>Supply Chain Management</li>
+</ul>
+</div>
+</div>
+<h3 class="h5">Doctoral Degrees Offered </h3>
+<p>Doctor of Ministry</p>
+<h3 class="h5">Doctoral Programs of Study</h3>
+<div class="row">
+<div class="col-sm-6">
+<ul class="list--nice">
+<li>Pastoral Ministry and Counseling</li>
+</ul>
+</div>
+ <div class="col-sm-6">
+<ul class="list--nice">
+</ul>
+</div>
+</div>
+</div></div> </div>
+
+<div class='tab-pane fade ' id="profile-campus" role="tabpanel" aria-labelledby="profile-campus-tab">
+<div class=" card card--white card--sm"><div class=" card-body"> <h2>Location and Setting</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Abilene Population</dt>
+<dd>118,117</dd>
+<dt>Nearest Metropolitan Area</dt>
+<dd></dd>
+<dt>Campus Size</dt>
+<dd>262 acres</dd>
+</dl>
+<h3 class="h5">Weather</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Temperature</dt>
+<dd>30.8 average low in January, 91.4 average high in September</dd>
+<dt>Rain</dt>
+<dd>67 rainy days per year</dd>
+</dl>
+<h3 class="h5">Getting Around</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Campus Map</dt>
+<dd>
+<a href="https://www.acu.edu/community/offices/resources/trio/campus-map.html" target="_blank">Map</a>
+</dd>
+<dt>Nearest Bus Station</dt>
+<dd>3 mile(s) from campus in Abilene</dd>
+<dt>Nearest Train Station</dt>
+<dd>180 mile(s) from campus in Dallas</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Housing</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>College Housing</dt>
+<dd>College offers housing to students</dd>
+<dt>Types of Housing</dt>
+<dd>Men only housing, women only housing</dd>
+<dt>Students in College Housing</dt>
+<dd> 47% of all students</dd>
+<dt>Housing Requirements</dt>
+<dd>Freshmen and sophomores are required to live on campus</dd>
+<dt>Freshman Housing Guarantee</dt>
+<dd>Freshmen are guaranteed housing</dd>
+<dt>Students Living Off Campus/Commuting</dt>
+<dd>53%</dd>
+<dt>Off-Campus Housing Assistance</dt>
+<dd>Assistance in locating off-campus housing is available</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Security</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>24-Hour Emergency Phone/Alarm Devices</dt>
+<dd>Available</dd>
+<dt>24-Hour Security Patrols</dt>
+<dd>Available</dd>
+ <dt>Late-Night Transport/Escort Services</dt>
+<dd>Available</dd>
+<dt>Electronically Operated Housing Entrances</dt>
+<dd>Available</dd>
+<dt>Other</dt>
+<dd>&nbsp;</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Personal Support Services</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Health Service</dt>
+<dd>Offered</dd>
+<dt>Personal Counseling</dt>
+<dd>Offered</dd>
+<dt>Child Care</dt>
+<dd>Not offered</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Sports and Recreation</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<h3 class="h5"> Intercollegiate Athletics</h3>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Athletic Conferences</dt>
+<dd>NCAA Division I</dd>
+<dt>Mascot</dt>
+<dd>Wildcats</dd>
+<dt>School Colors</dt>
+<dd>Purple and white</dd>
+</dl>
+<h3 class="h5"> Intercollegiate Sports Offered</h3>
+<div class="d-none d-sm-block">
+<table class="table table-sm">
+<colgroup span="1"></colgroup>
+<colgroup span="2"></colgroup>
+<colgroup span="2"></colgroup>
+<thead>
+<tr>
+<th rowspan="2" scope="col" class="border border-bottom-0">Sports</th>
+<th colspan="2" scope="colgroup" class="text-center border border-bottom-0">Women</th>
+<th colspan="2" scope="colgroup" class="text-center border border-bottom-0">Men</th>
+</tr>
+<tr>
+<th scope="col" class="text-center border border-bottom-0">Offered</th>
+<th scope="col" class="text-center border border-bottom-0">Scholarships</th>
+<th scope="col" class="text-center border border-bottom-0">Offered</th>
+<th scope="col" class="text-center border border-bottom-0">Scholarships</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baseball</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Basketball</td> 
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Cross-Country Running</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Football</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Golf</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Sand Volleyball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Soccer</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Softball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Tennis</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Track And Field</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Volleyball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="d-sm-none">
+<table class="table table-sm border">
+<thead>
+<tr>
+<th scope="col" class="border border-bottom-0">Women's Sports</th>
+<th scope="col" class="text-center border border-bottom-0">Offered</th>
+<th scope="col" class="text-center border border-bottom-0">Scholarships</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baseball</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Basketball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Cross-Country Running</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Football</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+ <tr>
+<td>Golf</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Sand Volleyball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Soccer</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Softball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Tennis</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Track And Field</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Volleyball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-sm border">
+<thead>
+<tr>
+<th scope="col" class="border border-bottom-0">Mens's Sports</th>
+<th scope="col" class="text-center border border-bottom-0">Offered</th>
+<th scope="col" class="text-center border border-bottom-0">Scholarships</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baseball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Basketball</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Cross-Country Running</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Football</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Golf</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Sand Volleyball</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Soccer</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Softball</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+<tr>
+<td>Tennis</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Track And Field</td>
+<td class="text-center text-uppercase">x</td>
+<td class="text-center text-uppercase">x</td>
+</tr>
+<tr>
+<td>Volleyball</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+<td class="text-center text-uppercase">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Women&#39;s Club Sports</dt>
+<dd>&nbsp;</dd>
+<dt>Men&#39;s Club Sports</dt>
+<dd>&nbsp;</dd>
+</dl>
+<h3 class="h5">Recreational Sports</h3>
+ <dl class="dl-split-sm dl-split-sm--light">
+<dt>Intramural Sports</dt>
+<dd>basketball, football, racquetball, soccer, softball, table tennis, tennis, volleyball</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Student Activities</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Activities and Organizations</dt>
+<dd>choral groups, marching band, drama theatre, radio station, student newspaper, television station, student association, graduate students association, spring break campaigns, international students association, lynay</dd>
+<dt>Sororities</dt>
+<dd>35% of women participate</dd>
+<dt>Fraternities</dt>
+<dd> 28% of men participate</dd>
+<dt>ROTC</dt>
+<dd>&nbsp;</dd>
+</dl>
+</div></div> </div>
+
+<div class='tab-pane fade ' id="profile-students" role="tabpanel" aria-labelledby="profile-students-tab">
+<div class=" card card--white card--sm"><div class=" card-body"> <h2>Student Body</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>Coeducational</dt>
+<dd>Yes</dd>
+<dt>All Undergraduates</dt>
+<dd>3,670</dd>
+<dt class="dl-split-sm__indent">Women</dt>
+<dd>2,145 (58.4%)</dd>
+<dt class="dl-split-sm__indent">Men</dt>
+<dd>1,525 (41.6%)</dd>
+<dt>Full-Time Undergraduates</dt>
+<dd>3,512</dd>
+<dt>Ethnicity of Students from U.S.</dt>
+<dd>0.3% American Indian/Alaskan Native<BR>1.2% Asian<BR>9.1% Black/African-American<BR>17.8% Hispanic/Latino<BR>5.0% Multi-race (not Hispanic/Latino)<BR>0.1% Native Hawaiian/ Pacific Islander<BR>66.3% White<BR>0.2% Unknown</dd>
+<dt>International Students.</dt>
+<dd>3.9% from 42 countries</dd>
+<dt>Average Age</dt>
+<dd>20</dd>
+<dt>All Graduate Students</dt>
+<dd>1,479</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>Undergraduate Retention and Graduation</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+<dt>First-Year Students Returning</dt>
+<dd>76.5%</dd>
+<dt>Students Graduating Within 4 Years</dt>
+<dd> 48.1%</dd>
+<dt>Students Graduating Within 5 Years</dt>
+<dd>60.1%</dd>
+<dt>Students Graduating Within 6 Years</dt>
+<dd> 61.0%</dd>
+</dl>
+</div></div> <div class=" card card--white card--sm"><div class=" card-body"> <h2>After Graduation</h2>
+<hr class="hr--tight hr--narrow hr--dark" />
+<dl class="dl-split-sm dl-split-sm--light">
+ <dt>Graduates Offered Full-Time Employment Within 6 Months</dt>
+<dd>55%</dd>
+<dt class="dl-split-sm__indent">Average Starting Salary</dt>
+<dd>55%</dd>
+<dt>Graduates Pursuing Advanced Study Directly</dt>
+<dd>33.0%</dd>
+<dt>Disciplines Pursued</dt>
+<dd>Business 4% <BR>Engineering 0.3% <BR>Law 2.4% <BR>Theology 1.6% <BR>Arts and Sciences 16.2% <BR>Medicine 1.9% <BR>Education 3% <BR>Other 3.6% <BR></dd>
+</dl>
+</div></div> </div>
+</div>
+<p class="h6 text-center">
+A portion of the College Profile data is provided under license by:<br />
+Peterson's Undergraduate and Undergraduate Financial Aid Databases, copyright © 2020 Peterson's, a Nelnet company. All rights reserved.
+</p>
+</div>
+<aside class="col-lg-4">
+</aside>
+</div>
+</div>
+</div>
+</main>
+</div>
+<div class="footer-nav">
+<div class="container-fluid">
+<div class="footer-nav__row"><div class="footer-nav__col"> <ul class="footer-nav__list">
+<li class="footer-nav__title">My Data Locker</li>
+<li><a href="/en/data-locker/saved-colleges/">Saved Colleges</a></li>
+<li><a href="/en/data-locker/saved-scholarships/">Saved Scholarships</a></li>
+<li><a href="/en/data-locker/saved-searches/">Saved Searches</a></li>
+<li><a href="/en/data-locker/saved-admissions-profiles/">Saved Admissions Profiles</a></li>
+<li><a href="/en/data-locker/saved-articles/">Saved Articles</a></li>
+</ul>
+</div><div class="footer-nav__col"> <ul class="footer-nav__list">
+<li class="footer-nav__title">Explore Colleges</li>
+<li><a href="/en/explore-colleges/">Explore Colleges</a></li>
+<li><a href="/en/explore-colleges/college-search/">College Match</a></li>
+</ul>
+</div><div class="footer-nav__col"> <ul class="footer-nav__list">
+<li class="footer-nav__title">Prepare &amp; Apply</li>
+<li><a href="/en/prepare-and-apply/">Prepare and Apply</a></li>
+<li><a href="/en/prepare-and-apply/college-chances/">College Chances</a></li>
+<li><a href="/en/prepare-and-apply/admissions-tracker/">Admissions Tracker</a></li>
+<li><a href="/en/prepare-and-apply/common-application-guide/">Common Application Guide</a></li>
+</ul>
+</div><div class="footer-nav__col"> <ul class="footer-nav__list">
+<li class="footer-nav__title">Pay Your Way</li>
+<li><a href="/en/pay-your-way/">Pay Your Way</a></li>
+<li><a href="/en/pay-your-way/financial-aid-tracker/">Financial Aid Tracker</a></li>
+<li><a href="/en/pay-your-way/scholarship-finder/">Scholarship Finder</a></li>
+<li><a href="/en/pay-your-way/efc-calculator/">EFC Calculator</a></li>
+<li><a href="/en/pay-your-way/net-price-calculator/">Net Price Calculator</a></li>
+<li><a href="/en/pay-your-way/compare-awards/">Compare Awards</a></li>
+</ul>
+</div><div class="footer-nav__col"> <ul class="footer-nav__list">
+<li class="footer-nav__title">College Buzz</li>
+<li><a href="/en/college-buzz/">College Buzz</a></li>
+<li><a href="/en/stories/student-stories-2021/camilla/">True Student Stories</a></li>
+<li><a href="/en/college-buzz/resources-for-counselors/">Resources for Counselors</a></li>
+</ul>
+</div></div>
+</div>
+<div class="footer-bar">
+<div class="container-fluid">
+<ul class="footer-bar__links">
+<li><a href="/en/">Home</a></li>
+<li><a href="/en/help/">Help</a></li>
+<li><a href="/en/contact-us/">Contact Us</a></li>
+<li><a href="/en/sitemap/">Site Map</a></li>
+<li><a href="/en/security/">Security</a></li>
+<li><a href="/en/terms/">Terms and Conditions</a></li>
+<li><a href="/en/privacy/">Privacy</a></li>
+</ul>
+</div>
+</div>
+<footer class="sub-footer">
+<div class="container-fluid small">
+<p>&copy; 2020 1st Financial Bank USA</p>
+<p><a href="https://www.nacacnet.org" target="_blank" rel="noopener"><img src="/static/collegedata/images/nacac_logo_footer_2019.png" alt="National Association for College Admission Counseling" width="200" height="117" /></a><br />CollegeData is a member of the National<br />Association for College Admission <br />Counseling and subscribes to the<br />Statement of Principles of Good Practice</p>
+<p>&nbsp;</p>
+</div>
+</footer>
+</div>
+<div class="sticky-footer">
+<div class="nav-students btn-group dropup d-none d-md-block">
+<button type="button" class="btn btn-footer dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+<div class="col-12 p-0">
+<span class="cd_serviceof">CollegeData is a service of</span>
+<img src="/static/collegedata/images/1stbank.png" class="firstbank-logo" alt="College Data is a service of 1st Financial Bank USA.">
+</div>
+</button>
+<div class="dropdown-menu dropdown-menu--fixed-width">
+
+<div class="nav-students-desktop-parking"></div>
+</div>
+</div>
+
+<div class="sticky-footer__menu">
+<div class="tools-mobile-parking d-md-none">
+<div class="tools dropdown">
+<button class="search-tools__toggler btn btn-icon dropdown-toggle" type="button" id="toolsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<img src="/static/collegedata/images/icon-wrench-blue.svg" alt="">
+<span class="sr-only">Tools</span>
+</button>
+<div class="dropdown-menu dropdown-menu-right dropdown-menu--fixed-width dropdown-menu--scrollable" aria-labelledby="toolsDropdown">
+<a class="dropdown-item" href="/en/explore-colleges/college-search/">
+<div class="dropdown-iconlink">
+<img src="/4abd35/siteassets/icons/icon-collegematch.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">College Match</span><br />
+Find the right colleges for you!
+</div>
+</a>
+<a class="dropdown-item" href="/en/prepare-and-apply/college-chances/">
+<div class="dropdown-iconlink">
+<img src="/4abd02/siteassets/icons/icon-collegechances.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">College Chances</span><br />
+Will you get in? Find out!
+</div>
+</a>
+<a class="dropdown-item" href="/en/prepare-and-apply/admissions-tracker/">
+<div class="dropdown-iconlink">
+<img src="/4abb94/siteassets/icons/icon-admissionstracker.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">Admissions Tracker</span><br />
+See who got in where, who&#39;s applying &amp; how you compare!
+</div>
+</a>
+<a class="dropdown-item" href="/en/pay-your-way/financial-aid-tracker/">
+<div class="dropdown-iconlink">
+<img src="/4aba06/siteassets/icons/icon-financialaidtracker2.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">Financial Aid Tracker</span><br />
+See who&#39;s getting financial aid, how much &amp; how you stack up.
+</div>
+</a>
+<a class="dropdown-item" href="/en/pay-your-way/scholarship-finder/">
+<div class="dropdown-iconlink">
+<img src="/4aba3b/siteassets/icons/icon-scholarshipfinder.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">Scholarship Finder</span><br />
+Find money for college!
+</div>
+</a>
+<a class="dropdown-item" href="/en/pay-your-way/efc-calculator/">
+<div class="dropdown-iconlink">
+<img src="/4ab937/siteassets/icons/efc_calculator_icon.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">EFC Calculator</span><br />
+Calculate your Expected Family Contribution.
+</div>
+</a>
+<a class="dropdown-item" href="/en/pay-your-way/net-price-calculator/">
+<div class="dropdown-iconlink">
+<img src="/4ababf/siteassets/icons/net_price_calculator_icon.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">Net Price Calculator</span><br />
+See your true out-of-pocket cost to attend any college.
+</div>
+</a>
+<a class="dropdown-item" href="/en/pay-your-way/compare-awards/">
+<div class="dropdown-iconlink">
+<img src="/4abdb6/siteassets/icons/icon-compareawards.svg" class="dropdown-iconlink__icon" alt="">
+<span class="color-link">Compare Awards</span><br />
+Find out which college is offering you the best deal.
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="stickey-footer__social d-none d-md-block">
+<a href="https://www.facebook.com/CollegeData/" class="social-icon">
+<span class="sr-only">Like on Facebook</span>
+<span class="fas fa-thumbs-up"></span>
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/" class="social-icon">
+<span class="sr-only">Share on Twitter</span>
+<span class="fab fa-twitter"></span>
+</a>
+<a href="https://www.pinterest.com/collegedata/" class="social-icon">
+<span class="sr-only">Pin on Pinterest</span>
+<span class="fab fa-pinterest-p"></span>
+</a>
+<a href="https://www.instagram.com/collegedata/?ref=badge" class="social-icon">
+<span class="sr-only">Share on Instagram</span>
+<span class="fab fa-instagram"></span>
+</a>
+</div>
+<div class="btn-group dropup">
+<button type="button" class="btn-calendar btn btn-footer" data-toggle="modal" data-target="#datesDeadlinesModal">
+<img class="btn-calendar__icon" src="/static/collegedata/images/icon-calendar.svg" alt="">
+</button>
+</div>
+<div class="btn-group dropup d-none d-md-block">
+<div class="btn-group dropup">
+<button class="btn-dl btn btn-primary" type="button" data-toggle="modal" data-target="#dataLockerModal" id="footerCsDataLockerElemId">
+<span class="sr-only">Opens a modal dialog</span>
+<img class="btn-dl__icon" src="/static/collegedata/images/icon-locker.svg" alt="">
+My Data Locker
+</button>
+</div>
+</div>
+<div class="stickey-footer__social social-phone-only">
+<a href="https://www.facebook.com/CollegeData/" class="social-icon">
+<span class="sr-only">Like on Facebook</span>
+<span class="fas fa-thumbs-up"></span>
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/" class="social-icon">
+<span class="sr-only">Share on Twitter</span>
+<span class="fab fa-twitter"></span>
+</a>
+<a href="https://www.pinterest.com/collegedata/" class="social-icon">
+<span class="sr-only">Pin on Pinterest</span>
+<span class="fab fa-pinterest-p"></span>
+</a>
+<a href="https://www.instagram.com/collegedata/?ref=badge" class="social-icon">
+<span class="sr-only">Share on Instagram</span>
+<span class="fab fa-instagram"></span>
+</a>
+</div>
+</div>
+</div>
+<div class="dl-modal modal" tabindex="-1" role="dialog" aria-label="Log in to view your Data Locker Dashboard" id="dataLockerModal">
+<div class="dl-modal__dialog modal-dialog" role="document">
+<div class="dl-modal__content modal-content">
+<div class="dl-modal__header modal-header d-block">
+<div class="ui-wysiwyg">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<h3 id="dataLockerModalLabel">You must be logged in to view your Data Locker Dashboard</h3>
+<p><a id="dataLockerModalLoginBtnElem" class="white-text" href="/en/login/">Log in</a> to see all of your saved colleges, scholarships, articles, profiles and searches in one place. Access your Dashboard from any page.</p>
+</div>
+</div>
+<div class="dl-modal__body modal-body">
+<div class="mx-auto" style="width: 100%; max-width: 300px;">
+<form class="mb-3" action="/en/login/Submit/" method="post">
+<input class="js-login-with-email" data-val="true" data-val-required="&#39;LoginWithEmail&#39; must not be empty." id="LoginForm_LoginWithEmail" name="LoginForm.LoginWithEmail" type="hidden" value="True" />
+<div style="display: none; color: red;" id="DataLockerBadLogin">
+Your login details do not match our records. Please re-enter
+</div>
+<div class="js-username" style="display: none;">
+<div class="form-group">
+<label for="DataLockerLoginUsername">User Name</label>
+<input class="form-control form-control-lg" id="DataLockerLoginUsername" maxlength="50" name="LoginForm.Username" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Username" data-valmsg-replace="true"></span>
+<p><a href="#" class="js-email-toggle" onclick="$('.js-username').hide(); $('.js-email').show(); $('.js-login-with-email').val('true');">Log in with Email</a></p>
+</div>
+</div>
+<div class="js-email">
+<div class="form-group">
+<label for="DataLockerLoginEmail">E-mail Address</label>
+<input class="form-control form-control-lg" id="DataLockerLoginEmail" maxlength="50" name="LoginForm.Email" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Email" data-valmsg-replace="true"></span>
+<p><a href="#" class="js-email-toggle" onclick="$('.js-email').hide(); $('.js-username').show(); $('.js-login-with-email').val('false');">Log in with Username</a></p>
+</div>
+</div>
+<div class="form-group">
+<label for="DataLockerLoginPassword">Password</label>
+<input class="form-control form-control-lg" data-val="true" data-val-required="You must enter your password." id="DataLockerLoginPassword" maxlength="25" name="LoginForm.Password" type="password" />
+<span class="field-validation-valid" data-valmsg-for="LoginForm.Password" data-valmsg-replace="true"></span>
+</div>
+<input id="DataLockerLoginCanonicalUrl" name="LoginForm.CanonicalUrl" type="hidden" value="/college/Abilene-Christian-University/?tab=profile-admission-tab" />
+<button class="btn btn-primary w-100" type="submit" name="button">Log in</button>
+</form>
+<a href="/en/forgot-log-in/">Forgot your log in details?</a>
+</div>
+</div>
+<div class="dl-modal__footer modal-footer d-block border-top">
+<div class="float-left">
+<h4>New User?</h4>
+<p class="mb-0"><a href="/en/sign-up/" id="signupDataLockerPromoBtnElem">Sign Up</a> for your free account.</p>
+</div>
+<button class="btn btn-secondary ml-0 mt-3 mt-sm-0 float-right" type="button" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal custom" tabindex="-1" role="dialog" id="datesDeadlinesModal">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Dates and Deadlines</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="dropdown-item">
+<strong>February 8, 2020</strong><br>
+<span>ACT test date</span>
+</div>
+<div class="dropdown-item">
+<strong>March 14, 2020</strong><br>
+<span>SAT test date</span>
+</div>
+<div class="dropdown-item">
+<strong>April 4, 2020</strong><br>
+<span>ACT test date</span>
+</div>
+<div class="dropdown-item">
+<strong>May 2, 2020</strong><br>
+<span>SAT & SAT Subject Tests test date</span>
+</div>
+<div class="dropdown-item">
+<strong>June 6, 2020</strong><br>
+<span>SAT & SAT Subject Tests test date</span>
+</div>
+<div class="dropdown-item">
+<strong>June 13, 2020</strong><br>
+<span>ACT test date</span>
+</div>
+<div class="dropdown-item">
+<strong>June 30, 2020</strong><br>
+<span>Last date to submit FAFSA for federal aid for 2019-20 school year</span>
+</div>
+<div class="dropdown-item">
+<strong>July 18, 2020</strong><br>
+<span>ACT test date (not in NY)</span>
+</div>
+<div class="dropdown-item">
+<strong>September 12, 2020</strong><br>
+<span>Last date to submit FAFSA corrections for federal aid for 2019-20 school year</span>
+</div>
+<div class="dropdown-item">
+<strong>June 30, 2021</strong><br>
+<span>Last date to submit FAFSA for federal aid for 2020-21 school year</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="/bundles/collegedataBndl.js?v=nBKD_uSiKBl-sN4I0XsNrKqzTiCq0SibuW7W4L-Bf2o1"></script>
+<script src="/bundles/collegeProfileBndl.js?v=DZ-50js7ISYuVM2d1hO_9BDOgtBNdGd4FbYrrnbaO841"></script>
+<div class="modal fade" id="saveCollegeProfileSignUpModal" tabindex="-1" role="dialog" aria-labelledby="saveCollegeProfileSignUpModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<img src="/static/collegedata/images/page-curl.jpg" class="page-curl" alt="">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<div class="page-curl__pad">
+<h2 id="saveCollegeProfileSignUpModalTitle">You Must Be Logged In To Do This</h2>
+<p><strong>Log in</strong> to save this scholarship to your Data Locker.<br /><br /><strong>Not signed up?</strong> Click the "Tell Me More" button to learn more about the Data Locker and how to get your free CollegeData account.</p>
+<div class="flex-row flex-row--stretch">
+<div class="text-center">
+<a href="/en/data-locker/registration/" class="btn btn-primary btn-block js-continuation-link">Tell me More</a>
+</div>
+<div class="text-center">
+Already have an account?<br>
+<a class="js-continuation-link" href="/en/login/">Log in</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span id="schoolName" style="display:none">Abilene Christian University</span>
+<div id="collegeMapModal" class="modal fade" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+<iframe style="border:0;width: 100%;height: 450px;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAPzH0d8XBSHR6CEOjS5MHrhPHLhXBv8PE&amp;q=Abilene+Christian+University,Abilene,TX,79699" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="collProfileEmailResults" tabindex="-1" role="dialog" aria-labelledby="saveSearchModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<form action="/collegeprofileutil/SendEmailCollegeProfileResults" method="post" id="CollegeProfileResultsEmailForm">
+<input id="SchoolName" name="SchoolName" type="hidden" value="" />
+<div class="modal-body">
+<h2 class="h3">E-mail these College Profile Results from CollegeData </h2>
+<div class="card">
+<div class="card-body">
+<label for="yourEmailaddress">Your E-mail Address</label>
+<input class="form-control" data-val="true" data-val-required="Your e-mail address is required." id="YourEmailAddress" name="YourEmailAddress" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="YourEmailAddress" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<label for="emailaddresses">Recipient E-mail Addresses</label>
+<div class="small">
+Separate multiple e-mail addresses with commas.<br />Limited to 20 addresses.
+</div>
+<input class="form-control" data-val="true" data-val-required="You must enter at least one recipient e-mail address." id="EmailAddresses" name="EmailAddresses" type="text" value="" />
+<span class="field-validation-valid" data-valmsg-for="EmailAddresses" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<label for="emailmessage">Message</label>
+<div class="small">Limited to 1500 characters, about 50 lines.</div>
+<textarea class="form-control" cols="20" id="Message" name="Message" rows="2"></textarea>
+</div>
+</div>
+<div class="card">
+<div class="card-body">
+<div class="form-check">
+<input class="form-check-input" type="checkbox" value="true" name="SendMeACopy" id="SendMeACopy">
+<label class="form-check-label" for="SendMeACopy">
+Send me a copy of this message
+</label>
+</div>
+</div>
+</div>
+<div class="text-center">
+<button class="btn btn-primary" type="button" id="collProfileEmailSendBtn">Send Message</button>
+<button class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+<input type="hidden" value="https://www.collegedata.com/en/college-profile/Abilene-Christian-University/?tab=profile-admission-tab" name="Canonical" />
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal fade" id="collProfileEmailResultsSuccessModal" tabindex="-1" role="dialog" aria-labelledby="saveSearchModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<p><strong>This CollegeData College Profile has been sent to the addresses you requested.</strong></p>
+<div class="text-center">
+<button class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+        a.text-decoration-none, a.text-decoration-none:hover {
+            text-decoration: none;
+            outline: 0;
+        }
+    </style>
+<script type="text/javascript">
+        var addthis_config =
+        {
+            services_exclude: 'email'
+        }
+    </script>
+<div id="liteRegModalSetup" style="display:none;"> <span id="liteRegIntervalValue" style="display:none">36000</span>
+<style type="text/css">
+    @media (min-width: 768px) {
+
+        .reglite_modal_bgimageclass {
+            padding: 9px 25px;
+            background-image: url(/4ab23c/siteassets/lite-registration-images/reglite_profiles_hero2.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: #d8d9d9 !important;
+            background-size: cover;
+        }
+    }
+</style>
+<div class="modal fade" id="liteRegMainElemId" tabindex="-1" role="dialog" aria-labelledby="LiteRegistrationModalCenterTitle" aria-hidden="true">
+<div class=" reglite_modal modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal_bg reglite_modal_bgimageclass">
+<button type="button" class="close closeBtn" data-dismiss="modal" aria-label="Close" id="liteRegModalCloseBtnElem">
+<span aria-hidden="true">&times;</span>
+</button>
+<h3>Explore Colleges You&#39;re Interested In!</h3>
+<p class="pt-2">Just provide the information below to learn about the colleges you're interested in. We request this information to help us customize and improve the site. To avoid seeing this pop-up again, we invite you to <strong><a href="/en/sign-up/" title="Register">register</a> - it's FREE! -</strong> to use CollegeData. You will then have full access to the site's tools and content.</p>
+<div class="row">
+<div class="col-md-8">
+<div class="form article_form">
+<span id="LiteRegistrationForm_Common_Error" class="field-validation-error" style="display:none" data-valmsg-replace="true"></span>
+<form id="liteRegModalFormElemId">
+<input id="LiteRegistrationForm_RegLiteID" name="LiteRegistrationForm.RegLiteID" type="hidden" value="" />
+<div class="form-row">
+<div class="form-group col-6">
+<label for="LiteRegistrationForm_FirstName">First Name</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_FirstName" maxlength="20" name="LiteRegistrationForm.FirstName" type="text" value="" />
+<span id="LiteRegistrationForm_FirstName_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.FirstName" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group col-6">
+<label for="LiteRegistrationForm_LastName">Last Name</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_LastName" maxlength="20" name="LiteRegistrationForm.LastName" type="text" value="" />
+<span id="LiteRegistrationForm_LastName_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.LastName" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-group">
+<label for="LiteRegistrationForm_EmailAddress">E-mail Address</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_EmailAddress" maxlength="50" name="LiteRegistrationForm.EmailAddress" type="text" value="" />
+<span id="LiteRegistrationForm_EmailAddress_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.EmailAddress" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+<label for="LiteRegistrationForm_DateOfBirth">Date of Birth</label> <span class="req">*</span>
+<div class="input-group">
+<select aria-label="Month" class="input-group-prepend custom-select" id="LiteRegistrationForm_DateOfBirthMonth" name="LiteRegistrationForm.DateOfBirthMonth"><option value="">Month</option>
+<option value="1">01</option>
+<option value="2">02</option>
+<option value="3">03</option>
+<option value="4">04</option>
+<option value="5">05</option>
+<option value="6">06</option>
+<option value="7">07</option>
+<option value="8">08</option>
+<option value="9">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+<select aria-label="Day" class="custom-select" id="LiteRegistrationForm_DateOfBirthDay" name="LiteRegistrationForm.DateOfBirthDay"><option value="">Day</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select aria-label="Year" class="input-group-append custom-select" id="LiteRegistrationForm_DateOfBirthYear" name="LiteRegistrationForm.DateOfBirthYear"><option value="">Year</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
+<option value="1962">1962</option>
+<option value="1961">1961</option>
+<option value="1960">1960</option>
+<option value="1959">1959</option>
+<option value="1958">1958</option>
+<option value="1957">1957</option>
+<option value="1956">1956</option>
+<option value="1955">1955</option>
+<option value="1954">1954</option>
+<option value="1953">1953</option>
+<option value="1952">1952</option>
+<option value="1951">1951</option>
+<option value="1950">1950</option>
+<option value="1949">1949</option>
+<option value="1948">1948</option>
+<option value="1947">1947</option>
+<option value="1946">1946</option>
+<option value="1945">1945</option>
+<option value="1944">1944</option>
+<option value="1943">1943</option>
+<option value="1942">1942</option>
+<option value="1941">1941</option>
+<option value="1940">1940</option>
+<option value="1939">1939</option>
+<option value="1938">1938</option>
+<option value="1937">1937</option>
+<option value="1936">1936</option>
+<option value="1935">1935</option>
+<option value="1934">1934</option>
+<option value="1933">1933</option>
+<option value="1932">1932</option>
+<option value="1931">1931</option>
+<option value="1930">1930</option>
+<option value="1929">1929</option>
+<option value="1928">1928</option>
+<option value="1927">1927</option>
+</select>
+<span id="LiteRegistrationForm_DateOfBirth_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.DateOfBirth" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-row">
+<div class="form-group col-8">
+<label for="LiteRegistrationForm_UserType">User Type</label> <span class="req">*</span>
+<select class="custom-select" id="LiteRegistrationForm_UserType" name="LiteRegistrationForm.UserType"><option selected="selected" value="None">Select...</option>
+<option value="HighSchoolStudent">High School Student</option>
+<option value="CollegeStudent">College Student</option>
+<option value="Parent">Parent</option>
+<option value="HighSchoolCounselor">High School Counselor</option>
+<option value="CollegeAdmissions">College Admissions / Financial Aid Professional</option>
+<option value="Other">Other</option>
+</select>
+<span id="LiteRegistrationForm_UserType_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.UserType" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group col-4">
+<label for="LiteRegistrationForm_Zip">Zip Code</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_Zip" maxlength="5" name="LiteRegistrationForm.Zip" type="text" value="" />
+<span id="LiteRegistrationForm_Zip_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.Zip" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-group pl-5 pr-5">
+<button type="button" id="liteRegSubmitBtnElem" class="btn subnitButton w-100 text white">Explore Colleges</button>
+</div>
+</form>
+<div class="FooterTitle">
+<p>Already registered?</p>
+</div>
+<div class="FooterSubtitle">
+<p><strong><a href="/en/login/" title="Log In">Log in</a></strong> so the pop-up will no longer appear.&nbsp;</p>
+</div>
+<div class="FooterSummary">
+<p>By providing the information above, logging in or continuing, you agree to CollegeData&rsquo;s <a href="/en/terms/">Terms and Conditions</a> and <a href="/en/privacy/">Privacy Policy</a>.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 SidebarText">
+<p>Download our mobile app, <a href="/en/collegedata-deadlines/" title="CollegeData Deadlines">CollegeData Deadlines</a>, to help you remember important college application deadlines.</p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<span id="liteRegIntervalValue" style="display:none">36000</span>
+<style type="text/css">
+    @media (min-width: 768px) {
+
+        .reglite_modal_bgimageclass {
+            padding: 9px 25px;
+            background-image: url(/4ab23c/siteassets/lite-registration-images/reglite_profiles_hero2.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: #d8d9d9 !important;
+            background-size: cover;
+        }
+    }
+</style>
+<div class="modal fade" id="liteRegMainElemId" tabindex="-1" role="dialog" aria-labelledby="LiteRegistrationModalCenterTitle" aria-hidden="true">
+<div class=" reglite_modal modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal_bg reglite_modal_bgimageclass">
+<button type="button" class="close closeBtn" data-dismiss="modal" aria-label="Close" id="liteRegModalCloseBtnElem">
+<span aria-hidden="true">&times;</span>
+</button>
+<h3>Explore Colleges You&#39;re Interested In!</h3>
+<p class="pt-2">Just provide the information below to learn about the colleges you're interested in. We request this information to help us customize and improve the site. To avoid seeing this pop-up again, we invite you to <strong><a href="/en/sign-up/" title="Register">register</a> - it's FREE! -</strong> to use CollegeData. You will then have full access to the site's tools and content.</p>
+<div class="row">
+<div class="col-md-8">
+<div class="form article_form">
+<span id="LiteRegistrationForm_Common_Error" class="field-validation-error" style="display:none" data-valmsg-replace="true"></span>
+<form id="liteRegModalFormElemId">
+<input id="LiteRegistrationForm_RegLiteID" name="LiteRegistrationForm.RegLiteID" type="hidden" value="" />
+<div class="form-row">
+<div class="form-group col-6">
+<label for="LiteRegistrationForm_FirstName">First Name</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_FirstName" maxlength="20" name="LiteRegistrationForm.FirstName" type="text" value="" />
+<span id="LiteRegistrationForm_FirstName_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.FirstName" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group col-6">
+<label for="LiteRegistrationForm_LastName">Last Name</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_LastName" maxlength="20" name="LiteRegistrationForm.LastName" type="text" value="" />
+<span id="LiteRegistrationForm_LastName_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.LastName" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-group">
+<label for="LiteRegistrationForm_EmailAddress">E-mail Address</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_EmailAddress" maxlength="50" name="LiteRegistrationForm.EmailAddress" type="text" value="" />
+<span id="LiteRegistrationForm_EmailAddress_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.EmailAddress" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+<label for="LiteRegistrationForm_DateOfBirth">Date of Birth</label> <span class="req">*</span>
+<div class="input-group">
+<select aria-label="Month" class="input-group-prepend custom-select" id="LiteRegistrationForm_DateOfBirthMonth" name="LiteRegistrationForm.DateOfBirthMonth"><option value="">Month</option>
+<option value="1">01</option>
+<option value="2">02</option>
+<option value="3">03</option>
+<option value="4">04</option>
+<option value="5">05</option>
+<option value="6">06</option>
+<option value="7">07</option>
+<option value="8">08</option>
+<option value="9">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+<select aria-label="Day" class="custom-select" id="LiteRegistrationForm_DateOfBirthDay" name="LiteRegistrationForm.DateOfBirthDay"><option value="">Day</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select aria-label="Year" class="input-group-append custom-select" id="LiteRegistrationForm_DateOfBirthYear" name="LiteRegistrationForm.DateOfBirthYear"><option value="">Year</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
+<option value="1962">1962</option>
+<option value="1961">1961</option>
+<option value="1960">1960</option>
+<option value="1959">1959</option>
+<option value="1958">1958</option>
+<option value="1957">1957</option>
+<option value="1956">1956</option>
+<option value="1955">1955</option>
+<option value="1954">1954</option>
+<option value="1953">1953</option>
+<option value="1952">1952</option>
+<option value="1951">1951</option>
+<option value="1950">1950</option>
+<option value="1949">1949</option>
+<option value="1948">1948</option>
+<option value="1947">1947</option>
+<option value="1946">1946</option>
+<option value="1945">1945</option>
+<option value="1944">1944</option>
+<option value="1943">1943</option>
+<option value="1942">1942</option>
+<option value="1941">1941</option>
+<option value="1940">1940</option>
+<option value="1939">1939</option>
+<option value="1938">1938</option>
+<option value="1937">1937</option>
+<option value="1936">1936</option>
+<option value="1935">1935</option>
+<option value="1934">1934</option>
+<option value="1933">1933</option>
+<option value="1932">1932</option>
+<option value="1931">1931</option>
+<option value="1930">1930</option>
+<option value="1929">1929</option>
+<option value="1928">1928</option>
+<option value="1927">1927</option>
+</select>
+<span id="LiteRegistrationForm_DateOfBirth_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.DateOfBirth" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-row">
+<div class="form-group col-8">
+<label for="LiteRegistrationForm_UserType">User Type</label> <span class="req">*</span>
+<select class="custom-select" id="LiteRegistrationForm_UserType" name="LiteRegistrationForm.UserType"><option selected="selected" value="None">Select...</option>
+<option value="HighSchoolStudent">High School Student</option>
+<option value="CollegeStudent">College Student</option>
+<option value="Parent">Parent</option>
+<option value="HighSchoolCounselor">High School Counselor</option>
+<option value="CollegeAdmissions">College Admissions / Financial Aid Professional</option>
+<option value="Other">Other</option>
+</select>
+<span id="LiteRegistrationForm_UserType_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.UserType" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group col-4">
+<label for="LiteRegistrationForm_Zip">Zip Code</label> <span class="req">*</span>
+<input class="form-control" id="LiteRegistrationForm_Zip" maxlength="5" name="LiteRegistrationForm.Zip" type="text" value="" />
+<span id="LiteRegistrationForm_Zip_Error" class="field-validation-error" style="display:none" data-valmsg-for="LiteRegistrationForm.Zip" data-valmsg-replace="true"></span>
+</div>
+</div>
+<div class="form-group pl-5 pr-5">
+<button type="button" id="liteRegSubmitBtnElem" class="btn subnitButton w-100 text white">Explore Colleges</button>
+</div>
+</form>
+<div class="FooterTitle">
+<p>Already registered?</p>
+</div>
+<div class="FooterSubtitle">
+<p><strong><a href="/en/login/" title="Log In">Log in</a></strong> so the pop-up will no longer appear.&nbsp;</p>
+</div>
+<div class="FooterSummary">
+<p>By providing the information above, logging in or continuing, you agree to CollegeData&rsquo;s <a href="/en/terms/">Terms and Conditions</a> and <a href="/en/privacy/">Privacy Policy</a>.</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 SidebarText">
+<p>Download our mobile app, <a href="/en/collegedata-deadlines/" title="CollegeData Deadlines">CollegeData Deadlines</a>, to help you remember important college application deadlines.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4db9aa9b3f2cc651" async></script>
+<div class="modal fade" id="survey_cnf_modal" tabindex="-1" role="dialog" aria-labelledby="surveycnfTitle" aria-hidden="false">
+<div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+<div class="modal-content survey_cnf border-0 dl-modal__content">
+<div class="text-center mt-4">
+<span class="logo d-inline-block"><img src="/static/collegedata/images/CS_logo_205x50_2019_08_26.svg"></span>
+</div>
+<h3 id="surveycnfTitle" class="text-center mt-4"><span>Thanks for completing</span> <span>the CollegeData sign up</span> process!</h3>
+<button type="button" class="btn btn-primary btn-xl btn_cnf" data-dismiss="modal">Let's Get Started</button>
+<div class="dl-modal__body modal-body text-center pt-4 pb-4">
+<p class="fa-xs">CollegeData is committed to supporting you on your path to college, providing <span>you with a responsible, reliable service to help you fulfill your college dreams.</span></p>
+<p class="fa-xs font-italic">CollegeData is a service of 1st Financial Bank USA. </p>
+</div>
+<button type="button" class="close closeBtn" data-dismiss="modal" id="signupSurveyModalCloseBtnElem" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+</div>
+</div>
+<div class="dl-modal modal fade" id="collegeDataDollarsModal" tabindex="-1" role="dialog" aria-labelledby="collegeDataDollarsModalLabel" aria-hidden="true">
+<div class="dl-modal__dialog modal-dialog" role="document">
+<div class="dl-modal__content modal-content">
+<div class="dl-modal__header modal-header d-block">
+<div class="ui-wysiwyg">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<h3 class="modal-title" id="collegeDataDollarsModalLabel">CollegeData Dollars are points you earn by completing certain CollegeData activities</h3>
+<p>Four of the best ways to earn CollegeData Dollars:</p>
+<ol>
+<li>Complete your <a>Admissions Profile</a>.</li>
+<li>Add colleges to your <a>College Choices</a>.</li>
+<li>Update your <a>Admissions Statuses</a>.</li>
+<li>Use the <a>College Match</a> tool.</li>
+</ol>
+</div>
+</div>
+<div class="dl-modal__body modal-body">
+<div class="container cdd_main">
+<div class="row">
+<div class="col-lg-12 order-lg-1">
+<h1>What are CollegeData Dollars (CD$)?</h1>
+</div>
+<div class="col-lg-3 order-lg-3 text-center"><img class="" src="/49ea89/siteassets/icons/cd-dollar.svg" alt="" width="84" height="84" /></div>
+<div class="col-lg-9 order-lg-2">
+<p>CollegeData Dollars (CD$) are points you earn by completing certain CollegeData activities. The maximum number of CD$ you can redeem is 5000. Once you have earned at least 2500 CD$, you can redeem them for $25, which will be provided to you on a Loyalty Card, and once you earn another 2500 CD$, you can redeem those CD$ for a second $25, which will also be provided to you on a Loyalty Card.</p>
+</div>
+</div>
+<hr class="my-5" />
+<div class="row">
+<div class="col-lg-12 order-lg-1">
+<h1>Earn points and redeem them for U.S. Dollars</h1>
+</div>
+<div class="col-lg-3 order-lg-3 text-center"><img class="" src="/4a30d1/siteassets/landing-page-images/cdd-loyalty-plastic.png" alt="" width="356" height="233" /></div>
+<div class="col-lg-9 order-lg-2">
+<p>Complete certain CollegeData activities (for example, signing up, starting your Admissions Profile, searching for colleges, calculating your chances for admission, searching for scholarships, updating your Profile with your admission decisions). Each activity is worth a specific amount of points (CD$). You can redeem the points you earn for U.S. Dollars that will be issued to you in the form of a 1st Financial Bank USA Loyalty Mastercard&reg;.</p>
+</div>
+</div>
+<hr class="my-5" />
+<div class="row">
+<div class="col-lg-12 order-lg-1">
+<h1>How do I earn CollegeData Dollars?</h1>
+</div>
+<div class="col-lg-3 order-lg-3 text-center"><img class="" src="/4ab27a/siteassets/promo-images/cd$_earning_image.png" alt="" width="452" height="273" /></div>
+<div class="col-lg-9 order-lg-2">
+<p>You can earn CD$ by completing certain CollegeData activities. As soon as you sign up and activate your CollegeData account, explore CollegeData and begin completing CollegeData activities to earn points.</p>
+<p>Here is a full list of CollegeData activities for which you may earn CD$ and the number of CD$ you can earn by completing each activity.*</p>
+</div>
+<div class="col-lg-12 order-lg-4">
+<table id="cdd_earn_activities" class="table table-sm table-borderless table-hover">
+<thead>
+<tr>
+<th scope="col">Activity</th>
+<th scope="col">CD$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sign up for CollegeData</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>Provide additional information at sign up</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Search for colleges and save one to your Data Locker</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Calculate your chances of admission at any college</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Search for scholarships and save one to your Data Locker</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Start your Admissions Profile</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Start your College List in your Admissions Profile</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Add SAT and ACT scores to your Admissions Profile</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Add application details to your Admissions Profile</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Add activities and awards to your Admissions Profile</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Add your weighted GPA to your Admissions Profile</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Complete your Admissions Profile</td>
+<td>1000</td>
+</tr>
+</tbody>
+</table>
+<p class="disclaimer">* CD$ you earn will expire if your CD$ Program account is inactive. An account will be inactive if no CD$ are earned and no CD$ are redeemed in any 12 consecutive calendar month period.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="dl-modal__footer modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="dl-modal modal fade" id="collegeDataDollarsTermsModal" tabindex="-1" role="dialog" aria-labelledby="collegeDataDollarsTermsModalLabel" aria-hidden="true">
+<div class="dl-modal__dialog modal-dialog" role="document">
+<div class="dl-modal__content modal-content">
+<div class="dl-modal__header modal-header d-block">
+<div class="ui-wysiwyg">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<h3 class="modal-title" id="collegeDataDollarsTermsModalLabel"></h3>
+</div>
+</div>
+<div class="dl-modal__body modal-body">
+<h1 align="center">CollegeData Dollars (CD$) Program Terms and Conditions</h1>
+<p>These Terms and Conditions govern your participation in the CollegeData Dollars program ("CD$ Program" or "Program") that is available at collegedata.com, a service provided by 1st Financial Bank USA ("Bank," "we," "our" or "us"). By accepting these Terms and Conditions, you agree to them and all terms incorporated herein by reference. If you do not agree to these Terms and Conditions, you may not participate in the Program.</p>
+<h2>1. Program Participation and Eligibility</h2>
+<p>The CD$ Program is a loyalty rewards program for your personal use only. Commercial use is prohibited. To be eligible to participate in the CD$ Program, you must be at least 16 years of age, a high school sophomore, junior or senior or college freshman, and a U.S. citizen or permanent U.S. resident with a U.S. mailing address. Eligibility criteria may change at any time in our sole and exclusive discretion. If you are between the age of 16 and the age of majority in your state of residence, you may only participate in the CD$ Program with the consent and supervision of your parent or legal guardian. The program is not intended for or targeted to anyone under the age of 16.</p>
+<p>If you are between age 16 and majority age in your state of residence, your parent or guardian must acknowledge and agree to these Terms and Conditions and to any changes or modifications we may make to them. You (or, if you are between age 16 and majority age in your state of residence, your parent or guardian) should review these Terms and Conditions to understand the terms and conditions that apply to the CD$ Program as they may change from time to time. These Terms and Conditions do not alter in any way the terms or conditions of any other agreement you may have with the Bank for other products and services. To understand how the Bank collects, uses and discloses information about CollegeData users, please review our <a href="/en/privacy/">Privacy Policy</a></p>
+<h2>2. Program Enrollment</h2>
+<p>There is no charge for your enrollment and participation in the CD$ Program. There are no participation or other fees associated with the Program. To enroll and participate in the Program, you must sign up for CollegeData at www.collegedata.com, satisfy the Program eligibility requirements, check the box indicating that you intend to participate in the Program, and agree to these Terms and Conditions. When you sign up for CollegeData, you must provide true, accurate, current and complete information about yourself and must maintain and promptly update such information to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, manipulative, not current or incomplete, or if we, in our sole discretion, suspect that any such information is untrue, inaccurate, not current or incomplete, we reserve the right to suspend, terminate or decline your participation in the CD$ Program.</p>
+<p>You may have only one CD$ Program account that is personal to you and up to three CD$ Program accounts may be associated with the same U.S. mailing address.</p>
+<h2>3. Earning CollegeData Dollars (CD$)</h2>
+<p>CollegeData Dollars are points (these points are hereinafter referred to as "CD$") you may earn after you enroll in the CD$ Program by completing specific activities listed on collegedata.com ("Eligible CD$ Activities"). CD$ are not U.S. Dollars or any foreign currency of any kind. One CD$ may be redeemed for $.01, provided you have at least 2500 CD$ at the time of redemption. Please see Section 4 of this Agreement for more details on how to redeem your CD$ for U.S. Dollars. CD$ you earn will expire if they are not redeemed in a timely manner as set forth in Section 5 of this Agreement. Eligible CD$ Activities and the number of CD$ that you may earn for each activity you complete are available at collegdata.com. The Eligible CD$ Activities and the number of CD$ you may earn for each activity are subject to change by the Bank, at any time, without notice from, or liability to, us.</p>
+<p>The CD$ you earn are personal to you and may not be sold, transferred or assigned to, or shared with family, friends or anyone else.</p>
+<p>You can view, track and redeem the CD$ you earn at www.collegedata.com.</p>
+<h2>4. Redeeming CD$</h2>
+<p>Once you earn 2500 CD$, you are eligible to redeem them for U.S. Dollars that will be provided to you in the form of a Bank-issued loyalty card or virtual loyalty card ("Loyalty Card") that you can use, subject to the Loyalty Card Agreement, to make purchases wherever Mastercard&reg; debit cards are accepted in the United States. One CD$ is worth $.01 when it is redeemed.</p>
+<p>The monetary value of the CD$ you redeem for U.S. Dollars may be considered taxable income from the Bank in the tax year in which you redeem them pursuant to U.S. tax law.</p>
+<h2>5. Expiration of CD$</h2>
+<p>CD$ YOU EARN BUT DO NOT REDEEM WILL EXPIRE IF YOUR CD$ PROGRAM ACCOUNT IS INACTIVE. YOUR CD$ PROGRAM ACCOUNT WILL BE INACTIVE IF NO CD$ ARE EARNED AND IF THE CD$ YOU HAVE EARNED ARE NOT REDEEMED IN ANY 12 CONSECUTIVE CALENDAR MONTH PERIOD.</p>
+<h2>6. Expiration of Loyalty Card</h2>
+<p>Note: Loyalty Cards and the funds underlying those cards expire at a different time and under different circumstances than the CD$ you earn but do not redeem.</p>
+<p>A LOYALTY CARD ISSUED TO YOU TO REDEEM CD$ FOR U.S. DOLLARS PURSUANT TO THE CD$ PROGRAM AND YOUR RIGHT TO USE THE FUNDS UNDERLYING THE CARD WHEREVER MASTERCARD DEBIT CARDS ARE ACCEPTED IN THE UNITED STATES WILL EXPIRE ON THE DATE THAT APPEARS ON THE FRONT OF THE CARD.</p>
+<p>Subject to applicable law, there is no right to cash redemption associated with the funds on any Loyalty Card. For more information about the expiration of Loyalty Cards, including the funds underlying those cards, see Loyalty Card Agreement.</p>
+<h2>7. Program Termination</h2>
+<p>We reserve the right in our sole and absolute discretion to change, cancel or modify any aspect of these Terms and Conditions or the CD$ Program at any time and in any way. We also reserve the right in our sole and absolute discretion to terminate your participation in the CD$ Program and decline your future participation in the Program for any violation of these Terms and Conditions, taking any action that is inconsistent with the intent of these Terms and Conditions, or any fraudulent, potentially fraudulent, deceptive, or unusual behavior or activity in connection with the Program.</p>
+<p>In the event that your participation in the CD$ Program is terminated, all of your earned and unredeemed CD$ will be null and void.</p>
+<p>Any change, cancellation or modification to these Terms and Conditions or the CD$ Program will be effective immediately upon posting the change, cancellation or modification at www.collegedata.com. You waive any right you may have to receive specific notice of such changes or modifications.</p>
+<h2>8. Communications</h2>
+<p>By participating in the CD$ Program, you may periodically receive email from us. You may opt out of receiving marketing email at any time but may not opt out of receiving operational emails related to your participation in the CD$ Program, such as requesting that you validate your email address or confirming your CD$ Program account activity.</p>
+<h2>9. Relationship to Loyalty Card Agreement</h2>
+<p>These Terms and Conditions complement and incorporate by reference the Loyalty Card Agreement. The Loyalty Card Agreement governs the Loyalty Cards issued to you pursuant to the CD$ Program. In the event of a conflict between the Loyalty Card Agreement and these Terms and Conditions, the terms and conditions set forth in the Loyalty Card Agreement govern.</p>
+<h2>10. Compliance with Terms and Conditions</h2>
+<p>Your CD$ are not valid unless earned in strict compliance with these Terms and Conditions. You may not earn or attempt to earn CD$ by any means that only simulate compliance with these Terms and Conditions, such as by using any script, bot, data mine or other automated means. CD$ earned other than in strict compliance with these Terms and Conditions or by any means that only simulate compliance with these Terms and Conditions are null and void.</p>
+<h2>11. Governing Law</h2>
+<p>These Terms and Conditions are subject to the laws of South Dakota.</p>
+<h2>12. Release</h2>
+<p>Except for our willful misconduct, by participating in the CD$ Program, you release us and our officers, directors, affiliates, employees and agents ("Released Parties") from any and all liability for any loss, harm, damages, cost or expense arising out of or in any way connected to the CD$ Program or these Terms and Conditions.</p>
+<h2>13. Indemnification</h2>
+<p>Subject to any limitation under applicable law on your liability to the Released Parties arising from participation in the CD$ Program, you agree to indemnify and hold the Released Parties from and against any and all claims, suits, damages, judgments, liabilities, costs, and expenses (including, without limitation, attorneys' fees) arising out of or in any way connected to the CD$ Program or these Terms and Conditions.</p>
+<h2>14. Contact Information</h2>
+<p>If you have any questions about these Terms and Conditions or the CD$ Program, please contact us at <a href="/en/contact-us/">www.collegedata.com/en/contact-us</a></p>
+</div>
+<div class="dl-modal__footer modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<span id="exitModalIntervalValElem" style="display:none">180</span>
+<style type="text/css">
+    .modal_bg.exit_modal {
+        background: url(/4ab2c7/siteassets/exit-modal-images/exit_modal_background.jpg);
+        background-size: cover;
+        min-height: 600px;
+        background-color: #d5d8d9;
+    }
+    </style>
+<div class="modal fade" id="exit_ilg_modal" tabindex="-1" role="dialog" aria-label="Thanks for visiting CollegeData" aria-hidden="true">
+<div class="exit_modal_content modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal_bg exit_modal">
+<div class="logo">
+<span class="d-block logo_text">CollegeData is a service of</span>
+<span class="logo">
+<img src="/4a30d1/siteassets/exit-modal-images/1fbusa_modal_logo.png" alt="" />
+</span>
+</div>
+<h3>Thanks for visiting, come back soon!</h3>
+<div class="exit_form modal_content">
+<p class="text-center">Are you interested in learning how you can qualify for a Personal Invitation to apply for a Student Credit Card?</p>
+<div class="form-group">
+<a href="https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=ilg-arsenal&amp;sent_from=P" class="btn submitBtn submitButton_ora w-100 text-white" id="exitModelLearnLinkElemId" target="_blank">Yes, Tell Me More!</a>
+</div>
+<p class="text-center">Have you already received your Personal Invitation to apply for a Student Credit Card?</p> <div class="form-group">
+<a href="https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=arsenallandingcd" class="btn submitBtn submitButton_blue w-100 text-white" id="exitModelReceivedLinkElemId" target="_blank">Yes, Apply Now!</a>
+</div>
+<p class="mb-0 text-center small_text">For Students Age 18 or Older</p>
+<p class="mb-0 text-center small_text">Registered users can choose to never see this message.</p>
+</div>
+<button type="button" class="close closeBtn" data-dismiss="modal" id="exitModalCloseBtnElem" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            var RegID = "";
+            var liteRegData = { RegLiteID: "" };
+        </script>
+<script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-6178486-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        //START OF SmartSource Data Collector TAG v10.4.23
+        //Copyright(c) 2017 Webtrends Inc.All rights reserved.
+        window.webtrendsAsyncInit = function () {
+            var dcs = new Webtrends.dcs().init({
+                dcsid: "dcssekw32vz5bdjz5zt1g8flg_3d6m",
+                domain: "statse.webtrendslive.com",
+                timezone: -6,
+                i18n: false,
+                fpcdom: "www.collegedata.com",
+                plugins: {
+                }
+            }).track();
+        };
+        (function () {
+            var s = document.createElement("script"); s.async = true; s.src = "/bundles/cswebtrendsBndl.js?v=KQy4-7l1pV8zwt7tssThSJnFRPT48VKrh23-QOil9lI1";
+            var s2 = document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s, s2);
+        }());
+       //END OF SmartSource Data Collector TAG v10.4.23
+    </script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcshl5icsuz5bdvgbchhl9flg_1o1i/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.23&amp;dcssip=www.collegedata.com" /></noscript>
+</body>
+</html>
