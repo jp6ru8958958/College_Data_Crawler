@@ -1,12 +1,14 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 
 
 def main():
+	account_info = json.load(open('..//..//Account.json'))
 	header={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) "
 "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
 	}
-	logindata = {'LoginForm.LoginWithEmail': 'True', 'LoginForm.Username': 'jp6ru8958958@gmail.com', 'LoginForm.Email': 'jp6ru8958958@gmail.com', 'LoginForm.Password': 'cd958958', 'LoginForm.CanonicalUrl': '/en/explore-colleges/college-search/SearchByPreference/?SearchByPreference.SearchType=ByName&SearchByPreference.CollegeName=+', 'button': ''
+	logindata = {'LoginForm.LoginWithEmail': 'True', 'LoginForm.Username': account_info['CollegeData']['Email'], 'LoginForm.Email': account_info['CollegeData']['Email'], 'LoginForm.Password': account_info['CollegeData']['Password'], 'LoginForm.CanonicalUrl': '/en/explore-colleges/college-search/SearchByPreference/?SearchByPreference.SearchType=ByName&SearchByPreference.CollegeName=+', 'button': ''
 	}
 	with requests.Session() as s:
 		p = s.post('https://www.collegedata.com/en/login/Submit/', headers=header, data=logindata)
