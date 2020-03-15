@@ -1,0 +1,789 @@
+
+Skip to main content
+#mainContent
+1
+
+
+
+/en/
+2
+
+
+
+Articles
+
+
+
+#
+3
+
+
+
+Student Stories
+
+
+
+#
+4
+
+
+
+Colleges
+
+
+
+#
+5
+
+
+
+Scholarships
+
+
+
+#
+6
+
+
+
+
+7
+Sign Up
+/en/sign-up/
+8
+Log In
+/en/login/
+9
+
+Log In
+
+
+#
+10
+Log in with Email
+#
+11
+Log in with Username
+#
+12
+Forgot your log in details?
+/en/forgot-log-in/
+13
+
+Welcome 
+
+
+#
+14
+
+Opens a modal dialog
+
+My Data Locker
+
+#
+15
+My Admissions Profile
+/en/data-locker/my-admissions-profile/
+16
+My Admissions Profile
+/en/data-locker/my-admissions-profile/
+17
+Saved Colleges
+/en/data-locker/saved-colleges/
+18
+Saved Scholarships
+/en/data-locker/saved-scholarships/
+19
+Saved Searches
+/en/data-locker/saved-searches/
+20
+Saved Admissions Profiles
+/en/data-locker/saved-admissions-profiles/
+21
+Saved Articles
+/en/data-locker/saved-articles/
+22
+Change Password
+/en/data-locker/change-password/
+23
+Update Account
+/en/data-locker/update-my-account/
+24
+Sign Out
+/en/login/Logout/?canonicalUrl=/college/Abilene-Christian-University/?tab=profile-admission-tab
+25
+My Data Locker
+#
+26
+My Admissions Profile
+/en/data-locker/my-admissions-profile/
+27
+Saved Colleges
+/en/data-locker/saved-colleges/
+28
+Saved Scholarships
+/en/data-locker/saved-scholarships/
+29
+Saved Searches
+/en/data-locker/saved-searches/
+30
+Saved Admissions Profiles
+/en/data-locker/saved-admissions-profiles/
+31
+Saved Articles
+/en/data-locker/saved-articles/
+32
+Explore Colleges
+/en/explore-colleges/
+33
+College Match
+/en/explore-colleges/
+34
+The Road to College
+/en/explore-colleges/the-road-to-college/
+35
+The Facts on Fit
+/en/explore-colleges/the-facts-on-fit/
+36
+Explore Your Options
+/en/explore-colleges/explore-your-options/
+37
+Explore Colleges
+/en/explore-colleges/
+38
+
+Click here to Explore Colleges
+
+/en/explore-colleges/
+39
+The Road to College
+#TheRoadtoCollege-tab
+40
+The Facts on Fit
+#TheFactsonFit-tab
+41
+Explore Your Options
+#ExploreYourOptions-tab
+42
+Read More
+/en/explore-colleges/#section1759
+43
+Read More
+/en/explore-colleges/#section1766
+44
+Read More
+/en/explore-colleges/#section1767
+45
+Search for Colleges
+/en/explore-colleges/college-search/
+46
+Prepare & Apply
+/en/prepare-and-apply/
+47
+College Chances
+
+48
+Admissions Tracker
+/en/prepare-and-apply/admissions-tracker/
+49
+Common Application
+
+50
+Strengthen Your Chances
+/en/prepare-and-apply/strengthen-your-chances/
+51
+Apply Yourself
+/en/prepare-and-apply/apply-yourself/
+52
+Prepare & Apply
+/en/prepare-and-apply/
+53
+
+Click here to Prepare & Apply
+
+/en/prepare-and-apply/
+54
+Strengthen Your Chances
+#StrengthenYourChances-tab
+55
+Apply Yourself
+#ApplyYourself-tab
+56
+Read More
+/en/prepare-and-apply/#section2301
+57
+Read More
+/en/prepare-and-apply/#section2304
+58
+Calculate Your Chances
+/en/prepare-and-apply/college-chances/
+59
+See How You Compare
+/en/prepare-and-apply/admissions-tracker/
+60
+Get the Common Application Guide
+/en/prepare-and-apply/common-application-guide/
+61
+Pay Your Way
+/en/pay-your-way/
+62
+Compare Awards
+/en/pay-your-way/compare-awards/
+63
+Financial Aid Tracker
+/en/pay-your-way/financial-aid-tracker/
+64
+EFC Calculator
+/en/pay-your-way/efc-calculator/
+65
+Scholarship Finder
+/en/pay-your-way/scholarship-finder/
+66
+Net Price Calculator
+/en/pay-your-way/net-price-calculator/
+67
+College Sticker Shock
+/en/pay-your-way/college-sticker-shock/
+68
+All About Financial Aid
+/en/pay-your-way/all-about-financial-aid/
+69
+Paying for College
+/en/pay-your-way/paying-for-college/
+70
+Scholarship Smarts
+/en/pay-your-way/scholarship-smarts/
+71
+Pay Your Way
+/en/pay-your-way/
+72
+
+Click here to Pay Your Way
+
+/en/pay-your-way/
+73
+College Sticker Shock
+#CollegeStickerShock-tab
+74
+All About Financial Aid
+#AllAboutFinancialAid-tab
+75
+Paying for College
+#PayingforCollege-tab
+76
+Scholarship Smarts
+#ScholarshipSmarts-tab
+77
+Read More
+/en/pay-your-way/#section2316
+78
+Read More
+/en/pay-your-way/#section2320
+79
+Read More
+/en/pay-your-way/#section2326
+80
+Read More
+/en/pay-your-way/#section2330
+81
+Compare Your Awards
+/en/pay-your-way/compare-awards/
+82
+See How You Stack Up
+/en/pay-your-way/financial-aid-tracker/
+83
+Calculate Your EFC
+/en/pay-your-way/efc-calculator/
+84
+Search for Scholarships
+/en/pay-your-way/scholarship-finder/
+85
+Calculate Your Net Price
+/en/pay-your-way/net-price-calculator/
+86
+College Buzz
+/en/college-buzz/
+87
+Student Stories
+
+88
+Resources for Counselors
+/en/college-buzz/resources-for-counselors/
+89
+Money Matters
+/en/college-buzz/money-matters/
+90
+Campus Life
+/en/college-buzz/campus-life/
+91
+Transfer Students
+/en/college-buzz/transfer-students/
+92
+Study Abroad During College
+/en/college-buzz/study-abroad-during-college/
+93
+College Buzz
+/en/college-buzz/
+94
+
+Click here to College Buzz
+
+/en/college-buzz/
+95
+Money Matters
+#MoneyMatters-tab
+96
+Campus Life
+#CampusLife-tab
+97
+Transfer Students
+#TransferStudents-tab
+98
+Study Abroad During College
+#StudyAbroadDuringCollege-tab
+99
+Read More
+/en/college-buzz/#section2336
+100
+Read More
+/en/college-buzz/#section2337
+101
+Read More
+/en/college-buzz/#section2339
+102
+Read More
+/en/college-buzz/#section2340
+103
+See Student Stories
+/en/stories/student-stories-2021/camilla/
+104
+Counselor Portal
+/en/college-buzz/resources-for-counselors/
+105
+Resource for Counselors
+/en/college-buzz/resources-for-counselors/
+106
+Help
+/en/help/
+107
+Contact Us
+/en/contact-us/
+108
+Sign Out
+/en/login/Logout/?canonicalUrl=/
+109
+
+
+
+#
+110
+Click here
+https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=arsenallandingcd
+111
+Click here
+https://www.1fbusa.com/invite/servlet/SmartForm.html?formCode=ilg-arsenal&sent_from=F
+112
+
+Like on Facebook
+
+
+https://www.facebook.com/CollegeData/
+113
+
+Share on Twitter
+
+
+https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/
+114
+
+Pin on Pinterest
+
+
+https://www.pinterest.com/collegedata/
+115
+
+Share on Instagram
+
+
+https://www.instagram.com/collegedata/?ref=badge
+116
+
+/en/
+117
+
+
+
+Articles
+
+
+
+#
+118
+
+
+
+Student Stories
+
+
+
+#
+119
+
+
+
+Colleges
+
+
+
+#
+120
+
+
+
+Scholarships
+
+
+
+#
+121
+
+
+Download as PDF
+
+/college/Abilene-Christian-University?pdf=1&collegeProfileTab=admission
+122
+
+Opens a modal dialog
+
+View Map
+
+#
+123
+
+Opens a modal dialog
+
+
+#collProfileEmailResults
+124
+
+Overview
+
+/college/Abilene-Christian-University/?tab=profile-overview-tab
+125
+
+Admission
+
+/college/Abilene-Christian-University/?tab=profile-admission-tab
+126
+
+Money Matters
+
+/college/Abilene-Christian-University/?tab=profile-money-tab
+127
+
+Academics
+
+/college/Abilene-Christian-University/?tab=profile-academics-tab
+128
+
+Campus Life
+
+/college/Abilene-Christian-University/?tab=profile-campus-tab
+129
+
+Students
+
+/college/Abilene-Christian-University/?tab=profile-students-tab
+130
+www.acu.edu/
+http://www.acu.edu/
+131
+See more
+#profile-admission-tab
+132
+See more
+#profile-money-tab
+133
+See more
+#profile-academics-tab
+134
+See more
+#profile-campus-tab
+135
+See more
+#profile-students-tab
+136
+info@admissions.acu.edu
+mailto:info@admissions.acu.edu
+137
+Available
+https://www.acuadmissions.org/start/apply.htm
+138
+Financial Aid Web Site
+http://www.acu.edu/undergraduate/admissions/financial-aid.html
+139
+Net Price Calculator URL
+https://acu.studentaidcalculator.com/survey.aspx
+140
+Online Catalog
+http://catalog.acu.edu/
+141
+Map
+https://www.acu.edu/community/offices/resources/trio/campus-map.html
+142
+Saved Colleges
+/en/data-locker/saved-colleges/
+143
+Saved Scholarships
+/en/data-locker/saved-scholarships/
+144
+Saved Searches
+/en/data-locker/saved-searches/
+145
+Saved Admissions Profiles
+/en/data-locker/saved-admissions-profiles/
+146
+Saved Articles
+/en/data-locker/saved-articles/
+147
+Explore Colleges
+/en/explore-colleges/
+148
+College Match
+/en/explore-colleges/college-search/
+149
+Prepare and Apply
+/en/prepare-and-apply/
+150
+College Chances
+/en/prepare-and-apply/college-chances/
+151
+Admissions Tracker
+/en/prepare-and-apply/admissions-tracker/
+152
+Common Application Guide
+/en/prepare-and-apply/common-application-guide/
+153
+Pay Your Way
+/en/pay-your-way/
+154
+Financial Aid Tracker
+/en/pay-your-way/financial-aid-tracker/
+155
+Scholarship Finder
+/en/pay-your-way/scholarship-finder/
+156
+EFC Calculator
+/en/pay-your-way/efc-calculator/
+157
+Net Price Calculator
+/en/pay-your-way/net-price-calculator/
+158
+Compare Awards
+/en/pay-your-way/compare-awards/
+159
+College Buzz
+/en/college-buzz/
+160
+True Student Stories
+/en/stories/student-stories-2021/camilla/
+161
+Resources for Counselors
+/en/college-buzz/resources-for-counselors/
+162
+Home
+/en/
+163
+Help
+/en/help/
+164
+Contact Us
+/en/contact-us/
+165
+Site Map
+/en/sitemap/
+166
+Security
+/en/security/
+167
+Terms and Conditions
+/en/terms/
+168
+Privacy
+/en/privacy/
+169
+
+https://www.nacacnet.org
+170
+
+
+
+College Match
+Find the right colleges for you!
+
+
+/en/explore-colleges/college-search/
+171
+
+
+
+College Chances
+Will you get in? Find out!
+
+
+/en/prepare-and-apply/college-chances/
+172
+
+
+
+Admissions Tracker
+See who got in where, who's applying & how you compare!
+
+
+/en/prepare-and-apply/admissions-tracker/
+173
+
+
+
+Financial Aid Tracker
+See who's getting financial aid, how much & how you stack up.
+
+
+/en/pay-your-way/financial-aid-tracker/
+174
+
+
+
+Scholarship Finder
+Find money for college!
+
+
+/en/pay-your-way/scholarship-finder/
+175
+
+
+
+EFC Calculator
+Calculate your Expected Family Contribution.
+
+
+/en/pay-your-way/efc-calculator/
+176
+
+
+
+Net Price Calculator
+See your true out-of-pocket cost to attend any college.
+
+
+/en/pay-your-way/net-price-calculator/
+177
+
+
+
+Compare Awards
+Find out which college is offering you the best deal.
+
+
+/en/pay-your-way/compare-awards/
+178
+
+Like on Facebook
+
+
+https://www.facebook.com/CollegeData/
+179
+
+Share on Twitter
+
+
+https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/
+180
+
+Pin on Pinterest
+
+
+https://www.pinterest.com/collegedata/
+181
+
+Share on Instagram
+
+
+https://www.instagram.com/collegedata/?ref=badge
+182
+
+Like on Facebook
+
+
+https://www.facebook.com/CollegeData/
+183
+
+Share on Twitter
+
+
+https://twitter.com/intent/follow?screen_name=COLLEGEdata&original_referer=https://www.collegedata.com/
+184
+
+Pin on Pinterest
+
+
+https://www.pinterest.com/collegedata/
+185
+
+Share on Instagram
+
+
+https://www.instagram.com/collegedata/?ref=badge
+186
+Log in
+/en/login/
+187
+Log in with Email
+#
+188
+Log in with Username
+#
+189
+Forgot your log in details?
+/en/forgot-log-in/
+190
+Sign Up
+/en/sign-up/
+191
+Tell me More
+/en/data-locker/registration/
+192
+Log in
+/en/login/
+193
+register
+/en/sign-up/
+194
+Log in
+/en/login/
+195
+Terms and Conditions
+/en/terms/
+196
+Privacy Policy
+/en/privacy/
+197
+CollegeData Deadlines
+/en/collegedata-deadlines/
+198
+register
+/en/sign-up/
+199
+Log in
+/en/login/
+200
+Terms and Conditions
+/en/terms/
+201
+Privacy Policy
+/en/privacy/
+202
+CollegeData Deadlines
+/en/collegedata-deadlines/
+203
+Admissions Profile

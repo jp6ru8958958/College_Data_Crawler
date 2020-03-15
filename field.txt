@@ -1,0 +1,495 @@
+0
+Entrance Difficulty    ====    Moderately difficult
+1
+Overall Admission Rate    ====    51% of 10,252 applicants were admitted
+2
+Early Action Offered    ====    Yes
+3
+Early Decision Offered    ====    No
+4
+Regular Admission Deadline    ====    February 15
+5
+Average GPA    ====    3.62
+6
+SAT Math    ====    
+515-600 range of middle 50%
+
+7
+SAT EBRW    ====    
+566 average 510-620 range of middle 50%
+
+8
+ACT Composite    ====    24 average 21-26 range of middle 50%
+9
+Cost of Attendance    ====    $51,957
+10
+Tuition and Fees    ====    $36,300
+11
+Room and Board    ====    $11,065
+12
+Average Percent of Need Met    ====    71%
+13
+Average Freshman Award    ====    $26,051
+14
+Average Indebtedness of 2018 Graduates    ====    Not reported
+15
+Academic Calendar System    ====    Semester
+16
+General Education/Core Curriculum    ====    Required for most or all students
+17
+Full-Time Faculty Teaching Undergraduates    ====    266
+18
+Regular Class Size    ====    2-9 students: 13% of classes10-19 students: 30% of classes20-29 students: 32% of classes 30-39 students: 10% of classes40-49 students: 7% of classes50-99 students: 7% of classesOver 100 students: 1% of classes
+19
+Abilene Population    ====    118,117
+20
+Nearest Metropolitan Area    ====    
+21
+Freshman Housing Guarantee    ====    Freshmen are guaranteed housing
+22
+Students in College Housing    ====     47% of all students
+23
+Athletic Conferences    ====    NCAA Division I
+24
+Mascot    ====    Wildcats
+25
+Sororities    ====    35% of women participate
+26
+Fraternities    ====     28% of men participate
+27
+Ethnicity of Students from U.S.    ====    0.3% American Indian/Alaskan Native1.2% Asian9.1% Black/African-American17.8% Hispanic/Latino5.0% Multi-race (not Hispanic/Latino)0.1% Native Hawaiian/ Pacific Islander66.3% White0.2% Unknown
+28
+International Students    ====    3.9% from 42 countries
+29
+First-Year Students Returning    ====    76.5%
+30
+Students Graduating Within 4 Years    ====     48.1%
+31
+Graduates Offered Full-Time Employment Within 6 Months    ====    55%
+32
+Graduates Pursuing Advanced Study Directly    ====    33.0%
+33
+High School Graduation    ====    High school diploma required and GED is accepted
+34
+High School Program    ====    College preparatory program is required
+35
+Address    ====    1600 Campus Court
+36
+City, State, Zip    ====    Abilene, TX 79699
+37
+Phone    ====    (325) 674-2650
+38
+Fax    ====     
+39
+E-mail    ====    
+info@admissions.acu.edu
+
+40
+Regular Admisson Deadline    ====    February 15
+41
+Application Fee    ====    $50
+42
+Application Fee Waiver    ====    Available
+43
+Regular Admission Notification    ====    March 15
+44
+Accept Offer of Admission    ====    May 1
+45
+Waiting List Used    ====    No
+46
+Defer Admission    ====    Student cannot defer admission
+47
+Transfer Admission    ====    Transfer applications accepted
+48
+Early Decision Offered    ====    No
+49
+Early Decision Deadline    ====     
+50
+Early Decision Notification    ====     
+51
+Early Action Offered    ====    Yes
+52
+Early Action Deadline    ====    Not reported
+53
+Early Action Notification    ====    Not reported
+54
+Common Application    ====    Not accepted
+55
+Universal College Application    ====    Not accepted
+56
+Electronic Application    ====    
+Available
+
+57
+Interview    ====    Not Required
+58
+Essay or Personal Statement    ====    Required for some freshmen
+59
+Letters of Recommendation    ====     
+60
+Other    ====     
+61
+Financial Need    ====    Financial need is not a consideration in the admissions process
+62
+Overall Admission Rate    ====    51% of 10,252 applicants were admitted
+63
+Women    ====    53% of 6,194 applicants were admitted
+64
+Men    ====    48% of 4,058 applicants were admitted
+65
+Students Enrolled    ====    1,078 (21%) of 5,217 admitted students enrolled
+66
+Women    ====    630 (19%) of 3,268 admitted students enrolled
+67
+Men    ====    448 (23%) of 1,949 admitted students enrolled
+68
+Early Decision Admission Rate    ====     
+69
+Early Action Admission Rate    ====    66% of 5,599 applicants were admitted
+70
+Students Offered Wait List    ====     
+71
+Students Accepting Wait List Position    ====     
+72
+Students Admitted From Wait List    ====     
+73
+Average GPA    ====    3.62
+74
+3.75 and Above    ====    45%
+75
+3.50 - 3.74    ====    23%
+76
+3.25 - 3.49    ====    16%
+77
+3.00 - 3.24    ====    9%
+78
+2.50 - 2.99    ====    6%
+79
+2.00 - 2.49    ====    1%
+80
+SAT Math    ====    515-600 range of middle 50%
+81
+Score of 700 - 800    ====    3%
+82
+Score of 600 - 700    ====    25%
+83
+Score of 500 - 600    ====    53%
+84
+Score of 400 - 500    ====    18%
+85
+Score of 300 - 400    ====    1%
+86
+Score of 200 - 300    ====    0%
+87
+SAT EBRW    ====    566 average 510-620 range of middle 50%
+88
+Score of 700 - 800    ====    5%
+89
+Score of 600 - 700    ====    33%
+90
+Score of 500 - 600    ====    44%
+91
+Score of 400 - 500    ====    18%
+92
+Score of 300 - 400    ====    0%
+93
+Score of 200 - 300    ====    0%
+94
+ACT Composite    ====    24 average 21-26 range of middle 50%
+95
+Score of 30 - 36    ====    8%
+96
+Score of 24 - 29    ====    42%
+97
+Score of 18 - 23    ====    46%
+98
+Score of 12 - 17    ====    4%
+99
+Score of 6 - 11    ====    0%
+100
+Score of 5 or Below    ====    0%
+101
+High School Class Rank    ====    Top tenth: 22%Top quarter: 54%Top half: 84%
+102
+National Merit Scholar    ====    0%
+103
+Valedictorian    ====    1%
+104
+Class President    ====    Not reported
+105
+Student Government Officer    ====    Not reported
+106
+Cost of Attendance    ====    $51,957
+107
+Tuition and Fees    ====    $36,300
+108
+Room and Board    ====    $11,065
+109
+Books and Supplies    ====    $1,250
+110
+Other Expenses    ====    $3,342
+111
+Payment Plans    ====    Prepayment plan, installment plan
+112
+Email    ====    
+
+113
+Web Site    ====    
+Financial Aid Web Site
+
+114
+Net Price Calculator URL    ====    
+Net Price Calculator URL
+
+115
+Application Deadline    ====    Priority deadline March 1
+116
+Award Notification    ====    On a rolling basis beginning April 1
+117
+Methodology for Awarding Institutional Aid     ====    Federal Methodology
+118
+Financial Aid Applicants    ====    812 (88.1%) of freshmen
+119
+Found to Have Financial Need    ====    673 (86.6%) of applicants
+120
+Received Financial Aid    ====    673 (100.0%) of applicants with financial need
+121
+Need Fully Met    ====    208 (27.2%) of aid recipients
+122
+Average Percent of Need Met    ====    71%
+123
+Average Award    ====    $26,051
+124
+Need-Based Gift    ====    Received by 673 (100.0%) of aid recipients, average amount $23,909
+125
+Need-Based Self-Help    ====    Received by 440 (64.9%) of aid recipients, average amount $3,276
+126
+Merit-Based Gift    ====    Received by 673 (100.0%) of aid recipients
+127
+Merit-Based Gift    ====    246 (25.6%) of freshmen had no financial need and received merit aid, average amount $17,977
+128
+Financial Aid Applicants    ====    2,540 (81.9%) of undergraduates
+129
+Found to Have Financial Need    ====    2,248 (88.5%) of applicants
+130
+Received Financial Aid    ====    2,243 (99.9%) of applicants with financial need
+131
+Need Fully Met    ====    639 (26.6%) of aid recipients
+132
+Average Percent of Need Met    ====    68%
+133
+Average Award    ====    $24,771
+134
+Need-Based Gift    ====    Received by 2,231 (99.7%) of aid recipients, average amount $22,072
+135
+Need-Based Self-Help    ====    Received by 1,462 (65.3%) of aid recipients, average amount $4,220
+136
+Merit-Based Gift    ====    Received by 2,222 (99.2%) of aid recipients
+137
+Merit-Based Gift    ====    1,169 (32.9%) of undergraduates had no financial need and received merit aid, average amount $17,023
+138
+2018 Graduates Who Took Out Loans    ====    Not reported
+139
+Average Indebtedness of 2018 Graduates    ====    Not reported
+140
+Parents of Students Receiving Aid    ====    Not reported
+141
+Parents of Students Not Receiving Aid    ====    Not reported
+142
+Federal Loans    ====    Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans
+143
+State Loans    ====    Available
+144
+Other Loans    ====    Private loans
+145
+Need-Based Available    ====    Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships
+146
+Non-Need–Based Available    ====    None
+147
+Academic Interest/Achievement Award Areas    ====    Agriculture, Biological Sciences, Business, Communication, Education, Engineering/Technologies, English, Foreign Languages, Mathematics, Physical Sciences, Religion/Biblical Studies, Social Sciences
+148
+Number of Awards    ====    Not reported
+149
+Top Areas (By Money Awarded)    ====     
+150
+Creative Arts/Performance Award Areas    ====    Applied Art and Design, Debating, Journalism/Publications, Music, Theater/Drama
+151
+Number of Awards    ====    Not reported
+152
+Top Areas (By Money Awarded)    ====     
+153
+Special Achievements/Activities Award Areas    ====    Cheerleading/Drum Major, Leadership
+154
+Number of Awards    ====    Not reported
+155
+Top Areas (By Money Awarded)    ====     
+156
+Special Characteristics Award Areas    ====    Children of Faculty/Staff, Ethnic Background, First-Generation College Students, Local/State Students, Members of Minorities, Out-of-State Students, Previous College Experience, Relatives of Clergy, Religious Affiliation
+157
+Number of Awards    ====    Not reported
+158
+Top Areas (By Money Awarded)    ====     
+159
+Work-Study Programs    ====    Federal work study available, other work study available
+160
+Average Earnings from On-Campus Employment    ====    Not reported
+161
+Academic Calendar System    ====    Semester
+162
+Summer Session    ====    Offered
+163
+General Catalog/Bulletin    ====    Online Catalog
+164
+Most Popular Disciplines    ====    Business/marketing, Health professions and related sciences, Visual and performing arts
+165
+Combined Liberal Arts/Professional Degree Programs    ====    Animal health professions
+166
+Special Programs    ====    Student-designed major, Distance learning, Double major, English as a second language, Honors program, Independent study, Internships, Study abroad, Summer session
+167
+Study Abroad    ====    Offered
+168
+Online Degrees    ====    Some online degree programs
+169
+General Education/Core Curriculum    ====    Required for most or all students
+170
+Computer    ====    Students not required to own/lease a computer
+171
+Foreign Language    ====    Required
+172
+Math/Science    ====    Required for all students
+173
+Full-Time Faculty    ====    266
+174
+Part-Time Faculty    ====    183
+175
+Full-Time Faculty with Ph.D./Terminal Degree    ====    47%
+176
+Regular Class Size    ====    2-9 students: 13% of classes10-19 students: 30% of classes20-29 students: 32% of classes 30-39 students: 10% of classes40-49 students: 7% of classes50-99 students: 7% of classesOver 100 students: 1% of classes
+177
+Discussion Section/Lab Class Size    ====    2-9 students: 30% of discussion sections/labs10-19 students: 40% of discussion sections/labs20-29 students: 23% of discussion sections/labs30-39 students: 1% of discussion sections/labs40-49 students: 4% of discussion sections/labs50-59 students: 1% of discussion sections/labs
+178
+International Baccalaureate    ====    Accepted
+179
+Advanced Placement (AP) Examinations    ====    Accepted for placement and credit
+180
+Sophomore Standing    ====    Available through AP examinations
+181
+Library Available on Campus    ====    Yes
+182
+Holdings    ====    826,835
+183
+Computer Ownership    ====    Students not required to own/lease a computer
+184
+Computers Available on Campus    ====    466
+185
+Internet/E-mail Access    ====    Not reported
+186
+Remedial Instruction    ====    Not Offered
+187
+Tutoring    ====    Available
+188
+Services for Learning Disabled Students    ====    Available
+189
+Services for Physically Disabled Students    ====    Hearing impaired services, speech disorders services, visually impaired services, wheelchair access
+190
+Abilene Population    ====    118,117
+191
+Nearest Metropolitan Area    ====    
+192
+Campus Size    ====    262 acres
+193
+Temperature    ====    30.8 average low in January, 91.4 average high in September
+194
+Rain    ====    67 rainy days per year
+195
+Campus Map    ====    
+Map
+
+196
+Nearest Bus Station    ====    3 mile(s) from campus in Abilene
+197
+Nearest Train Station    ====    180 mile(s) from campus in Dallas
+198
+College Housing    ====    College offers housing to students
+199
+Types of Housing    ====    Men only housing, women only housing
+200
+Students in College Housing    ====     47% of all students
+201
+Housing Requirements    ====    Freshmen and sophomores are required to live on campus
+202
+Freshman Housing Guarantee    ====    Freshmen are guaranteed housing
+203
+Students Living Off Campus/Commuting    ====    53%
+204
+Off-Campus Housing Assistance    ====    Assistance in locating off-campus housing is available
+205
+24-Hour Emergency Phone/Alarm Devices    ====    Available
+206
+24-Hour Security Patrols    ====    Available
+207
+Late-Night Transport/Escort Services    ====    Available
+208
+Electronically Operated Housing Entrances    ====    Available
+209
+Other    ====     
+210
+Health Service    ====    Offered
+211
+Personal Counseling    ====    Offered
+212
+Child Care    ====    Not offered
+213
+Athletic Conferences    ====    NCAA Division I
+214
+Mascot    ====    Wildcats
+215
+School Colors    ====    Purple and white
+216
+Women's Club Sports    ====     
+217
+Men's Club Sports    ====     
+218
+Intramural Sports    ====    basketball, football, racquetball, soccer, softball, table tennis, tennis, volleyball
+219
+Activities and Organizations    ====    choral groups, marching band, drama theatre, radio station, student newspaper, television station, student association, graduate students association, spring break campaigns, international students association, lynay
+220
+Sororities    ====    35% of women participate
+221
+Fraternities    ====     28% of men participate
+222
+ROTC    ====     
+223
+Coeducational    ====    Yes
+224
+All Undergraduates    ====    3,670
+225
+Women    ====    2,145 (58.4%)
+226
+Men    ====    1,525 (41.6%)
+227
+Full-Time Undergraduates    ====    3,512
+228
+Ethnicity of Students from U.S.    ====    0.3% American Indian/Alaskan Native1.2% Asian9.1% Black/African-American17.8% Hispanic/Latino5.0% Multi-race (not Hispanic/Latino)0.1% Native Hawaiian/ Pacific Islander66.3% White0.2% Unknown
+229
+International Students.    ====    3.9% from 42 countries
+230
+Average Age    ====    20
+231
+All Graduate Students    ====    1,479
+232
+First-Year Students Returning    ====    76.5%
+233
+Students Graduating Within 4 Years    ====     48.1%
+234
+Students Graduating Within 5 Years    ====    60.1%
+235
+Students Graduating Within 6 Years    ====     61.0%
+236
+Graduates Offered Full-Time Employment Within 6 Months    ====    55%
+237
+Average Starting Salary    ====    55%
+238
+Graduates Pursuing Advanced Study Directly    ====    33.0%
+239
+Disciplines Pursued    ====    Business 4% Engineering 0.3% Law 2.4% Theology 1.6% Arts and Sciences 16.2% Medicine 1.9% Education 3% Other 3.6% 
