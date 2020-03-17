@@ -1,0 +1,621 @@
+0
+High School Graduation
+
+1
+High School Program
+
+2
+Address
+
+3
+City, State, Zip
+
+4
+Phone
+
+5
+Fax
+
+6
+E-mail
+
+7
+Regular Admisson Deadline
+
+8
+Application Fee
+
+9
+Application Fee Waiver
+
+10
+Regular Admission Notification
+
+11
+Accept Offer of Admission
+
+12
+Waiting List Used
+
+13
+Defer Admission
+
+14
+Transfer Admission
+
+15
+Early Decision Offered
+
+16
+Early Decision Deadline
+
+17
+Early Decision Notification
+
+18
+Early Action Offered
+
+19
+Early Action Deadline
+
+20
+Early Action Notification
+
+21
+Common Application
+
+22
+Universal College Application
+
+23
+Electronic Application
+
+24
+Interview
+
+25
+Essay or Personal Statement
+
+26
+Letters of Recommendation
+
+27
+Other
+
+28
+Financial Need
+
+29
+Overall Admission Rate
+
+30
+Women
+
+31
+Men
+
+32
+Students Enrolled
+
+33
+Women
+
+34
+Men
+
+35
+Early Decision Admission Rate
+
+36
+Early Action Admission Rate
+
+37
+Students Offered Wait List
+
+38
+Students Accepting Wait List Position
+
+39
+Students Admitted From Wait List
+
+40
+Average GPA
+
+41
+3.75 and Above
+
+42
+3.50 - 3.74
+
+43
+3.25 - 3.49
+
+44
+3.00 - 3.24
+
+45
+2.50 - 2.99
+
+46
+2.00 - 2.49
+
+47
+SAT Math
+
+48
+Score of 700 - 800
+
+49
+Score of 600 - 700
+
+50
+Score of 500 - 600
+
+51
+Score of 400 - 500
+
+52
+Score of 300 - 400
+
+53
+Score of 200 - 300
+
+54
+SAT EBRW
+
+55
+Score of 700 - 800
+
+56
+Score of 600 - 700
+
+57
+Score of 500 - 600
+
+58
+Score of 400 - 500
+
+59
+Score of 300 - 400
+
+60
+Score of 200 - 300
+
+61
+ACT Composite
+
+62
+Score of 30 - 36
+
+63
+Score of 24 - 29
+
+64
+Score of 18 - 23
+
+65
+Score of 12 - 17
+
+66
+Score of 6 - 11
+
+67
+Score of 5 or Below
+
+68
+High School Class Rank
+
+69
+National Merit Scholar
+
+70
+Valedictorian
+
+71
+Class President
+
+72
+Student Government Officer
+
+73
+Cost of Attendance
+
+74
+Tuition and Fees
+
+75
+Room and Board
+
+76
+Books and Supplies
+
+77
+Other Expenses
+
+78
+Payment Plans
+
+79
+Email
+
+80
+Web Site
+
+81
+Net Price Calculator URL
+
+82
+Application Deadline
+
+83
+Award Notification
+
+84
+Methodology for Awarding Institutional Aid 
+
+85
+Financial Aid Applicants
+
+86
+Found to Have Financial Need
+
+87
+Received Financial Aid
+
+88
+Need Fully Met
+
+89
+Average Percent of Need Met
+
+90
+Average Award
+
+91
+Need-Based Gift
+
+92
+Need-Based Self-Help
+
+93
+Merit-Based Gift
+
+94
+Merit-Based Gift
+
+95
+Financial Aid Applicants
+
+96
+Found to Have Financial Need
+
+97
+Received Financial Aid
+
+98
+Need Fully Met
+
+99
+Average Percent of Need Met
+
+100
+Average Award
+
+101
+Need-Based Gift
+
+102
+Need-Based Self-Help
+
+103
+Merit-Based Gift
+
+104
+Merit-Based Gift
+
+105
+2018 Graduates Who Took Out Loans
+
+106
+Average Indebtedness of 2018 Graduates
+
+107
+Parents of Students Receiving Aid
+
+108
+Parents of Students Not Receiving Aid
+
+109
+Federal Loans
+
+110
+State Loans
+
+111
+Other Loans
+
+112
+Need-Based Available
+
+113
+Non-Need–Based Available
+
+114
+Academic Interest/Achievement Award Areas
+
+115
+Number of Awards
+
+116
+Top Areas (By Money Awarded)
+
+117
+Creative Arts/Performance Award Areas
+
+118
+Number of Awards
+
+119
+Top Areas (By Money Awarded)
+
+120
+Special Achievements/Activities Award Areas
+
+121
+Number of Awards
+
+122
+Top Areas (By Money Awarded)
+
+123
+Special Characteristics Award Areas
+
+124
+Number of Awards
+
+125
+Top Areas (By Money Awarded)
+
+126
+Work-Study Programs
+
+127
+Average Earnings from On-Campus Employment
+
+128
+Academic Calendar System
+
+129
+Summer Session
+
+130
+General Catalog/Bulletin
+
+131
+Most Popular Disciplines
+
+132
+Combined Liberal Arts/Professional Degree Programs
+
+133
+Special Programs
+
+134
+Study Abroad
+
+135
+Online Degrees
+
+136
+General Education/Core Curriculum
+
+137
+Computer
+
+138
+Foreign Language
+
+139
+Math/Science
+
+140
+Full-Time Faculty
+
+141
+Part-Time Faculty
+
+142
+Full-Time Faculty with Ph.D./Terminal Degree
+
+143
+Regular Class Size
+
+144
+Discussion Section/Lab Class Size
+
+145
+International Baccalaureate
+
+146
+Advanced Placement (AP) Examinations
+
+147
+Sophomore Standing
+
+148
+Library Available on Campus
+
+149
+Holdings
+
+150
+Computer Ownership
+
+151
+Computers Available on Campus
+
+152
+Internet/E-mail Access
+
+153
+Remedial Instruction
+
+154
+Tutoring
+
+155
+Services for Learning Disabled Students
+
+156
+Services for Physically Disabled Students
+
+157
+Abilene Population
+
+158
+Nearest Metropolitan Area
+
+159
+Campus Size
+
+160
+Temperature
+
+161
+Rain
+
+162
+Campus Map
+
+163
+Nearest Bus Station
+
+164
+Nearest Train Station
+
+165
+College Housing
+
+166
+Types of Housing
+
+167
+Students in College Housing
+
+168
+Housing Requirements
+
+169
+Freshman Housing Guarantee
+
+170
+Students Living Off Campus/Commuting
+
+171
+Off-Campus Housing Assistance
+
+172
+24-Hour Emergency Phone/Alarm Devices
+
+173
+24-Hour Security Patrols
+
+174
+Late-Night Transport/Escort Services
+
+175
+Electronically Operated Housing Entrances
+
+176
+Other
+
+177
+Health Service
+
+178
+Personal Counseling
+
+179
+Child Care
+
+180
+Athletic Conferences
+
+181
+Mascot
+
+182
+School Colors
+
+183
+Women's Club Sports
+
+184
+Men's Club Sports
+
+185
+Intramural Sports
+
+186
+Activities and Organizations
+
+187
+Sororities
+
+188
+Fraternities
+
+189
+ROTC
+
+190
+Coeducational
+
+191
+All Undergraduates
+
+192
+Women
+
+193
+Men
+
+194
+Full-Time Undergraduates
+
+195
+Ethnicity of Students from U.S.
+
+196
+International Students.
+
+197
+Average Age
+
+198
+All Graduate Students
+
+199
+First-Year Students Returning
+
+200
+Students Graduating Within 4 Years
+
+201
+Students Graduating Within 5 Years
+
+202
+Students Graduating Within 6 Years
+
+203
+Graduates Offered Full-Time Employment Within 6 Months
+
+204
+Average Starting Salary
+
+205
+Graduates Pursuing Advanced Study Directly
+
+206
+Disciplines Pursued
+

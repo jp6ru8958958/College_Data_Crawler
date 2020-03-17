@@ -1,0 +1,808 @@
+0
+Skip to main content
+
+1
+
+
+
+
+2
+
+
+
+Articles
+
+
+
+
+3
+
+
+
+Student Stories
+
+
+
+
+4
+
+
+
+Colleges
+
+
+
+
+5
+
+
+
+Scholarships
+
+
+
+
+6
+
+
+
+
+7
+Sign Up
+
+8
+Log In
+
+9
+
+Log In
+
+
+
+10
+Log in with Email
+
+11
+Log in with Username
+
+12
+Forgot your log in details?
+
+13
+
+Welcome 
+
+
+
+14
+
+Opens a modal dialog
+
+My Data Locker
+
+
+15
+My Admissions Profile
+
+16
+My Admissions Profile
+
+17
+Saved Colleges
+
+18
+Saved Scholarships
+
+19
+Saved Searches
+
+20
+Saved Admissions Profiles
+
+21
+Saved Articles
+
+22
+Change Password
+
+23
+Update Account
+
+24
+Sign Out
+
+25
+My Data Locker
+
+26
+My Admissions Profile
+
+27
+Saved Colleges
+
+28
+Saved Scholarships
+
+29
+Saved Searches
+
+30
+Saved Admissions Profiles
+
+31
+Saved Articles
+
+32
+Explore Colleges
+
+33
+College Match
+
+34
+The Road to College
+
+35
+The Facts on Fit
+
+36
+Explore Your Options
+
+37
+Explore Colleges
+
+38
+
+Click here to Explore Colleges
+
+
+39
+The Road to College
+
+40
+The Facts on Fit
+
+41
+Explore Your Options
+
+42
+Read More
+
+43
+Read More
+
+44
+Read More
+
+45
+Search for Colleges
+
+46
+Prepare & Apply
+
+47
+College Chances
+
+48
+Admissions Tracker
+
+49
+Common Application
+
+50
+Strengthen Your Chances
+
+51
+Apply Yourself
+
+52
+Prepare & Apply
+
+53
+
+Click here to Prepare & Apply
+
+
+54
+Strengthen Your Chances
+
+55
+Apply Yourself
+
+56
+Read More
+
+57
+Read More
+
+58
+Calculate Your Chances
+
+59
+See How You Compare
+
+60
+Get the Common Application Guide
+
+61
+Pay Your Way
+
+62
+Compare Awards
+
+63
+Financial Aid Tracker
+
+64
+EFC Calculator
+
+65
+Scholarship Finder
+
+66
+Net Price Calculator
+
+67
+College Sticker Shock
+
+68
+All About Financial Aid
+
+69
+Paying for College
+
+70
+Scholarship Smarts
+
+71
+Pay Your Way
+
+72
+
+Click here to Pay Your Way
+
+
+73
+College Sticker Shock
+
+74
+All About Financial Aid
+
+75
+Paying for College
+
+76
+Scholarship Smarts
+
+77
+Read More
+
+78
+Read More
+
+79
+Read More
+
+80
+Read More
+
+81
+Compare Your Awards
+
+82
+See How You Stack Up
+
+83
+Calculate Your EFC
+
+84
+Search for Scholarships
+
+85
+Calculate Your Net Price
+
+86
+College Buzz
+
+87
+Student Stories
+
+88
+Resources for Counselors
+
+89
+Money Matters
+
+90
+Campus Life
+
+91
+Transfer Students
+
+92
+Study Abroad During College
+
+93
+College Buzz
+
+94
+
+Click here to College Buzz
+
+
+95
+Money Matters
+
+96
+Campus Life
+
+97
+Transfer Students
+
+98
+Study Abroad During College
+
+99
+Read More
+
+100
+Read More
+
+101
+Read More
+
+102
+Read More
+
+103
+See Student Stories
+
+104
+Counselor Portal
+
+105
+Resource for Counselors
+
+106
+Help
+
+107
+Contact Us
+
+108
+Sign Out
+
+109
+
+
+
+
+110
+Click here
+
+111
+Click here
+
+112
+
+Like on Facebook
+
+
+
+113
+
+Share on Twitter
+
+
+
+114
+
+Pin on Pinterest
+
+
+
+115
+
+Share on Instagram
+
+
+
+116
+
+
+117
+
+
+
+Articles
+
+
+
+
+118
+
+
+
+Student Stories
+
+
+
+
+119
+
+
+
+Colleges
+
+
+
+
+120
+
+
+
+Scholarships
+
+
+
+
+121
+
+
+Download as PDF
+
+
+122
+
+Opens a modal dialog
+
+View Map
+
+
+123
+
+Opens a modal dialog
+
+
+
+124
+
+Overview
+
+
+125
+
+Admission
+
+
+126
+
+Money Matters
+
+
+127
+
+Academics
+
+
+128
+
+Campus Life
+
+
+129
+
+Students
+
+
+130
+www.wtamu.edu/
+
+131
+See more
+
+132
+See more
+
+133
+See more
+
+134
+See more
+
+135
+See more
+
+136
+admissions@wtamu.edu
+
+137
+Available
+
+138
+Financial Aid Web Site
+
+139
+Net Price Calculator URL
+
+140
+Online Catalog
+
+141
+Saved Colleges
+
+142
+Saved Scholarships
+
+143
+Saved Searches
+
+144
+Saved Admissions Profiles
+
+145
+Saved Articles
+
+146
+Explore Colleges
+
+147
+College Match
+
+148
+Prepare and Apply
+
+149
+College Chances
+
+150
+Admissions Tracker
+
+151
+Common Application Guide
+
+152
+Pay Your Way
+
+153
+Financial Aid Tracker
+
+154
+Scholarship Finder
+
+155
+EFC Calculator
+
+156
+Net Price Calculator
+
+157
+Compare Awards
+
+158
+College Buzz
+
+159
+True Student Stories
+
+160
+Resources for Counselors
+
+161
+Home
+
+162
+Help
+
+163
+Contact Us
+
+164
+Site Map
+
+165
+Security
+
+166
+Terms and Conditions
+
+167
+Privacy
+
+168
+
+
+169
+
+
+
+College Match
+Find the right colleges for you!
+
+
+
+170
+
+
+
+College Chances
+Will you get in? Find out!
+
+
+
+171
+
+
+
+Admissions Tracker
+See who got in where, who's applying & how you compare!
+
+
+
+172
+
+
+
+Financial Aid Tracker
+See who's getting financial aid, how much & how you stack up.
+
+
+
+173
+
+
+
+Scholarship Finder
+Find money for college!
+
+
+
+174
+
+
+
+EFC Calculator
+Calculate your Expected Family Contribution.
+
+
+
+175
+
+
+
+Net Price Calculator
+See your true out-of-pocket cost to attend any college.
+
+
+
+176
+
+
+
+Compare Awards
+Find out which college is offering you the best deal.
+
+
+
+177
+
+Like on Facebook
+
+
+
+178
+
+Share on Twitter
+
+
+
+179
+
+Pin on Pinterest
+
+
+
+180
+
+Share on Instagram
+
+
+
+181
+
+Like on Facebook
+
+
+
+182
+
+Share on Twitter
+
+
+
+183
+
+Pin on Pinterest
+
+
+
+184
+
+Share on Instagram
+
+
+
+185
+Log in
+
+186
+Log in with Email
+
+187
+Log in with Username
+
+188
+Forgot your log in details?
+
+189
+Sign Up
+
+190
+Tell me More
+
+191
+Log in
+
+192
+register
+
+193
+Log in
+
+194
+Terms and Conditions
+
+195
+Privacy Policy
+
+196
+CollegeData Deadlines
+
+197
+register
+
+198
+Log in
+
+199
+Terms and Conditions
+
+200
+Privacy Policy
+
+201
+CollegeData Deadlines
+
+202
+Admissions Profile
+
+203
+College Choices
+
+204
+Admissions Statuses
+
+205
+College Match
+
+206
+Privacy Policy
+
+207
+www.collegedata.com/en/contact-us
+
+208
+Yes, Tell Me More!
+
+209
+Yes, Apply Now!
+

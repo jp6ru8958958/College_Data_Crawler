@@ -1,0 +1,70 @@
+0
+
+                                                College Name
+                                            
+1
+
+CollegeChances
+
+Opens a modal dialog
+                                                        Recalculate
+                                                    
+
+2
+City
+3
+State
+4
+Size
+5
+Type
+6
+Entrance Difficulty
+7
+Freshman Satisfaction
+8
+Grad Rate
+9
+
+                                                College Name
+                                            
+10
+
+CollegeChances
+
+
+11
+Your Net Price
+12
+Resident COA
+13
+Non-Resident COA
+14
+Need Met
+15
+Merit Aid
+16
+Student Debt
+17
+College Name
+18
+
+CollegeChances
+
+
+19
+Gender Mix
+20
+American Indian
+21
+African American
+22
+Asian/Pacific Islander
+23
+Hispanic
+24
+Int'l
+25
+Activity
+26
+CD$

@@ -1,0 +1,308 @@
+College Name
+City
+State
+Size
+Type
+Entrance Difficulty
+Freshman Satisfaction
+Grad Rate
+Resident COA
+Non-Resident COA
+Need Met
+Merit Aid
+Student Debt
+Gender Mix
+American Indian
+African American
+Asian/Pacific Islander
+Hispanic
+Int'l
+introduction
+website
+school_type
+gender
+number_of_undergraduate_students
+number_women
+number_men
+number_of_guaduate_students
+(Freshman Admission Requirements)Entrance Difficulty
+(Freshman Admission Requirements)(High School Preparation)High School Graduation
+(Freshman Admission Requirements)(High School Preparation)High School Program
+(Freshman Admission Requirements)(High School Units Required or Recommended)(English)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(English)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Mathematics)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Mathematics)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Science)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Science)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Foreign Language)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Foreign Language)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Social Studies)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Social Studies)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(History)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(History)Recommended Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Academic Electives)Required Units
+(Freshman Admission Requirements)(High School Units Required or Recommended)(Academic Electives)Recommended Units
+(Freshman Admission Requirements)(Examinations)(SAT or ACT)Required Units
+(Freshman Admission Requirements)(Examinations)(SAT or ACT)Scores Due in Admissions Office
+(Freshman Admission Requirements)(Examinations)(SAT Only)Required Units
+(Freshman Admission Requirements)(Examinations)(SAT Only)Scores Due in Admissions Office
+(Freshman Admission Requirements)(Examinations)(ACT Only)Required Units
+(Freshman Admission Requirements)(Examinations)(ACT Only)Scores Due in Admissions Office
+(Freshman Admission Requirements)(Examinations)(SAT and SAT Subject Tests, or ACT)Required Units
+(Freshman Admission Requirements)(Examinations)(SAT and SAT Subject Tests, or ACT)Scores Due in Admissions Office
+(Freshman Admission Requirements)(Examinations)(SAT Subject Tests Only)Required Units
+(Freshman Admission Requirements)(Examinations)(SAT Subject Tests Only)Scores Due in Admissions Office
+(Freshman Admission Requirements)(Examinations)SAT Essay Component Policy
+(Freshman Admission Requirements)(Examinations)ACT Writing Test Policy
+(Freshman Admission Requirements)(Examinations)ACT Writing Test Policy
+(Applying for Admission)(Admissions Office)Address
+(Applying for Admission)(Admissions Office)City, State, Zip
+(Applying for Admission)(Admissions Office)Phone
+(Applying for Admission)(Admissions Office)Fax
+(Applying for Admission)(Admissions Office)E-mail
+(Applying for Admission)(Application Dates and Fees)Regular Admisson Deadline
+(Applying for Admission)(Application Dates and Fees)Application Fee
+(Applying for Admission)(Application Dates and Fees)Application Fee Waiver
+(Applying for Admission)(Application Dates and Fees)Regular Admission Notification
+(Applying for Admission)(Application Dates and Fees)Accept Offer of Admission
+(Applying for Admission)(Application Dates and Fees)Waiting List Used
+(Applying for Admission)(Application Dates and Fees)Defer Admission
+(Applying for Admission)(Application Dates and Fees)Transfer Admission
+(Applying for Admission)(Early Admission)Early Decision Offered
+(Applying for Admission)(Early Admission)Early Decision Deadline
+(Applying for Admission)(Early Admission)Early Decision Notification
+(Applying for Admission)(Early Admission)Early Action Offered
+(Applying for Admission)(Early Admission)Early Action Deadline
+(Applying for Admission)(Early Admission)Early Action Notification
+(Applying for Admission)(Application Form)Common Application
+(Applying for Admission)(Application Form)Universal College Application
+(Applying for Admission)(Application Form)Universal Electronic Application
+(Applying for Admission)(Other Application Requirements)Interview
+(Applying for Admission)(Other Application Requirements)Essay or Personal Statement
+(Applying for Admission)(Other Application Requirements)Letters of Recommendation
+(Applying for Admission)(Other Application Requirements)Other
+(Applying for Admission)(Other Application Requirements)Financial Need
+(Selection of Students)Rigor of Secondary School Record
+(Selection of Students)Academic GPA
+(Selection of Students)Standardized Tests
+(Selection of Students)Class Rank
+(Selection of Students)Recommendations
+(Selection of Students)Essay
+(Selection of Students)Interview
+(Selection of Students)Level of Applicant's Interest
+(Selection of Students)Extracurricular Activities
+(Selection of Students)Volunteer Work
+(Selection of Students)Particular Talent/Ability
+(Selection of Students)Character/Personal Qualities
+(Selection of Students)First Generation to Attend College
+(Selection of Students)State Residency
+(Selection of Students)Geographic Residence
+(Selection of Students)Relation with Alumnus
+(Selection of Students)Religious Affiliation/Commitment
+(Selection of Students)Ethnicity
+(Selection of Students)Work Experience
+(Profile of Fall Admission)Overall Admission Rate
+(Profile of Fall Admission)(Overall Admission Rate)Women
+(Profile of Fall Admission)(Overall Admission Rate)Men
+(Profile of Fall Admission)Students Enrolled
+(Profile of Fall Admission)(Students Enrolled)Women
+(Profile of Fall Admission)(Students Enrolled)Men
+(Profile of Fall Admission)Early Decision Admission Rate
+(Profile of Fall Admission)Early Action Admission Rate
+(Profile of Fall Admission)Students Offered Wait List
+(Profile of Fall Admission)Students Accepting Wait List Position
+(Profile of Fall Admission)Students Admitted From Wait List
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))Average GPA
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)3.75 and Above
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)3.50 - 3.74
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)3.25 - 3.49
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)3.00 - 3.24
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)2.50 - 2.99
+(Profile of Fall Admission)(Grade Point Average of Enrolled Freshmen (4.0 scale))(Average GPA)2.00 - 2.49
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)SAT Math
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 700 - 800
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 600 - 700
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 500 - 600
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 400 - 500
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 300 - 400
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT Math)Score of 200 - 300
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)SAT EBRW
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 700 - 800
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 600 - 700
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 500 - 600
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 400 - 500
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 300 - 400
+(Profile of Fall Admission)(SAT Scores of Enrolled Freshmen)(SAT EBRW)Score of 200 - 300
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)ACT Composite
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 30 - 36
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 24 - 29
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 18 - 23
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 12 - 17
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 6 - 11
+(Profile of Fall Admission)(ACT Scores of Enrolled Freshmen)(ACT Composite)Score of 5 or Below
+(Profile of Fall Admission)(Other Qualifications of Enrolled Freshmen)High School Class Rank
+(Profile of Fall Admission)(Other Qualifications of Enrolled Freshmen)National Merit Scholar
+(Profile of Fall Admission)(Other Qualifications of Enrolled Freshmen)Valedictorian
+(Profile of Fall Admission)(Other Qualifications of Enrolled Freshmen)Class President
+(Profile of Fall Admission)(Other Qualifications of Enrolled Freshmen)Student Government Officer
+(Tuition and Expenses)Cost of Attendance
+(Tuition and Expenses)(Cost of Attendance)Tuition and Fees
+(Tuition and Expenses)(Cost of Attendance)Room and Board
+(Tuition and Expenses)(Cost of Attendance)Books and Supplies
+(Tuition and Expenses)(Cost of Attendance)Other Expenses
+(Tuition and Expenses)Payment Plans
+(Applying for Financial Aid)(Financial Aid Office)Email
+(Applying for Financial Aid)(Financial Aid Office)Web Site
+(Applying for Financial Aid)(Financial Aid Office)Net Price Calculator URL
+(Applying for Financial Aid)(Application Process)Parents of Students Receiving Aid
+(Applying for Financial Aid)(Application Process)Parents of Students Not Receiving Aid
+(Applying for Financial Aid)(Application Process)Federal Loans
+(Applying for Financial Aid)(Forms Required)
+(Applying for Financial Aid)(Cost to File)
+(Profile of 2018 - 19 Financial Aid)(Freshman)Financial Aid Applicants
+(Profile of 2018 - 19 Financial Aid)(Freshman)Found to Have Financial Need
+(Profile of 2018 - 19 Financial Aid)(Freshman)Received Financial Aid
+(Profile of 2018 - 19 Financial Aid)(Freshman)Need Fully Met
+(Profile of 2018 - 19 Financial Aid)(Freshman)Average Percent of Need Met
+(Profile of 2018 - 19 Financial Aid)(Freshman)Average Award
+(Profile of 2018 - 19 Financial Aid)(Freshman)(Average Award)Need-Based Gift
+(Profile of 2018 - 19 Financial Aid)(Freshman)(Average Award)Need-Based Self-Help
+(Profile of 2018 - 19 Financial Aid)(Freshman)(Average Award)Merit-Based Gift
+(Profile of 2018 - 19 Financial Aid)(Freshman)Merit-Based Gift
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Financial Aid Applicants
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Found to Have Financial Need
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Received Financial Aid
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Need Fully Met
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Average Percent of Need Met
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Average Award
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)(Average Award)Need-Based Gift
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)(Average Award)Need-Based Self-Help
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)(Average Award)Merit-Based Gift
+(Profile of 2018 - 19 Financial Aid)(All Undergraduates)Merit-Based Gift
+(Profile of 2018 - 19 Financial Aid)(Borrowing)2018 Graduates Who Took Out Loans
+(Profile of 2018 - 19 Financial Aid)(Borrowing)Average Indebtedness of 2018 Graduates
+(Profile of 2018 - 19 Financial Aid)(Borrowing)(Average Indebtedness of 2018 Graduates)Parents of Students Receiving Aid
+(Profile of 2018 - 19 Financial Aid)(Borrowing)(Average Indebtedness of 2018 Graduates)Parents of Students Not Receiving Aid
+(Financial Aid Programs)(Loans)Federal Loans
+(Financial Aid Programs)(Loans)State Loans
+(Financial Aid Programs)(Loans)Other Loans
+(Financial Aid Programs)(Scholarships and Grants)Need-Based Available
+(Financial Aid Programs)(Scholarships and Grants)Non-Need-Based Available
+(Financial Aid Programs)(Non-Need Awards)Academic Interest/Achievement Award Areas
+(Financial Aid Programs)(Non-Need Awards)(Academic Interest/Achievement Award Areas)Number of Awards
+(Financial Aid Programs)(Non-Need Awards)(Academic Interest/Achievement Award Areas)Top Areas (By Money Awarded)
+(Financial Aid Programs)(Non-Need Awards)Creative Arts/Performance Award Areas
+(Financial Aid Programs)(Non-Need Awards)(Creative Arts/Performance Award Areas)Number of Awards
+(Financial Aid Programs)(Non-Need Awards)(Creative Arts/Performance Award Areas)Top Areas (By Money Awarded)
+(Financial Aid Programs)(Non-Need Awards)Special Achievements/Activities Award Areas
+(Financial Aid Programs)(Non-Need Awards)(Special Achievements/Activities Award Areas)Number of Awards
+(Financial Aid Programs)(Non-Need Awards)(Special Achievements/Activities Award Areas)Top Areas (By Money Awarded)
+(Financial Aid Programs)(Non-Need Awards)Special Characteristics Award Areas
+(Financial Aid Programs)(Non-Need Awards)(Special Characteristics Award Areas)Number of Awards
+(Financial Aid Programs)(Non-Need Awards)(Special Characteristics Award Areas)Top Areas (By Money Awarded)
+(Financial Aid Programs)(Employment)Work-Study Programs
+(Financial Aid Programs)(Employment)Average Earnings from On-Campus Employment
+(Academic)Academic Calendar System
+(Academic)Summer Session
+(Academic)General Catalog/Bulletin
+(Undergraduate Education)Undergraduate Majors
+(Undergraduate Education)(Undergraduate Majors)Most Popular Disciplines
+(Undergraduate Education)(Undergraduate Majors)Combined Liberal Arts/Professional Degree Programs
+(Undergraduate Education)(Undergraduate Majors)Special Programs
+(Undergraduate Education)(Undergraduate Majors)Study Abroad
+(Undergraduate Education)(Undergraduate Majors)Online Degrees
+(Curriculum and Graduation Requirements)General Education/Core Curriculum
+(Curriculum and Graduation Requirements)Computer
+(Curriculum and Graduation Requirements)Foreign Language
+(Curriculum and Graduation Requirements)Math/Science
+(Faculty and Instruction)Full-Time Faculty
+(Faculty and Instruction)Part-Time Faculty
+(Faculty and Instruction)Full-Time Faculty with Ph.D./Terminal Degree
+(Faculty and Instruction)Regular Class Size
+(Faculty and Instruction)Discussion Section/Lab Class Size
+(Advanced Placement)International Baccalaureate
+(Advanced Placement)Advanced Placement (AP) Examinations
+(Advanced Placement)Sophomore Standing
+(Academic Resources)Library Available on Campus
+(Academic Resources)Holdings
+(Academic Resources)Computer Ownership
+(Academic Resources)Computers Available on Campus
+(Academic Resources)Internet/E-mail Access
+(Academic Support Services)Remedial Instruction
+(Academic Support Services)Tutoring
+(Academic Support Services)Services for Learning Disabled Students
+(Academic Support Services)Services for Physically Disabled Students
+(Graduate/Professional School Education)Master's Degrees Offered
+(Graduate/Professional School Education)Master's Programs of Study
+(Graduate/Professional School Education)Doctoral Degrees Offered 
+(Graduate/Professional School Education)Doctoral Programs of Study
+(Location and Setting)Canyon Population
+(Location and Setting)Nearest Metropolitan Area
+(Location and Setting)Campus Size
+(Location and Setting)(Weather)Temperature
+(Location and Setting)(Weather)Rain
+(Location and Setting)(Getting Around)Campus Map
+(Location and Setting)(Getting Around)Nearest Bus Station
+(Location and Setting)(Getting Around)Nearest Train Station
+(Housing)College Housing
+(Housing)Types of Housing
+(Housing)Students in College Housing
+(Housing)Housing Requirements
+(Housing)Freshman Housing Guarantee
+(Housing)Students Living Off Campus/Commuting
+(Housing)Off-Campus Housing Assistance
+(Security)24-Hour Emergency Phone/Alarm Devices
+(Security)24-Hour Security Patrols
+(Security)Late-Night Transport/Escort Services
+(Security)Electronically Operated Housing Entrances
+(Security)Other
+(Personal Support Services)Health Service
+(Personal Support Services)Personal Counseling
+(Personal Support Services)Child Care
+(Sports and Recreation)(Intercollegiate Athletics)Athletic Conferences
+(Sports and Recreation)(Intercollegiate Athletics)Mascot
+(Sports and Recreation)(Intercollegiate Athletics)School Colors
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Baseball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Basketball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Cross-Country Running
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Equestrian Sports
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Football
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Golf
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Soccer
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Softball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Track And Field
+(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Volleyball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Baseball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Basketball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Cross-Country Running
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Equestrian Sports
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Football
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Golf
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Soccer
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Softball
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Track And Field
+(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Volleyball
+(Sports and Recreation)(Intercollegiate Sports Offered)Women's Club Sports
+(Sports and Recreation)(Intercollegiate Sports Offered)Men's Club Sports
+(Sports and Recreation)(Recreational Sports)Intramural Sports
+(Student Activities)Activities and Organizations
+(Student Activities)Sororities
+(Student Activities)Fraternities
+(Student Activities)ROTC
+(Student Body)Coeducational
+(Student Body)All Undergraduates
+(Student Body)(All Undergraduates)Women
+(Student Body)(All Undergraduates)Men
+(Student Body)Full-Time Undergraduates
+(Student Body)Ethnicity of Students from U.S.
+(Student Body)International Students.
+(Student Body)Average Age
+(Student Body)All Graduate Students
+(Undergraduate Retention and Graduation)First-Year Students Returning
+(Undergraduate Retention and Graduation)Students Graduating Within 4 Years
+(Undergraduate Retention and Graduation)Students Graduating Within 5 Years
+(Undergraduate Retention and Graduation)Students Graduating Within 6 Years
+(After Graduation)(Recreational Sports)Graduates Offered Full-Time Employment Within 6 Months
+(After Graduation)(Graduates Offered Full-Time Employment Within 6 Months)Average Starting Salary
+(After Graduation)(Recreational Sports)Graduates Pursuing Advanced Study Directly
+(After Graduation)(Recreational Sports)Disciplines Pursued

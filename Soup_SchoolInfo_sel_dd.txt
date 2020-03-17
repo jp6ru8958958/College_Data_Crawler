@@ -1,0 +1,632 @@
+0
+High school diploma required and GED is accepted
+
+1
+College preparatory program is required
+
+2
+2501 4th Avenue
+
+3
+Canyon, TX 79015
+
+4
+(806) 651-2020
+
+5
+(806) 651-2126
+
+6
+
+admissions@wtamu.edu
+
+
+7
+Rolling
+
+8
+$40
+
+9
+Available
+
+10
+Rolling
+
+11
+Not reported
+
+12
+No
+
+13
+Student can defer admission
+
+14
+Transfer applications accepted
+
+15
+No
+
+16
+ 
+
+17
+ 
+
+18
+No
+
+19
+ 
+
+20
+ 
+
+21
+Not accepted
+
+22
+Not accepted
+
+23
+
+Available
+
+
+24
+Not Required
+
+25
+ 
+
+26
+ 
+
+27
+Class rank and Texas high school curriculum or equivalent required for freshmen
+
+28
+Financial need is not a consideration in the admissions process
+
+29
+61% of 6,116 applicants were admitted
+
+30
+63% of 3,474 applicants were admitted
+
+31
+59% of 2,642 applicants were admitted
+
+32
+1,557 (41%) of 3,753 admitted students enrolled
+
+33
+860 (39%) of 2,192 admitted students enrolled
+
+34
+697 (45%) of 1,561 admitted students enrolled
+
+35
+ 
+
+36
+ 
+
+37
+ 
+
+38
+ 
+
+39
+ 
+
+40
+Not reported
+
+41
+33%
+
+42
+24%
+
+43
+18%
+
+44
+12%
+
+45
+10%
+
+46
+3%
+
+47
+490-580 range of middle 50%
+
+48
+2%
+
+49
+18%
+
+50
+52%
+
+51
+26%
+
+52
+3%
+
+53
+0%
+
+54
+538 average 490-590 range of middle 50%
+
+55
+2%
+
+56
+19%
+
+57
+52%
+
+58
+24%
+
+59
+2%
+
+60
+0%
+
+61
+21 average 19-23 range of middle 50%
+
+62
+2%
+
+63
+20%
+
+64
+63%
+
+65
+15%
+
+66
+0%
+
+67
+0%
+
+68
+Top tenth: 15%Top quarter: 43%Top half: 80%
+
+69
+Not reported
+
+70
+2%
+
+71
+Not reported
+
+72
+Not reported
+
+73
+In-state: $21,426Out-of-state: $23,012
+
+74
+In-state: $8,688Out-of-state: $10,274
+
+75
+$7,196
+
+76
+$1,000
+
+77
+$4,542
+
+78
+Installment plan
+
+79
+
+
+
+80
+
+Financial Aid Web Site
+
+
+81
+
+Net Price Calculator URL
+
+
+82
+Not reported
+
+83
+On a rolling basis beginning March 1
+
+84
+Federal Methodology
+
+85
+1,097 (87.8%) of freshmen
+
+86
+813 (76.1%) of applicants
+
+87
+795 (97.0%) of applicants with financial need
+
+88
+49 (11.4%) of aid recipients
+
+89
+62%
+
+90
+$9,866
+
+91
+Received by 663 (81.0%) of aid recipients, average amount $7,262
+
+92
+Received by 487 (62.4%) of aid recipients, average amount $3,164
+
+93
+Received by 449 (55.5%) of aid recipients
+
+94
+226 (13.8%) of freshmen had no financial need and received merit aid, average amount $2,952
+
+95
+4,407 (77.5%) of undergraduates
+
+96
+3,496 (79.3%) of applicants
+
+97
+3,427 (97.0%) of applicants with financial need
+
+98
+138 (8.8%) of aid recipients
+
+99
+57%
+
+100
+$9,366
+
+101
+Received by 2,864 (81.2%) of aid recipients, average amount $6,285
+
+102
+Received by 2,265 (67.7%) of aid recipients, average amount $4,165
+
+103
+Received by 1,325 (36.7%) of aid recipients
+
+104
+831 (11.9%) of undergraduates had no financial need and received merit aid, average amount $2,892
+
+105
+60%
+
+106
+ $23,670
+
+107
+Not reported
+
+108
+Not reported
+
+109
+Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans
+
+110
+Available
+
+111
+ 
+
+112
+Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships
+
+113
+None
+
+114
+Agriculture, Business, Communication, Computer Science, Education, Engineering/Technologies, English, Foreign Languages, Health Fields, Humanities, Mathematics, Physical Sciences, Premedicine, Social Sciences
+
+115
+Not reported
+
+116
+ 
+
+117
+Applied Art and Design, Cinema/Film/Broadcasting, Creative Writing, Dance, Debating, Journalism/Publications, Music, Theater/Drama
+
+118
+Not reported
+
+119
+ 
+
+120
+Cheerleading/Drum Major, Community Service, Hobbies/Interests, Leadership, Memberships, Religious Involvement, Rodeo
+
+121
+Not reported
+
+122
+ 
+
+123
+Children and Siblings of Alumni, Children of Faculty/Staff, Children of Union Members/Company Employees, Children of Workers in Trades, First-Generation College Students, Handicapped Students, International Students, Local/State Students, Out-of-State Students, Public Servants, Religious Affiliation, Veterans
+
+124
+Not reported
+
+125
+ 
+
+126
+Federal work study available, other work study available
+
+127
+Not reported
+
+128
+Semester
+
+129
+Offered
+
+130
+Online Catalog
+
+131
+Business/marketing, Health professions and related sciences, Liberal arts/general studies
+
+132
+None
+
+133
+Cooperative work study program, Distance learning, Double major, English as a second language, Honors program, Independent study, Internships, Study abroad, Summer session
+
+134
+Offered
+
+135
+Some online degree programs
+
+136
+Required for most or all students
+
+137
+Students not required to own/lease a computer
+
+138
+Not required
+
+139
+Required for all students
+
+140
+342
+
+141
+102
+
+142
+49%
+
+143
+2-9 students: 7% of classes10-19 students: 28% of classes20-29 students: 27% of classes 30-39 students: 19% of classes40-49 students: 9% of classes50-99 students: 9% of classesOver 100 students: 1% of classes
+
+144
+2-9 students: 3% of discussion sections/labs10-19 students: 39% of discussion sections/labs20-29 students: 49% of discussion sections/labs30-39 students: 8% of discussion sections/labs40-49 students: 2% of discussion sections/labs
+
+145
+Not reported
+
+146
+Accepted for placement and credit
+
+147
+Available through AP examinations
+
+148
+Yes
+
+149
+846,998
+
+150
+Students not required to own/lease a computer
+
+151
+1200
+
+152
+Not reported
+
+153
+Offered
+
+154
+Available
+
+155
+Available
+
+156
+Hearing impaired services, speech disorders services, visually impaired services, wheelchair access
+
+157
+13,857
+
+158
+
+
+159
+128 acres
+
+160
+24.6 average low in January, 90 average high in September
+
+161
+70 rainy days per year
+
+162
+
+Not reported
+
+
+163
+1 mile(s) from campus in Canyon
+
+164
+
+
+165
+College offers housing to students
+
+166
+Men only housing, women only housing, coed housing, disabled student housing
+
+167
+ 26% of all students
+
+168
+Freshmen and sophomores are required to live on campus
+
+169
+Freshmen are guaranteed housing
+
+170
+74%
+
+171
+ 
+
+172
+Available
+
+173
+Available
+
+174
+Available
+
+175
+Available
+
+176
+ 
+
+177
+Offered
+
+178
+Offered
+
+179
+Offered
+
+180
+NCAA Division II
+
+181
+Buffalo
+
+182
+Maroon and white
+
+183
+bowling
+
+184
+bowling, equestrian sports
+
+185
+badminton, basketball, bowling, football, golf, racquetball, soccer, softball, swimming and diving, table tennis, tennis, volleyball, wrestling
+
+186
+choral groups, marching band, drama theatre, radio station, student newspaper, national fraternities, national sororities, residence hall association, wesley, student government, sage, baptist student ministries
+
+187
+6% of women participate
+
+188
+ 6% of men participate
+
+189
+ 
+
+190
+Yes
+
+191
+7,394
+
+192
+4,229 (57.2%)
+
+193
+3,165 (42.8%)
+
+194
+5,615
+
+195
+0.5% American Indian/Alaskan Native1.8% Asian4.9% Black/African-American29.0% Hispanic/Latino2.8% Multi-race (not Hispanic/Latino)0.1% Native Hawaiian/ Pacific Islander59.2% White1.7% Unknown
+
+196
+1.8% from 65 countries
+
+197
+23
+
+198
+2,666
+
+199
+64.0%
+
+200
+ 25.2%
+
+201
+36.7%
+
+202
+ 41.0%
+
+203
+85%
+
+204
+85%
+
+205
+9.1%
+
+206
+Not reported
+
