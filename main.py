@@ -32,6 +32,7 @@ def set_data(csvWriter, url, data, save_pos):
 	sel_a = soup.select('a')
 	sel_dd = soup.find_all('dd')[33::]
 	sel_td = soup.find_all('td')[5::]
+	sel_td_sport = soup.select('td.text-center.text-uppercase')
 	sel_span = soup.find_all('span')
 	sel_statbar = soup.select('.statbar__item')
 	sel_statbar_sex_prop = soup.select('div b')
@@ -104,22 +105,17 @@ def set_data(csvWriter, url, data, save_pos):
 				save_pos = save_data(data, sel_dd[dd].text, save_pos)
 				continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
-	start = 0
-	for scan in range(160, 250):
-		if sel_td[scan].text == 'Baseball':
-			start =scan
-			break
-	for i in range(start, start+60, 3):
+	print(len(sel_td_sport))
+	for i in range(0, 40, 2):
 		text = ''
-		if sel_td[i+1].text == 'x': 
+		if sel_td_sport[i].text == 'x':
 			text += 'Offered;'
-		if sel_td[i+2].text == 'x':
+		if sel_td_sport[i+1].text == 'x':
 			text += 'Scholarships;'
 		save_pos = save_data(data, text, save_pos)
 	for dd in range(183, 207):
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	csvWriter.writerow(data)
-
 
 def main():
 	data = ['']*311
