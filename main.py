@@ -12,17 +12,18 @@ def save_data(data_list, data, pos):
 	return pos+1
 
 def write_result_as_file( data_list, name):
-	# Write soup select/find's result as a txt file for testing.
+        # Write soup select/find's result as a txt file for testing.
 	wr = open(name, 'w')
 	for i in range(len(data_list)):
 		wr.write(str(i)+'\n')
 		wr.write(data_list[i].text+'\n\n')
 
 def set_field(csvWriter):
-	field_file = open('csvField.txt', 'r')
-	field_data = field_file.read().split('\n')
-	csvWriter.writerow(field_data)
-	field_file.close()
+        #Only need run one time.
+        field_file = open('csvField.txt', 'r')
+        field_data = field_file.read().split('\n')
+        csvWriter.writerow(field_data)
+        field_file.close()
 
 def set_data(csvWriter, url, data, save_pos):
 	school_info_html = requests.get('https://www.collegedata.com'+url)
@@ -104,7 +105,7 @@ def set_data(csvWriter, url, data, save_pos):
 				continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	start = 0
-	for scan in range(160, 260):
+	for scan in range(160, 250):
 		if sel_td[scan].text == 'Baseball':
 			start =scan
 			break
@@ -122,18 +123,19 @@ def set_data(csvWriter, url, data, save_pos):
 
 def main():
 	data = ['']*311
-	'''
+	
 	with requests.Session() as s:	
 	# Get search page's html by cookies.
-		account_info = json.load(open('..//..//Account.json'))
-		#Load my login info
+		# account_info = json.load(open('..//..//Account.json'))
+		# Load my login info
 		header={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) ""AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"}
-		logindata = {'LoginForm.LoginWithEmail': 'True', 'LoginForm.Username': account_info['CollegeData']['Email'], 'LoginForm.Email': account_info['CollegeData']['Email'], 'LoginForm.Password': account_info['CollegeData']['Password'], 'LoginForm.CanonicalUrl': '/en/explore-colleges/college-search/SearchByPreference/?SearchByPreference.SearchType=ByName&SearchByPreference.CollegeName=+', 'button': ''}
+		logindata = {'LoginForm.LoginWithEmail': 'True', 'LoginForm.Username': 'jp6ru8958958@gmail.com', 'LoginForm.Email': 'jp6ru8958958@gmail.com', 'LoginForm.Password': 'cd958958', 'LoginForm.CanonicalUrl': '/en/explore-colleges/college-search/SearchByPreference/?SearchByPreference.SearchType=ByName&SearchByPreference.CollegeName=+', 'button': ''}
 		p = s.post('https://www.collegedata.com/en/login/Submit/', headers=header, data=logindata)
 		response = s.get('https://www.collegedata.com/en/explore-colleges/college-search/SearchByPreference/?SearchByPreference.SearchType=ByName&SearchByPreference.CollegeName=+')
 	'''
 	response = open('Soup_search_html.txt', 'r')
-	soup = BeautifulSoup(response, 'html.parser')
+	'''
+	soup = BeautifulSoup(response.text, 'html.parser')
 	
 	school_name_list = soup.select('div.t-title__details a') # School's name and Schoolinfo's link['href'] list.
 	school_amount = int(len(school_name_list)/3)
@@ -144,7 +146,7 @@ def main():
 	# Csv file.
 	set_field(csvWriter)
 	# Set csv file's field.
-	for school in range(3): # school_amount
+	for school in range(10): # school_amount
 		save_pos = 0
 		save_pos = save_data(data, school_name_list[school].text, save_pos)
 		for vitals in range(2, 9):
