@@ -3,10 +3,9 @@ import json
 import csv
 from bs4 import BeautifulSoup
 
-
 def save_data(data_list, data, pos):
 	try:
-		data_list[pos] = data.replace('\xa0', '')
+		data_list[pos] = data.text
 	except:
 		data_list[pos] = data
 	return pos+1
@@ -16,7 +15,7 @@ def write_result_as_file( data_list, name):
 	wr = open(name, 'w')
 	for i in range(len(data_list)):
 		wr.write(str(i)+'\n')
-		wr.write(data_list[i].text+'\n\n')
+		wr.write(data_list[i].text.replace('\xa0', '')+'\n\n')
 
 def set_field(csvWriter):
         #Only need run one time.
@@ -26,30 +25,40 @@ def set_field(csvWriter):
         field_file.close()
 
 def set_data(csvWriter, url, data, save_pos):
+	print(data[0])
 	school_info_html = requests.get('https://www.collegedata.com'+url)
 	soup = BeautifulSoup(school_info_html.text, 'html.parser')
 	sel_p = soup.find_all('p')[64::]
+	sel_b = soup.find_all('b')
 	sel_a = soup.select('a')
 	sel_dd = soup.find_all('dd')[33::]
 	sel_td = soup.find_all('td')[5::]
-	sel_td_sport = soup.select('td.text-center.text-uppercase')
+	sel_tr = soup.find_all('tr')
 	sel_span = soup.find_all('span')
 	sel_statbar = soup.select('.statbar__item')
 	sel_statbar_sex_prop = soup.select('div b')
 	sel_ul = soup.select('ul.list--nice')
-	
 	overview_intro = soup.select('p.h6.mb-4')
 	save_pos = save_data(data, overview_intro[0].text.replace('\n', ''), save_pos)
 	overview_intro_webLink = soup.select('p.h6 a')
-	save_pos = save_data(data, overview_intro_webLink[0]['href'], save_pos)
+	try:
+		save_pos = save_data(data, overview_intro_webLink[0]['href'], save_pos)
+	except:
+		save_pos = save_data(data, '', save_pos)
 	save_pos = save_data(data, sel_statbar[0].text.replace('\n', ''), save_pos)
 	if sel_statbar[1].text.replace('\n', '')[0].isdigit():
 		save_pos = save_data(data, '', save_pos)
 	else:
 		save_pos = save_data(data, sel_statbar[1].text.replace('\n', ''), save_pos)
 	save_pos = save_data(data, sel_span[40].text, save_pos)
-	save_pos = save_data(data, sel_statbar_sex_prop[0].text + sel_span[42].text.replace(' Women', ''), save_pos)
-	save_pos = save_data(data, sel_statbar_sex_prop[1].text + sel_span[43].text.replace(' Men', ''), save_pos)
+	try:
+		save_pos = save_data(data, sel_b[0].text + sel_span[42].text.replace(' Women', ''), save_pos)
+	except:
+		save_pos = save_data(data, 'Not reported' + sel_span[42].text.replace(' Women', ''), save_pos)
+	try:
+		save_pos = save_data(data, sel_b[1].text + sel_span[43].text.replace(' Men', ''), save_pos)
+	except:
+		save_pos = save_data(data, 'Not reported' + sel_span[42].text.replace(' Women', ''), save_pos)
 	save_pos = save_data(data, sel_span[44].text.replace('\n', ''), save_pos)
 	save_pos = save_data(data, sel_p[0].text, save_pos)
 	for dd in range(2):
@@ -61,7 +70,10 @@ def set_data(csvWriter, url, data, save_pos):
 		save_pos = save_data(data, sel_td[td+1].text, save_pos)
 	for dd in range(2, 29):
 		if dd == 23:
-			save_pos = save_data(data, sel_a[137]['href'], save_pos)
+			try:
+				save_pos = save_data(data, sel_a[137]['href'], save_pos)
+			except:
+				save_pos = save_data(data, '', save_pos)
 			continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	for td in range(42, 137, 5):
@@ -99,27 +111,51 @@ def set_data(csvWriter, url, data, save_pos):
 	for dd in range(157, 183):
 		if dd == 162:
 			try:
-				save_pos = save_data(data, sel_a[141]['href'])
+				save_pos = save_data(data, sel_a[141]['href'], save_pos)
 				continue
 			except:
 				save_pos = save_data(data, sel_dd[dd].text, save_pos)
 				continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
-	print(len(sel_td_sport))
-	for i in range(0, 40, 2):
-		text = ''
-		if sel_td_sport[i].text == 'x':
-			text += 'Offered;'
-		if sel_td_sport[i+1].text == 'x':
-			text += 'Scholarships;'
-		save_pos = save_data(data, text, save_pos)
+	find_sport_form_beg_end = []
+	for i in range(len(sel_tr)):
+		if 'Offered' in sel_tr[i].text:
+			find_sport_form_beg_end.append(i)	
+	sport_women = ''
+	sport_men = ''
+	for i in range(find_sport_form_beg_end[0]+1, find_sport_form_beg_end[1]):
+		sport_info = sel_tr[i].text.split('\n')
+		sport_women += sport_info[1] + ':'
+		sport_men += sport_info[1] + ':'
+		pre = False
+		if sport_info[2] == 'x':
+			sport_women += 'Offered'
+			pre = True
+		if sport_info[3] == 'x':
+			if pre == True:
+				sport_women += ','
+			sport_women += 'Scholarships'
+		pre = False
+		if sport_info[4] == 'x':
+			sport_men += 'Offered'
+			pre = True
+		if sport_info[5] == 'x':
+			if pre == True:
+				sport_men += ','
+			sport_men += 'Scholarships'
+		sport_women += '; '
+		sport_men += '; '
+	save_pos = save_data(data, sport_women, save_pos)
+	save_pos = save_data(data, sport_men, save_pos)
 	for dd in range(183, 207):
-		save_pos = save_data(data, sel_dd[dd].text, save_pos)
+		try:
+			save_pos = save_data(data, sel_dd[dd].text, save_pos)
+		except:
+			pass
 	csvWriter.writerow(data)
 
 def main():
 	data = ['']*311
-	
 	with requests.Session() as s:	
 	# Get search page's html by cookies.
 		# account_info = json.load(open('..//..//Account.json'))
@@ -137,12 +173,13 @@ def main():
 	school_amount = int(len(school_name_list)/3)
 	school_search_info_data = soup.select('td')[5::]
 	# Write_result_as_file(school_name_list, 'Soup_search_school_name_list.txt')
-	csvFile = open('cms_scrapy.csv', 'w')
+	csvFile = open('cms_scrapy.csv', 'w', encoding='utf-8')
 	csvWriter = csv.writer(csvFile)
 	# Csv file.
 	set_field(csvWriter)
 	# Set csv file's field.
-	for school in range(10): # school_amount
+	for school in range(school_amount): # school_amount
+		print('(',school,'/',school_amount,')')
 		save_pos = 0
 		save_pos = save_data(data, school_name_list[school].text, save_pos)
 		for vitals in range(2, 9):
