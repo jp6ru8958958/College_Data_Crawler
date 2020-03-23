@@ -157,8 +157,7 @@ number_of_guaduate_students
 (Applying for Financial Aid)(Application Process)Parents of Students Receiving Aid
 (Applying for Financial Aid)(Application Process)Parents of Students Not Receiving Aid
 (Applying for Financial Aid)(Application Process)Federal Loans
-(Applying for Financial Aid)(Forms Required)
-(Applying for Financial Aid)(Cost to File)
+(Applying for Financial Aid)(Forms Required)(Cost to File)
 (Profile of 2018 - 19 Financial Aid)(Freshman)Financial Aid Applicants
 (Profile of 2018 - 19 Financial Aid)(Freshman)Found to Have Financial Need
 (Profile of 2018 - 19 Financial Aid)(Freshman)Received Financial Aid
@@ -262,26 +261,8 @@ number_of_guaduate_students
 (Sports and Recreation)(Intercollegiate Athletics)Athletic Conferences
 (Sports and Recreation)(Intercollegiate Athletics)Mascot
 (Sports and Recreation)(Intercollegiate Athletics)School Colors
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Baseball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Basketball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Cross-Country Running
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Equestrian Sports
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Football
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Golf
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Soccer
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Softball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Track And Field
-(Sports and Recreation)(Intercollegiate Sports Offered)(Women)Volleyball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Baseball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Basketball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Cross-Country Running
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Equestrian Sports
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Football
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Golf
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Soccer
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Softball
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Track And Field
-(Sports and Recreation)(Intercollegiate Sports Offered)(Men)Volleyball
+(Sports and Recreation)(Intercollegiate Sports Offered)Women
+(Sports and Recreation)(Intercollegiate Sports Offered)Men
 (Sports and Recreation)(Intercollegiate Sports Offered)Women's Club Sports
 (Sports and Recreation)(Intercollegiate Sports Offered)Men's Club Sports
 (Sports and Recreation)(Recreational Sports)Intramural Sports
