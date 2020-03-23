@@ -15,7 +15,7 @@ def write_result_as_file( data_list, name):
 	wr = open(name, 'w')
 	for i in range(len(data_list)):
 		wr.write(str(i)+'\n')
-		wr.write(data_list[i].text.replace('\xa0', '')+'\n\n')
+		wr.write(data_list[i].text+'\n\n')
 
 def set_field(csvWriter):
         #Only need run one time.
@@ -36,7 +36,6 @@ def set_data(csvWriter, url, data, save_pos):
 	sel_tr = soup.find_all('tr')
 	sel_span = soup.find_all('span')
 	sel_statbar = soup.select('.statbar__item')
-	sel_statbar_sex_prop = soup.select('div b')
 	sel_ul = soup.select('ul.list--nice')
 	overview_intro = soup.select('p.h6.mb-4')
 	save_pos = save_data(data, overview_intro[0].text.replace('\n', ''), save_pos)
@@ -71,7 +70,11 @@ def set_data(csvWriter, url, data, save_pos):
 	for dd in range(2, 29):
 		if dd == 23:
 			try:
-				save_pos = save_data(data, sel_a[137]['href'], save_pos)
+				if sel_a[137]['href'][0:8] == '/en/data':
+					text = ''
+				else:
+					text = sel_a[137]['href']
+				save_pos = save_data(data, text, save_pos)
 			except:
 				save_pos = save_data(data, '', save_pos)
 			continue
@@ -84,34 +87,63 @@ def set_data(csvWriter, url, data, save_pos):
 				break
 		save_pos = save_data(data, Xpos, save_pos)
 	for dd in range(29, 85):
-		if dd == 80 or dd == 81:
+		if dd == 79:
+			if sel_dd[dd].text.replace('\n','') == 'Financial Aid Web Site':
+				text = ''
+			else:
+				text = sel_dd[dd].text
+			save_pos = save_data(data, text, save_pos)
+			continue
+		if dd == 80:
 			try:
-				save_pos = save_data(data, sel_a[dd+58]['href'], save_pos)
-				continue
+				if sel_a[138]['href'][0:8] == '/en/data':
+					text = ''
+				else:
+					text = sel_a[138]['href'].replace('\n', '').replace('Financial Aid Web Site', '')
+				save_pos = save_data(data, text, save_pos)
 			except:
-				save_pos = save_data(data, sel_dd[dd].text, save_pos)
-				continue
+				save_pos = save_data(data, '', save_pos)
+			continue
+		if dd == 81:
+			try:
+				if sel_a[dd+58]['href'][0:8] == '/en/data':
+					text = ''
+				else:
+					text = sel_a[dd+58]['href']
+				save_pos = save_data(data, text, save_pos)
+			except:
+				if sel_dd[dd].text.replace('\n', '') == 'Net Price Calculator URL':
+					text = ''
+				save_pos = save_data(data, text, save_pos)
+			continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	for td in range(137, 139):
 		save_pos = save_data(data, sel_td[td].text, save_pos)
 	for dd in range(85, 130):
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	try:
-		save_pos = save_data(data, sel_a[140]['href'], save_pos)
+		if sel_a[140]['href'][0:8] == '/en/data':
+			text = ''
+		else:
+			text = sel_a[140]['href']
+		save_pos = save_data(data, text, save_pos)
 	except:
 		save_pos = save_data(data, sel_dd[130].text, save_pos)
-		
 	save_pos = save_data(data, sel_ul[0].text.replace('\n', ';')[1::] + ',' + sel_ul[1].text.replace('\n', ';'), save_pos)
 	for dd in range(131 ,157):
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	save_pos = save_data(data, sel_p[1].text, save_pos)
-	save_pos = save_data(data, sel_ul[2].text.replace('\n' , ';')[1::] + sel_ul[3].text.replace('\n', ';'), save_pos)
+	save_pos = save_data(data, sel_ul[2].text.replace('\n', ';')[1::] + sel_ul[3].text.replace('\n', ';'), save_pos)
 	save_pos = save_data(data, sel_p[2].text, save_pos)
-	save_pos = save_data(data, sel_ul[4].text.replace('\n' , ';')[1::], save_pos)
+	save_pos = save_data(data, sel_ul[4].text.replace('\n', ';')[1::], save_pos)
 	for dd in range(157, 183):
 		if dd == 162:
 			try:
-				save_pos = save_data(data, sel_a[141]['href'], save_pos)
+				if sel_a[141]['href'][0:8] == '/en/data':
+					text = ''
+				else:
+					text = sel_a[141]['href']
+				save_pos = save_data(data, text, save_pos)
 				continue
 			except:
 				save_pos = save_data(data, sel_dd[dd].text, save_pos)
@@ -168,12 +200,11 @@ def main():
 	response = open('Soup_search_html.txt', 'r')
 	'''
 	soup = BeautifulSoup(response.text, 'html.parser')
-	
 	school_name_list = soup.select('div.t-title__details a') # School's name and Schoolinfo's link['href'] list.
 	school_amount = int(len(school_name_list)/3)
 	school_search_info_data = soup.select('td')[5::]
 	# Write_result_as_file(school_name_list, 'Soup_search_school_name_list.txt')
-	csvFile = open('cms_scrapy.csv', 'w', encoding='utf-8')
+	csvFile = open('cms_scrapy.csv', 'w', encoding='utf_8_sig')
 	csvWriter = csv.writer(csvFile)
 	# Csv file.
 	set_field(csvWriter)
