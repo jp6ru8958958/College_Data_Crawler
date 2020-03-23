@@ -117,8 +117,14 @@ def set_data(csvWriter, url, data, save_pos):
 				save_pos = save_data(data, text, save_pos)
 			continue
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
-	for td in range(137, 139):
-		save_pos = save_data(data, sel_td[td].text, save_pos)
+	text = ''
+	for td in range(137, 150, 2):
+		if sel_td[td].text == 'Baseball':
+			save_pos = save_data(data, text, save_pos)
+			break
+		text += sel_td[td].text + ':'
+		text += sel_td[td+1].text + ';'
+	
 	for dd in range(85, 130):
 		save_pos = save_data(data, sel_dd[dd].text, save_pos)
 	try:
